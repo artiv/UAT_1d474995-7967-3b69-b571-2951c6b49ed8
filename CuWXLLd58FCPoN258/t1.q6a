@@ -430,7 +430,64 @@
 			]
 		},
 		"fileTemplatePublish": {
-			"fileTemplateTypes": []
+			"fileTemplateTypes": [
+				{
+					"publishTypeGeneral": {
+						"publishTypeGuid": "0155a93e-8efd-cca3-27da-5fc4005cac49",
+						"publishTypeType": "markdown"
+					},
+					"publishTypeMeta": {
+						"publishTypeCanRevert": false,
+						"publishTypeCanFork": false
+					},
+					"publishTypeSpecific": {
+						"publishTypeName": "md",
+						"publishTypeFrontMatter": [
+							"4fce452e-3c33-dfdd-f4db-415461bfb176",
+							"b93fe407-db8b-3432-bc6a-25d8045593b0",
+							"91360f86-b090-6b3f-19e9-b18aa5f8aa40",
+							"be703f09-00fe-75d0-26e3-afc70e59afd5",
+							"5ac843bb-9905-682f-7311-8d10cd279809",
+							"8de9eae1-1417-7d01-77d5-76ec82c1c78e",
+							"4ce8345c-dea1-c130-c409-2ef3447a15d0",
+							"972795f4-2e15-c4fc-bc67-aa0bd3581c9d"
+						],
+						"publishTypeBackMatter": [
+							"2dff516f-59e0-ce62-2306-fc5b3602d96b",
+							"891831ab-765d-39dd-c1f2-56c4e2c5c901"
+						],
+						"publishTypeTargets": []
+					}
+				},
+				{
+					"publishTypeGeneral": {
+						"publishTypeGuid": "4f6fc812-dd31-f902-adfc-218c38bb162a",
+						"publishTypeType": "json"
+					},
+					"publishTypeMeta": {
+						"publishTypeCanRevert": false,
+						"publishTypeCanFork": false
+					},
+					"publishTypeSpecific": {
+						"publishTypeName": "",
+						"publishTypeFrontMatter": [
+							"4fce452e-3c33-dfdd-f4db-415461bfb176",
+							"b93fe407-db8b-3432-bc6a-25d8045593b0",
+							"91360f86-b090-6b3f-19e9-b18aa5f8aa40",
+							"be703f09-00fe-75d0-26e3-afc70e59afd5",
+							"5ac843bb-9905-682f-7311-8d10cd279809",
+							"4ce8345c-dea1-c130-c409-2ef3447a15d0",
+							"8de9eae1-1417-7d01-77d5-76ec82c1c78e",
+							"972795f4-2e15-c4fc-bc67-aa0bd3581c9d"
+						],
+						"publishTypeBackMatter": [
+							"2dff516f-59e0-ce62-2306-fc5b3602d96b",
+							"891831ab-765d-39dd-c1f2-56c4e2c5c901"
+						],
+						"publishTypeTargets": []
+					}
+				}
+			]
 		}
 	}
 }
