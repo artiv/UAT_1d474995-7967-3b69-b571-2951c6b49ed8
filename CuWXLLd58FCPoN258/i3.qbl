@@ -419,7 +419,7 @@
 									"cropGravity": "",
 									"cropFixedX": "",
 									"cropFixedY": "",
-									"altText": "",
+									"altText": "How To Use Auto Overlay To Simplify Transcription",
 									"caption": "",
 									"seoSuffix": "how-to-use-auto-overlay-to-simplify-transcription_banner"
 								}
@@ -458,7 +458,437 @@
 					"fieldSpecific": {
 						"fieldInformation": "Please upload Text content?",
 						"fieldKey": "5c305285-a179-ee0b-0ed5-2161c77cb0bf",
-						"fieldValues": [],
+						"fieldValues": [
+							{
+								"entityMap": {
+									"0": {
+										"type": "LINK",
+										"mutability": "MUTABLE",
+										"data": {
+											"url": "https://www.osl.com/",
+											"targetOption": "_self"
+										}
+									},
+									"1": {
+										"type": "LINK",
+										"mutability": "MUTABLE",
+										"data": {
+											"url": "https://www.linkedin.com/company/oslbrokerage/",
+											"targetOption": "_self"
+										}
+									},
+									"2": {
+										"type": "IMAGE",
+										"mutability": "MUTABLE",
+										"data": {
+											"src": "https://res.cloudinary.com/qbl-media/video/upload/v1551760962/QBLM_website/ffmpeged_osl_zh_stripe.mp4",
+											"height": "auto",
+											"width": "auto",
+											"alt": "OSL: Chinese captions + blue overlay"
+										}
+									},
+									"3": {
+										"type": "LINK",
+										"mutability": "MUTABLE",
+										"data": {
+											"url": "https://www.qbl-media.com",
+											"targetOption": "_self"
+										}
+									},
+									"4": {
+										"type": "IMAGE",
+										"mutability": "MUTABLE",
+										"data": {
+											"src": "https://res.cloudinary.com/qbl-media/image/upload/v1551750151/QBLM_website/how-to-use-auto-overlay-to-simplify-transcription_1.jpg",
+											"height": "auto",
+											"width": "auto",
+											"alt": "Template showing language and structure options"
+										}
+									},
+									"5": {
+										"type": "IMAGE",
+										"mutability": "MUTABLE",
+										"data": {
+											"src": "https://res.cloudinary.com/qbl-media/image/upload/v1551760881/QBLM_website/how-to-use-auto-overlay-to-simplify-transcription_4.jpg",
+											"height": "auto",
+											"width": "auto",
+											"alt": "OSL: Changing captions"
+										}
+									},
+									"6": {
+										"type": "IMAGE",
+										"mutability": "MUTABLE",
+										"data": {
+											"src": "https://res.cloudinary.com/qbl-media/video/upload/v1551760962/QBLM_website/ffmpeged_osl_zh_stripe.mp4",
+											"height": "auto",
+											"width": "auto",
+											"alt": "OSL: Now with Chinse captions"
+										}
+									},
+									"7": {
+										"type": "LINK",
+										"mutability": "MUTABLE",
+										"data": {
+											"url": "https://www.qbl-media.com/ai-transcription-and-translation/",
+											"targetOption": "_self"
+										}
+									},
+									"8": {
+										"type": "LINK",
+										"mutability": "MUTABLE",
+										"data": {
+											"url": "mailto:support@q6a.com.au",
+											"targetOption": "_self"
+										}
+									}
+								},
+								"blocks": [
+									{
+										"key": "8umaf",
+										"text": "Introduction",
+										"type": "header-one",
+										"depth": 0,
+										"inlineStyleRanges": [],
+										"entityRanges": [],
+										"data": {}
+									},
+									{
+										"key": "5f6va",
+										"text": "We got this video from OSL brokerage  LinkedIn page. We are n ot suggesting that we have any relationship with OSL, and largely, we are using this content to demonstrate the process by which video content can be translated.",
+										"type": "unstyled",
+										"depth": 0,
+										"inlineStyleRanges": [],
+										"entityRanges": [
+											{
+												"offset": 23,
+												"length": 15,
+												"key": 0
+											},
+											{
+												"offset": 38,
+												"length": 13,
+												"key": 1
+											}
+										],
+										"data": {}
+									},
+									{
+										"key": "5opg5",
+										"text": "This specific video already has captions, so we don't need these per se. However, we will be adding Chinese captions as an overlay, as opposed to captions.",
+										"type": "unstyled",
+										"depth": 0,
+										"inlineStyleRanges": [],
+										"entityRanges": [],
+										"data": {}
+									},
+									{
+										"key": "d6q5f",
+										"text": "The final output is shown below. The video covers news in a specialist topic, so the translation below is not accurate, but will be close. I have yet to meet an AI that understands the word 'Ethereum'. Additionally, the stripe shown in the video has not been optimised, it cuts 1/2 way through so that the process makes sense. In practise, `you would edit further to make it look nice`.",
+										"type": "unstyled",
+										"depth": 0,
+										"inlineStyleRanges": [
+											{
+												"offset": 4,
+												"length": 27,
+												"style": "CODE"
+											},
+											{
+												"offset": 139,
+												"length": 61,
+												"style": "CODE"
+											},
+											{
+												"offset": 220,
+												"length": 105,
+												"style": "CODE"
+											},
+											{
+												"offset": 341,
+												"length": 43,
+												"style": "CODE"
+											}
+										],
+										"entityRanges": [],
+										"data": {}
+									},
+									{
+										"key": "1v4lb",
+										"text": "",
+										"type": "unstyled",
+										"depth": 0,
+										"inlineStyleRanges": [],
+										"entityRanges": [],
+										"data": {}
+									},
+									{
+										"key": "bucft",
+										"text": " ",
+										"type": "atomic",
+										"depth": 0,
+										"inlineStyleRanges": [],
+										"entityRanges": [
+											{
+												"offset": 0,
+												"length": 1,
+												"key": 2
+											}
+										],
+										"data": {}
+									},
+									{
+										"key": "7u7ed",
+										"text": "",
+										"type": "unstyled",
+										"depth": 0,
+										"inlineStyleRanges": [],
+										"entityRanges": [],
+										"data": {}
+									},
+									{
+										"key": "eiv5c",
+										"text": "",
+										"type": "unstyled",
+										"depth": 0,
+										"inlineStyleRanges": [],
+										"entityRanges": [],
+										"data": {}
+									},
+									{
+										"key": "fjmce",
+										"text": "Steps",
+										"type": "header-two",
+										"depth": 0,
+										"inlineStyleRanges": [],
+										"entityRanges": [],
+										"data": {}
+									},
+									{
+										"key": "7hh6p",
+										"text": "1. Please direct your browser to www.qbl-media.com, and then click on the `Login` button. On successfully logging into the application, `select the template`, and using the highlighted button, `Edit Template: myTemplate`.",
+										"type": "unstyled",
+										"depth": 0,
+										"inlineStyleRanges": [],
+										"entityRanges": [
+											{
+												"offset": 33,
+												"length": 17,
+												"key": 3
+											}
+										],
+										"data": {}
+									},
+									{
+										"key": "fno8u",
+										"text": "1. Check your template has the languages we need, English, and Chinese.",
+										"type": "unstyled",
+										"depth": 0,
+										"inlineStyleRanges": [],
+										"entityRanges": [],
+										"data": {}
+									},
+									{
+										"key": "eki5q",
+										"text": "   ",
+										"type": "unstyled",
+										"depth": 0,
+										"inlineStyleRanges": [],
+										"entityRanges": [],
+										"data": {}
+									},
+									{
+										"key": "89eqt",
+										"text": " ",
+										"type": "atomic",
+										"depth": 0,
+										"inlineStyleRanges": [],
+										"entityRanges": [
+											{
+												"offset": 0,
+												"length": 1,
+												"key": 4
+											}
+										],
+										"data": {}
+									},
+									{
+										"key": "d0dko",
+										"text": "",
+										"type": "unstyled",
+										"depth": 0,
+										"inlineStyleRanges": [],
+										"entityRanges": [],
+										"data": {}
+									},
+									{
+										"key": "8r5vt",
+										"text": "",
+										"type": "unstyled",
+										"depth": 0,
+										"inlineStyleRanges": [],
+										"entityRanges": [],
+										"data": {}
+									},
+									{
+										"key": "2vtlt",
+										"text": "",
+										"type": "unstyled",
+										"depth": 0,
+										"inlineStyleRanges": [],
+										"entityRanges": [],
+										"data": {}
+									},
+									{
+										"key": "3dv9s",
+										"text": "1. Upload the video, and trigger the transcription action. In this case, the speaker has a generic English accent, and often the best option here is to use either American English or British English. In the below, we used the American English. Note, its a `reasonable bet that the AI does not understand terms like Ethereum, so always get a subject matter expert to eyeball the results`.",
+										"type": "unstyled",
+										"depth": 0,
+										"inlineStyleRanges": [],
+										"entityRanges": [],
+										"data": {}
+									},
+									{
+										"key": "36jsa",
+										"text": "1. Now, because we have the captions, `trigger a translation to Chinese`. In this case, `we choose to translate into Simplified Chinese`.",
+										"type": "unstyled",
+										"depth": 0,
+										"inlineStyleRanges": [],
+										"entityRanges": [],
+										"data": {}
+									},
+									{
+										"key": "4ibbn",
+										"text": "1. This give us the following output. `It works, but is not exactly very good because this video already had captions`. Note, this is just an AI - much like the above step, please have a subject matter expert eyeball the content and fix it up. `Many of the words used in this context are specific, and it is a reasonable bet the AI will make mistakes`.",
+										"type": "unstyled",
+										"depth": 0,
+										"inlineStyleRanges": [],
+										"entityRanges": [],
+										"data": {}
+									},
+									{
+										"key": "3gk03",
+										"text": "1. How do we make this better? We `use the Auto-Overlay function`. `Trigger the auto-overlay`, and in this case, `select the stripe option`, as shown below.",
+										"type": "unstyled",
+										"depth": 0,
+										"inlineStyleRanges": [],
+										"entityRanges": [],
+										"data": {}
+									},
+									{
+										"key": "3oqt9",
+										"text": "",
+										"type": "unstyled",
+										"depth": 0,
+										"inlineStyleRanges": [],
+										"entityRanges": [],
+										"data": {}
+									},
+									{
+										"key": "3qpai",
+										"text": " ",
+										"type": "atomic",
+										"depth": 0,
+										"inlineStyleRanges": [],
+										"entityRanges": [
+											{
+												"offset": 0,
+												"length": 1,
+												"key": 5
+											}
+										],
+										"data": {}
+									},
+									{
+										"key": "8oi1o",
+										"text": "",
+										"type": "unstyled",
+										"depth": 0,
+										"inlineStyleRanges": [],
+										"entityRanges": [],
+										"data": {}
+									},
+									{
+										"key": "8i0g5",
+										"text": "1. This is the resulting output. `You can see that this is obviously NOT optimised, but both the Chinese overlay, and the original captioning can be seen for demonstration purposes`.",
+										"type": "unstyled",
+										"depth": 0,
+										"inlineStyleRanges": [],
+										"entityRanges": [],
+										"data": {}
+									},
+									{
+										"key": "d9s2i",
+										"text": " ",
+										"type": "atomic",
+										"depth": 0,
+										"inlineStyleRanges": [],
+										"entityRanges": [
+											{
+												"offset": 0,
+												"length": 1,
+												"key": 6
+											}
+										],
+										"data": {}
+									},
+									{
+										"key": "b3p8e",
+										"text": "",
+										"type": "unstyled",
+										"depth": 0,
+										"inlineStyleRanges": [],
+										"entityRanges": [],
+										"data": {}
+									},
+									{
+										"key": "9svok",
+										"text": "",
+										"type": "unstyled",
+										"depth": 0,
+										"inlineStyleRanges": [],
+										"entityRanges": [],
+										"data": {}
+									},
+									{
+										"key": "d2k5u",
+										"text": "Conclusion",
+										"type": "header-two",
+										"depth": 0,
+										"inlineStyleRanges": [],
+										"entityRanges": [],
+										"data": {}
+									},
+									{
+										"key": "6fq8g",
+										"text": "In this blog post we have covered how to add an audio overlay into your content. Please note, QBL Media makes `no representation of a relationship with OSL Brokerage`, we are simply using a `publicly available` content to do marketing on, because it allows us to showcase an interesting use case of the product.",
+										"type": "unstyled",
+										"depth": 0,
+										"inlineStyleRanges": [],
+										"entityRanges": [],
+										"data": {}
+									},
+									{
+										"key": "5majn",
+										"text": "If you are interested in trying out our technology, please sign up here  or drop us an email at support@q6a.com.au .",
+										"type": "unstyled",
+										"depth": 0,
+										"inlineStyleRanges": [],
+										"entityRanges": [
+											{
+												"offset": 59,
+												"length": 12,
+												"key": 7
+											},
+											{
+												"offset": 96,
+												"length": 18,
+												"key": 8
+											}
+										],
+										"data": {}
+									}
+								]
+							}
+						],
 						"fieldChildren": []
 					},
 					"fieldWorking": {
