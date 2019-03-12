@@ -219,7 +219,7 @@
 						"genericKey": "51767a90-c586-4fa7-dfa7-db061093a194",
 						"genericValues": [
 							{
-								"allowsMultiple": true,
+								"allowsMultiple": false,
 								"optionValues": [
 									{
 										"key": "true",
@@ -270,7 +270,7 @@
 						"genericKey": "054ff8b4-9b5e-010a-ca20-9ea5eed4befe",
 						"genericValues": [
 							{
-								"allowsMultiple": false,
+								"allowsMultiple": true,
 								"optionValues": [
 									{
 										"key": "QBL Media",
@@ -326,7 +326,7 @@
 						"genericKey": "00647bd7-d15f-4c69-c3e9-de84bb54afc1",
 						"genericValues": [
 							{
-								"allowsMultiple": false,
+								"allowsMultiple": true,
 								"optionValues": [
 									{
 										"key": "English",
