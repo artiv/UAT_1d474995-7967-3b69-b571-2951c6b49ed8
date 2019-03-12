@@ -222,18 +222,125 @@
 								"allowsMultiple": true,
 								"optionValues": [
 									{
-										"key": "Highlight",
-										"value": "Highlight",
+										"key": "true",
+										"value": "true",
 										"isTrue": false
 									},
 									{
-										"key": "Categories",
-										"value": "Categories",
+										"key": "false",
+										"value": "false",
+										"isTrue": false
+									}
+								]
+							}
+						]
+					},
+					"genericWorking": {
+						"genericOrderId": "",
+						"genericOrderComment": "",
+						"specificOrderComment": "",
+						"genericJobId": "",
+						"genericJobStatus": "",
+						"genericJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"genericGeneral": {
+						"genericGuid": "4ce8345c-dea1-c130-c409-2ef3447a15d0",
+						"genericType": "genericOption",
+						"genericIsVisibleCollections": [
+							"CuWXLLd58FCPoN258"
+						],
+						"genericIsEditableCollections": [
+							"CuWXLLd58FCPoN258"
+						],
+						"genericIsRequiredCollections": [],
+						"genericIsMultipleCollections": []
+					},
+					"genericMeta": {
+						"genericCanTranslate": true,
+						"genericCanParent": false,
+						"genericCanChild": false
+					},
+					"genericSpecific": {
+						"genericInformation": "Categories",
+						"genericChildren": [],
+						"genericParent": "",
+						"genericKey": "054ff8b4-9b5e-010a-ca20-9ea5eed4befe",
+						"genericValues": [
+							{
+								"allowsMultiple": false,
+								"optionValues": [
+									{
+										"key": "QBL Media",
+										"value": "QBL Media",
 										"isTrue": false
 									},
 									{
-										"key": "Tags",
-										"value": "Tags",
+										"key": "Enterprise",
+										"value": "Enterprise",
+										"isTrue": false
+									},
+									{
+										"key": "Video",
+										"value": "Video",
+										"isTrue": false
+									}
+								]
+							}
+						]
+					},
+					"genericWorking": {
+						"genericOrderId": "",
+						"genericOrderComment": "",
+						"specificOrderComment": "",
+						"genericJobId": "",
+						"genericJobStatus": "",
+						"genericJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"genericGeneral": {
+						"genericGuid": "972795f4-2e15-c4fc-bc67-aa0bd3581c9d",
+						"genericType": "genericOption",
+						"genericIsVisibleCollections": [
+							"CuWXLLd58FCPoN258"
+						],
+						"genericIsEditableCollections": [
+							"CuWXLLd58FCPoN258"
+						],
+						"genericIsRequiredCollections": [],
+						"genericIsMultipleCollections": []
+					},
+					"genericMeta": {
+						"genericCanTranslate": true,
+						"genericCanParent": false,
+						"genericCanChild": false
+					},
+					"genericSpecific": {
+						"genericInformation": "Tags",
+						"genericChildren": [],
+						"genericParent": "",
+						"genericKey": "00647bd7-d15f-4c69-c3e9-de84bb54afc1",
+						"genericValues": [
+							{
+								"allowsMultiple": false,
+								"optionValues": [
+									{
+										"key": "English",
+										"value": "English",
+										"isTrue": false
+									},
+									{
+										"key": "Chinese",
+										"value": "Chinese",
+										"isTrue": false
+									},
+									{
+										"key": "Dialects",
+										"value": "Dialects",
 										"isTrue": false
 									}
 								]
