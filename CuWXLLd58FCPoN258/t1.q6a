@@ -486,6 +486,22 @@
 						],
 						"publishTypeTargets": []
 					}
+				},
+				{
+					"publishTypeGeneral": {
+						"publishTypeGuid": "7efab873-ca5c-3cb0-f381-cf65c276b6e1",
+						"publishTypeType": "youtube"
+					},
+					"publishTypeMeta": {
+						"publishTypeCanRevert": false,
+						"publishTypeCanFork": false
+					},
+					"publishTypeSpecific": {
+						"publishTypeName": "",
+						"publishTypeFrontMatter": [],
+						"publishTypeBackMatter": [],
+						"publishTypeTargets": []
+					}
 				}
 			]
 		}
