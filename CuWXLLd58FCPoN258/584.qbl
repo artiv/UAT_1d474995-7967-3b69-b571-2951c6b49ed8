@@ -146,7 +146,56 @@
 								"original_filename": "ffmpeged_sampleVideo_oesszz",
 								"path": "v1552975542/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/sampleVideo_oesszz.mp4",
 								"thumbnail_url": "https://res.cloudinary.com/qblm/video/upload/c_limit,h_60,w_90/v1552975542/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/sampleVideo_oesszz.jpg",
-								"overlays": [],
+								"overlays": [
+									{
+										"isText": true,
+										"font": "Noto Sans",
+										"size": 18,
+										"color": {
+											"rgb": {
+												"r": 0,
+												"g": 0,
+												"b": 0,
+												"a": 1
+											},
+											"hex": "#000000"
+										},
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"isAttached": true,
+										"gravity": "north_west",
+										"crop": "scale",
+										"start_offset": "0",
+										"end_offset": "0",
+										"editorContent": {
+											"entityMap": {},
+											"blocks": [
+												{
+													"key": "89t0e",
+													"text": "whatever",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											]
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"text": "whatever"
+									}
+								],
 								"videoOverlays": [],
 								"audioOverlays": [],
 								"captions": {
