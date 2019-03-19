@@ -150,12 +150,12 @@
 								"videoOverlays": [],
 								"audioOverlays": [],
 								"captions": {
-									"captionString": "1\n00:00:03,000 --> 00:00:04,800\nI'm a cool\n\n2\n00:00:04,800 --> 00:00:05,900\nguy that's that's my\n\n3\n00:00:05,900 --> 00:00:06,300\nthing\n\n4\n00:00:07,400 --> 00:00:07,800\nI'm\n\n5\n00:00:07,800 --> 00:00:08,900\nhappy I surf",
+									"captionString": "1\n00:00:03,000 --> 00:00:04,800\nI'm a very cool\n\n2\n00:00:04,800 --> 00:00:05,900\nguy that's that's my\n\n3\n00:00:05,900 --> 00:00:06,300\nthing\n\n4\n00:00:07,400 --> 00:00:07,800\nI'm\n\n5\n00:00:07,800 --> 00:00:08,900\nhappy I surf",
 									"parsed": [
 										{
 											"start": 3000,
 											"end": 4800,
-											"text": "I'm a cool"
+											"text": "I'm a very cool"
 										},
 										{
 											"start": 4800,
