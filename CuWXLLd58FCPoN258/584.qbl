@@ -199,12 +199,12 @@
 								"videoOverlays": [],
 								"audioOverlays": [],
 								"captions": {
-									"captionString": "1\n00:00:03,000 --> 00:00:04,800\nI'm a very cool\n\n2\n00:00:04,800 --> 00:00:05,900\nguy that's that's my\n\n3\n00:00:05,900 --> 00:00:06,300\nthing\n\n4\n00:00:07,400 --> 00:00:07,800\nI'm\n\n5\n00:00:07,800 --> 00:00:08,900\nhappy I surf the web",
+									"captionString": "1\n00:00:03,000 --> 00:00:04,800\nI'm a very cool web\n\n2\n00:00:04,800 --> 00:00:05,900\nguy that's that's my\n\n3\n00:00:05,900 --> 00:00:06,300\nthing\n\n4\n00:00:07,400 --> 00:00:07,800\nI'm\n\n5\n00:00:07,800 --> 00:00:08,900\nhappy I surf the web",
 									"parsed": [
 										{
 											"start": 3000,
 											"end": 4800,
-											"text": "I'm a very cool"
+											"text": "I'm a very cool web"
 										},
 										{
 											"start": 4800,
@@ -239,18 +239,18 @@
 									},
 									"isAttached": true,
 									"asset": {
-										"public_id": "UAT_1d474995-7967-3b69-b571-2951c6b49ed8/ffmpeged_sampleVideo_oesszz_epdccl_en_BYhf.srt",
-										"version": 1553061648,
-										"signature": "9eaea7a81ab79679370747bd33ec0fa25612cc17",
+										"public_id": "UAT_1d474995-7967-3b69-b571-2951c6b49ed8/ffmpeged_sampleVideo_oesszz_cul84r_en_qCeD.srt",
+										"version": 1553063806,
+										"signature": "c58def8f650200c005390ae8ada1916ceb79142d",
 										"resource_type": "raw",
-										"created_at": "2019-03-20T06:00:48Z",
+										"created_at": "2019-03-20T06:36:46Z",
 										"tags": [],
-										"bytes": 231,
+										"bytes": 235,
 										"type": "upload",
-										"etag": "5858514a72aaa2c93af9ec7ec996298b",
+										"etag": "3751bf8a7b7e2bdea1480421c16563bc",
 										"placeholder": false,
-										"url": "http://res.cloudinary.com/qblm/raw/upload/v1553061648/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/ffmpeged_sampleVideo_oesszz_epdccl_en_BYhf.srt",
-										"secure_url": "https://res.cloudinary.com/qblm/raw/upload/v1553061648/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/ffmpeged_sampleVideo_oesszz_epdccl_en_BYhf.srt",
+										"url": "http://res.cloudinary.com/qblm/raw/upload/v1553063806/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/ffmpeged_sampleVideo_oesszz_cul84r_en_qCeD.srt",
+										"secure_url": "https://res.cloudinary.com/qblm/raw/upload/v1553063806/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/ffmpeged_sampleVideo_oesszz_cul84r_en_qCeD.srt",
 										"access_mode": "public"
 									}
 								},
