@@ -557,17 +557,22 @@
 									"seoSuffix": "samplevideo"
 								},
 								"underlay": {
-									"show": "background",
-									"gravity": "center",
+									"gravity": "south",
+									"x": 0,
+									"y": 0,
+									"height": 0,
+									"width": 0,
+									"show": "stripe",
 									"boxcolor": {
+										"hex": "#f50808",
 										"rgb": {
 											"r": 245,
 											"g": 8,
 											"b": 8,
-											"a": 1
-										},
-										"hex": "#f50808"
-									}
+											"a": 0.3
+										}
+									},
+									"useXY": false
 								}
 							}
 						],
