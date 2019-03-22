@@ -201,11 +201,10 @@
 										"y": "0",
 										"width": "default",
 										"height": "default",
-										"hasChanged": true,
 										"isAttached": true,
 										"gravity": "center",
 										"crop": "scale",
-										"text": "I'm a very cool web",
+										"text": "happy I surf the web",
 										"font": "Noto Sans",
 										"size": 14,
 										"color": {
@@ -222,8 +221,8 @@
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "5gln7",
-													"text": "I'm a very cool web",
+													"key": "52b1v",
+													"text": "happy I surf the web",
 													"type": "unstyled",
 													"depth": 0,
 													"inlineStyleRanges": [],
@@ -236,19 +235,17 @@
 											"BOLD": false,
 											"ITALIC": false,
 											"UNDERLINE": false,
-											"STRIKETHROUGH": false,
-											"CODE": false,
-											"SUPERSCRIPT": false,
-											"SUBSCRIPT": false
+											"STRIKETHROUGH": false
 										},
 										"editorOthers": {
 											"language": "en",
 											"inputMethod": "system"
 										},
 										"isText": true,
-										"start_offset": 3,
-										"end_offset": 4.8,
-										"isAutoOverlayed": true
+										"start_offset": 7.8,
+										"end_offset": 8.9,
+										"isAutoOverlayed": true,
+										"matchUnderlay": false
 									},
 									{
 										"x": "0",
