@@ -564,8 +564,8 @@
 									"gravity": "south",
 									"x": "10",
 									"y": "20",
-									"height": "100",
-									"width": "600",
+									"height": "20%",
+									"width": "90%",
 									"show": "stripe",
 									"boxcolor": {
 										"hex": "#f50808",
