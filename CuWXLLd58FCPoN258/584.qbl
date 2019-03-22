@@ -305,7 +305,6 @@
 										"y": "0",
 										"width": "default",
 										"height": "default",
-										"hasChanged": true,
 										"isAttached": true,
 										"gravity": "center",
 										"crop": "scale",
@@ -321,7 +320,7 @@
 												"a": 1
 											}
 										},
-										"useXY": false,
+										"useXY": true,
 										"editorContent": {
 											"entityMap": {},
 											"blocks": [
@@ -340,19 +339,17 @@
 											"BOLD": false,
 											"ITALIC": false,
 											"UNDERLINE": false,
-											"STRIKETHROUGH": false,
-											"CODE": false,
-											"SUPERSCRIPT": false,
-											"SUBSCRIPT": false
+											"STRIKETHROUGH": false
 										},
 										"editorOthers": {
 											"language": "en",
 											"inputMethod": "system"
 										},
 										"isText": true,
-										"start_offset": 5.9,
-										"end_offset": 6.3,
-										"isAutoOverlayed": true
+										"start_offset": "0",
+										"end_offset": "6",
+										"isAutoOverlayed": true,
+										"matchUnderlay": false
 									},
 									{
 										"x": "0",
