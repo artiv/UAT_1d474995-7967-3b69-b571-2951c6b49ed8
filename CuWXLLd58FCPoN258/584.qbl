@@ -160,15 +160,15 @@
 											},
 											"hex": "#000000"
 										},
-										"x": "0",
-										"y": "0",
+										"x": "80",
+										"y": "80",
 										"width": "default",
 										"height": "default",
 										"isAttached": true,
 										"gravity": "north_west",
 										"crop": "scale",
 										"start_offset": "0",
-										"end_offset": "0",
+										"end_offset": "30",
 										"editorContent": {
 											"entityMap": {},
 											"blocks": [
@@ -193,7 +193,8 @@
 											"language": "en",
 											"inputMethod": "system"
 										},
-										"text": "whatever"
+										"text": "whatever",
+										"useXY": true
 									},
 									{
 										"x": "0",
