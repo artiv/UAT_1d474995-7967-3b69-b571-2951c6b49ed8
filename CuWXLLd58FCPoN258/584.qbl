@@ -560,10 +560,10 @@
 								},
 								"underlay": {
 									"gravity": "south",
-									"x": 0,
-									"y": 0,
-									"height": 0,
-									"width": 0,
+									"x": "10",
+									"y": "20",
+									"height": "100",
+									"width": "600",
 									"show": "stripe",
 									"boxcolor": {
 										"hex": "#f50808",
@@ -574,7 +574,7 @@
 											"a": 0.3
 										}
 									},
-									"useXY": false
+									"useXY": true
 								}
 							}
 						],
