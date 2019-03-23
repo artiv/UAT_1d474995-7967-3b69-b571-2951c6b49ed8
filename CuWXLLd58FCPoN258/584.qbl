@@ -619,12 +619,12 @@
 								"audioOverlays": [],
 								"captions": {
 									"font": "Noto Sans",
-									"captionString": "1\n00:00:00,000 --> 00:00:05,800\nphotographer\n\n2\n00:00:05,800 --> 00:00:06,300\nnear\n\n3\n00:00:06,300 --> 00:00:09,900\nfacts\n\n4\n00:00:09,900 --> 00:00:10,100\nabout\n\n5\n00:00:10,100 --> 00:00:11,700\nthe\n\n6\n00:00:11,700 --> 00:00:14,500\nface\n\n7\n00:00:14,500 --> 00:00:16,900\ncan I know\n\n8\n00:00:16,900 --> 00:00:17,800\nthe answer please\n\n9\n00:00:17,800 --> 00:00:18,600\ncall me because\n\n10\n00:00:18,600 --> 00:00:19,700\nthere\n\n11\n00:00:19,700 --> 00:00:24,900\nafter\n\n12\n00:00:24,900 --> 00:00:25,500\nturns\n\n13\n00:00:25,500 --> 00:00:26,900\nout and you know\n\n14\n00:00:26,900 --> 00:00:27,500\nit\n",
+									"captionString": "1\n00:00:00,000 --> 00:00:05,800\nvery cool\n\n2\n00:00:05,800 --> 00:00:06,300\nnear\n\n3\n00:00:06,300 --> 00:00:09,900\nfacts\n\n4\n00:00:09,900 --> 00:00:10,100\nabout\n\n5\n00:00:10,100 --> 00:00:11,700\nthe\n\n6\n00:00:11,700 --> 00:00:14,500\nface\n\n7\n00:00:14,500 --> 00:00:16,900\ncan I know\n\n8\n00:00:16,900 --> 00:00:17,800\nthe answer please\n\n9\n00:00:17,800 --> 00:00:18,600\ncall me because\n\n10\n00:00:18,600 --> 00:00:19,700\nthere\n\n11\n00:00:19,700 --> 00:00:24,900\nafter\n\n12\n00:00:24,900 --> 00:00:25,500\nturns\n\n13\n00:00:25,500 --> 00:00:26,900\nout and you know\n\n14\n00:00:26,900 --> 00:00:27,500\nit\n",
 									"parsed": [
 										{
 											"start": 0,
 											"end": 5800,
-											"text": "photographer"
+											"text": "very cool"
 										},
 										{
 											"start": 5800,
@@ -693,21 +693,21 @@
 										}
 									],
 									"asset": {
-										"public_id": "UAT_1d474995-7967-3b69-b571-2951c6b49ed8/ffmpeged_modernFamily_aaikdl_t9biav_en-IN_XRXc.srt",
-										"version": 1553333506,
-										"signature": "128c0585863c6fb92c4e8ccd42da56cd504bf5f1",
+										"public_id": "UAT_1d474995-7967-3b69-b571-2951c6b49ed8/ffmpeged_modernFamily_aaikdl_t9biav_en_azfk.srt",
+										"version": 1553333624,
+										"signature": "ba91f8b96d48477101c38b8bb2502b398144d4b4",
 										"resource_type": "raw",
-										"created_at": "2019-03-23T09:31:46Z",
+										"created_at": "2019-03-23T09:33:44Z",
 										"tags": [],
-										"bytes": 588,
+										"bytes": 585,
 										"type": "upload",
-										"etag": "035f84a26cec59782730499b24a4d6a7",
+										"etag": "11b7c10901f894ddfd491e661cfdd33c",
 										"placeholder": false,
-										"url": "http://res.cloudinary.com/qblm/raw/upload/v1553333506/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/ffmpeged_modernFamily_aaikdl_t9biav_en-IN_XRXc.srt",
-										"secure_url": "https://res.cloudinary.com/qblm/raw/upload/v1553333506/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/ffmpeged_modernFamily_aaikdl_t9biav_en-IN_XRXc.srt",
+										"url": "http://res.cloudinary.com/qblm/raw/upload/v1553333624/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/ffmpeged_modernFamily_aaikdl_t9biav_en_azfk.srt",
+										"secure_url": "https://res.cloudinary.com/qblm/raw/upload/v1553333624/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/ffmpeged_modernFamily_aaikdl_t9biav_en_azfk.srt",
 										"access_mode": "public"
 									},
-									"isAttached": false,
+									"isAttached": true,
 									"size": 18,
 									"color": {
 										"hex": "#ffffff",
