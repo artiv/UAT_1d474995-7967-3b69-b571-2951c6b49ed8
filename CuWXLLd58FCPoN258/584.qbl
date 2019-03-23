@@ -164,7 +164,7 @@
 										"y": "80",
 										"width": "default",
 										"height": "default",
-										"isAttached": true,
+										"isAttached": false,
 										"gravity": "north_west",
 										"crop": "scale",
 										"start_offset": "0",
@@ -174,7 +174,7 @@
 											"blocks": [
 												{
 													"key": "89t0e",
-													"text": "whatever",
+													"text": "whatever is this",
 													"type": "unstyled",
 													"depth": 0,
 													"inlineStyleRanges": [],
@@ -193,7 +193,7 @@
 											"language": "en",
 											"inputMethod": "system"
 										},
-										"text": "whatever",
+										"text": "whatever is this",
 										"useXY": true
 									},
 									{
