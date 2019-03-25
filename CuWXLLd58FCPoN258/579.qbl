@@ -1,0 +1,166 @@
+{
+	"fileName": "579.qbl",
+	"fileTemplateRepo": "UAT_1d474995-7967-3b69-b571-2951c6b49ed8",
+	"fileTemplatePath": "CuWXLLd58FCPoN258/t2.q6a",
+	"fileItem": {
+		"fileItemGeneral": {
+			"fileItemGuid": "0849cbba-042b-b158-7c6c-bf6f07496dbf",
+			"fileItemDate": "2019-03-25T10:20:15.420Z",
+			"fileItemCollections": [
+				"CuWXLLd58FCPoN258"
+			],
+			"fileItemCollectionsForTranslation": [
+				"CuWXLLd58FCPoN258"
+			]
+		},
+		"fileItemLanguage": {
+			"primaryLanguage": "PoxA4MpiE34gKXqYL",
+			"possibleLanguages": [
+				"PoxA4MpiE34gKXqYL"
+			]
+		},
+		"fileItemStructure": {
+			"fileItemGenerics": [
+				{
+					"genericGeneral": {
+						"genericGuid": "a3c5871a-0234-be9e-111e-1b0ba941109d",
+						"genericType": "genericOption",
+						"genericIsVisibleCollections": [
+							"CuWXLLd58FCPoN258"
+						],
+						"genericIsEditableCollections": [
+							"CuWXLLd58FCPoN258"
+						],
+						"genericIsRequiredCollections": [
+							"CuWXLLd58FCPoN258"
+						],
+						"genericIsMultipleCollections": [
+							"CuWXLLd58FCPoN258"
+						]
+					},
+					"genericMeta": {
+						"genericCanTranslate": true,
+						"genericCanParent": false,
+						"genericCanChild": false
+					},
+					"genericSpecific": {
+						"genericInformation": "Highlight",
+						"genericChildren": [],
+						"genericParent": "",
+						"genericKey": "Highlight",
+						"genericValues": [
+							{
+								"allowsMultiple": false,
+								"optionValues": [
+									{
+										"key": "true",
+										"value": "true",
+										"isTrue": false
+									},
+									{
+										"key": "false",
+										"value": "false",
+										"isTrue": false
+									}
+								]
+							}
+						]
+					},
+					"genericWorking": {
+						"genericOrderId": "",
+						"genericOrderComment": "",
+						"specificOrderComment": "",
+						"genericJobId": "",
+						"genericJobStatus": "",
+						"genericJobComment": "",
+						"specificJobComment": ""
+					}
+				}
+			],
+			"fileItemFields": [
+				{
+					"fieldGeneral": {
+						"fieldGuid": "ccc88a48-c128-86a1-486c-b258a03a2bd4",
+						"fieldType": "fieldVideo",
+						"fieldIsVisibleCollections": [
+							"CuWXLLd58FCPoN258"
+						],
+						"fieldIsEditableCollections": [
+							"CuWXLLd58FCPoN258"
+						],
+						"fieldIsRequiredCollections": [
+							"CuWXLLd58FCPoN258"
+						],
+						"fieldIsMultipleCollections": [
+							"CuWXLLd58FCPoN258"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please upload Video content?",
+						"fieldKey": "a2812941-7492-b729-3009-66a9a5558441",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				}
+			]
+		},
+		"fileItemPublish": {
+			"fileItemTypes": [
+				{
+					"publishTypeGeneral": {
+						"publishTypeGuid": "59649512-052a-4403-4fce-895e8d849dae",
+						"publishTypeType": "json"
+					},
+					"publishTypeMeta": {
+						"publishTypeCanRevert": false,
+						"publishTypeCanFork": false
+					},
+					"publishTypeSpecific": {
+						"publishTypeName": "json",
+						"publishTypeFrontMatter": [
+							"a3c5871a-0234-be9e-111e-1b0ba941109d"
+						],
+						"publishTypeBackMatter": [
+							"ccc88a48-c128-86a1-486c-b258a03a2bd4"
+						],
+						"publishTypeTargets": []
+					}
+				},
+				{
+					"publishTypeGeneral": {
+						"publishTypeGuid": "a10865af-581e-6832-b3d6-d205f30e1709",
+						"publishTypeType": "markdown"
+					},
+					"publishTypeMeta": {
+						"publishTypeCanRevert": false,
+						"publishTypeCanFork": false
+					},
+					"publishTypeSpecific": {
+						"publishTypeName": "md",
+						"publishTypeFrontMatter": [
+							"a3c5871a-0234-be9e-111e-1b0ba941109d"
+						],
+						"publishTypeBackMatter": [
+							"ccc88a48-c128-86a1-486c-b258a03a2bd4"
+						],
+						"publishTypeTargets": []
+					}
+				}
+			]
+		}
+	}
+}
