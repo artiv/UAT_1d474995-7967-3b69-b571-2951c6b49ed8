@@ -260,6 +260,17 @@
 											"inputMethod": "system"
 										},
 										"text": "testing new tr"
+									},
+									{
+										"public_id": "UAT_1d474995-7967-3b69-b571-2951c6b49ed8/sample_aynaqn",
+										"secure_url": "https://res.cloudinary.com/qblm/image/upload/v1553534956/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/sample_aynaqn.jpg",
+										"x": "0",
+										"y": "0",
+										"width": "100",
+										"height": "100",
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale"
 									}
 								],
 								"embed": {
