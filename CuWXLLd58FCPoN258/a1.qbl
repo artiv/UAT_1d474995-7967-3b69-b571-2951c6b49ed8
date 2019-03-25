@@ -91,7 +91,21 @@
 								"original_filename": "modernFamily",
 								"path": "v1553534902/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/modernFamily_sll048.mp4",
 								"thumbnail_url": "https://res.cloudinary.com/qblm/video/upload/c_limit,h_60,w_90/v1553534902/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/modernFamily_sll048.jpg",
-								"overlays": [],
+								"overlays": [
+									{
+										"public_id": "UAT_1d474995-7967-3b69-b571-2951c6b49ed8/sample_aynaqn",
+										"secure_url": "https://res.cloudinary.com/qblm/images/w_864,h_576,/l_text:Noto Sans_18:testing new tr,co_rgb:ffffff,o_100,x_0,y_0,c_scale,g_north,/l_UAT_1d474995-7967-3b69-b571-2951c6b49ed8:sample_aynaqn,x_0,y_0,c_scale,g_south,w_100,h_100,/v1553534956/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/sample_aynaqn/sample.jpg",
+										"x": "0",
+										"y": "0",
+										"width": "240",
+										"height": "180",
+										"isAttached": true,
+										"gravity": "south_east",
+										"crop": "scale",
+										"start_offset": "3",
+										"end_offset": "15"
+									}
+								],
 								"videoOverlays": [],
 								"audioOverlays": [],
 								"captions": {},
