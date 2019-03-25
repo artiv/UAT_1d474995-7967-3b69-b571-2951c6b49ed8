@@ -1,0 +1,29 @@
+{
+	"fileName": "afi.q6a",
+	"fileTemplate": {
+		"fileTemplateGeneral": {
+			"fileTemplateGuid": "9d50a27f-3393-39b1-f4d8-35587e12064b",
+			"fileTemplateDate": "2019-03-25T17:23:34.885Z",
+			"fileTemplateCollections": [
+				"CuWXLLd58FCPoN258"
+			],
+			"fileTemplateCollectionsForTranslation": [
+				"CuWXLLd58FCPoN258"
+			]
+		},
+		"fileTemplateLanguage": {
+			"primaryLanguage": "PoxA4MpiE34gKXqYL",
+			"possibleLanguages": [
+				"PoxA4MpiE34gKXqYL",
+				"BCTQmLdCs2P7eCJjm"
+			]
+		},
+		"fileTemplateStructure": {
+			"fileTemplateGenerics": [],
+			"fileTemplateFields": []
+		},
+		"fileTemplatePublish": {
+			"fileTemplateTypes": []
+		}
+	}
+}
