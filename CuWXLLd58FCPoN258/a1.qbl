@@ -114,8 +114,6 @@
 										"isAttached": true,
 										"gravity": "south",
 										"crop": "scale",
-										"start_offset": 3,
-										"end_offset": 4.8,
 										"text": "I'm a cool",
 										"font": "Noto Sans",
 										"size": 14,
@@ -134,7 +132,7 @@
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "1eo4u",
+													"key": "7c8lb",
 													"text": "I'm a cool",
 													"type": "unstyled",
 													"depth": 0,
@@ -158,6 +156,8 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 3,
+										"end_offset": 4.8,
 										"isAutoOverlayed": true
 									},
 									{
@@ -169,8 +169,6 @@
 										"isAttached": true,
 										"gravity": "south",
 										"crop": "scale",
-										"start_offset": 4.8,
-										"end_offset": 5.9,
 										"text": "guy that's that's my",
 										"font": "Noto Sans",
 										"size": 14,
@@ -189,7 +187,7 @@
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "867hk",
+													"key": "a248e",
 													"text": "guy that's that's my",
 													"type": "unstyled",
 													"depth": 0,
@@ -213,6 +211,8 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 4.8,
+										"end_offset": 5.9,
 										"isAutoOverlayed": true
 									},
 									{
@@ -224,8 +224,6 @@
 										"isAttached": true,
 										"gravity": "south",
 										"crop": "scale",
-										"start_offset": 5.9,
-										"end_offset": 6.3,
 										"text": "thing",
 										"font": "Noto Sans",
 										"size": 14,
@@ -244,7 +242,7 @@
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "f1ei4",
+													"key": "fmr",
 													"text": "thing",
 													"type": "unstyled",
 													"depth": 0,
@@ -268,6 +266,8 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 5.9,
+										"end_offset": 6.3,
 										"isAutoOverlayed": true
 									},
 									{
@@ -279,8 +279,6 @@
 										"isAttached": true,
 										"gravity": "south",
 										"crop": "scale",
-										"start_offset": 7.4,
-										"end_offset": 7.8,
 										"text": "I'm",
 										"font": "Noto Sans",
 										"size": 14,
@@ -299,7 +297,7 @@
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "9l9kb",
+													"key": "31q63",
 													"text": "I'm",
 													"type": "unstyled",
 													"depth": 0,
@@ -323,6 +321,8 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 7.4,
+										"end_offset": 7.8,
 										"isAutoOverlayed": true
 									},
 									{
@@ -334,8 +334,6 @@
 										"isAttached": true,
 										"gravity": "south",
 										"crop": "scale",
-										"start_offset": 7.8,
-										"end_offset": 8.9,
 										"text": "happy I surf",
 										"font": "Noto Sans",
 										"size": 14,
@@ -354,7 +352,7 @@
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "d2ro1",
+													"key": "edrjh",
 													"text": "happy I surf",
 													"type": "unstyled",
 													"depth": 0,
@@ -378,6 +376,8 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 7.8,
+										"end_offset": 8.9,
 										"isAutoOverlayed": true
 									},
 									{
@@ -389,8 +389,6 @@
 										"isAttached": true,
 										"gravity": "south",
 										"crop": "scale",
-										"start_offset": 8.9,
-										"end_offset": 9.4,
 										"text": "the web I",
 										"font": "Noto Sans",
 										"size": 14,
@@ -409,7 +407,7 @@
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "fr7db",
+													"key": "5kqkd",
 													"text": "the web I",
 													"type": "unstyled",
 													"depth": 0,
@@ -433,6 +431,8 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 8.9,
+										"end_offset": 9.4,
 										"isAutoOverlayed": true
 									}
 								],
@@ -506,7 +506,7 @@
 											"r": 255,
 											"g": 0,
 											"b": 0,
-											"a": 0.37
+											"a": 0.41
 										},
 										"hex": "#ff0000"
 									}
