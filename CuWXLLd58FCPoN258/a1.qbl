@@ -50,22 +50,22 @@
 						"fieldKey": "372d9fd1-ce6a-42be-74d6-314fa6ea42a3",
 						"fieldValues": [
 							{
-								"public_id": "UAT_1d474995-7967-3b69-b571-2951c6b49ed8/ffmpeged_modernFamily_sll048_itfnuz",
-								"version": 1553711136,
-								"signature": "fd7be8c07b1296d67580d3ad871fa2ad5fba25cb",
+								"public_id": "UAT_1d474995-7967-3b69-b571-2951c6b49ed8/ffmpeged_modernFamily_sll048_qyae8u",
+								"version": 1553711730,
+								"signature": "ced81555e594f560f73ce64d9100cdbadc2d0fb9",
 								"width": 480,
 								"height": 360,
 								"format": "mp4",
 								"resource_type": "video",
-								"created_at": "2019-03-27T18:25:36Z",
+								"created_at": "2019-03-27T18:35:30Z",
 								"tags": [],
 								"pages": 0,
-								"bytes": 951811,
+								"bytes": 950811,
 								"type": "upload",
-								"etag": "28dae3cfd382b96de909d0ec55325a42",
+								"etag": "80457cf88574b21312e7043c6b0f7527",
 								"placeholder": false,
-								"url": "http://res.cloudinary.com/qblm/video/upload/v1553711136/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/ffmpeged_modernFamily_sll048_itfnuz.mp4",
-								"secure_url": "https://res.cloudinary.com/qblm/video/upload/v1553711136/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/ffmpeged_modernFamily_sll048_itfnuz.mp4",
+								"url": "http://res.cloudinary.com/qblm/video/upload/v1553711730/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/ffmpeged_modernFamily_sll048_qyae8u.mp4",
+								"secure_url": "https://res.cloudinary.com/qblm/video/upload/v1553711730/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/ffmpeged_modernFamily_sll048_qyae8u.mp4",
 								"access_mode": "public",
 								"existing": false,
 								"audio": {
@@ -80,12 +80,12 @@
 									"codec": "h264",
 									"level": 21,
 									"profile": "High",
-									"bit_rate": "150582",
+									"bit_rate": "150316",
 									"dar": "4:3"
 								},
 								"is_audio": false,
 								"frame_rate": 24,
-								"bit_rate": 252637,
+								"bit_rate": 252371,
 								"duration": 30.14,
 								"rotation": 0,
 								"original_filename": "ffmpeged_modernFamily_sll048",
@@ -492,7 +492,8 @@
 									"https://res.cloudinary.com/qblm/video/upload/v1553632509/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/ffmpeged_modernFamily_sll048_xx6rit.mp4",
 									"https://res.cloudinary.com/qblm/video/upload/v1553633117/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/ffmpeged_modernFamily_sll048_a0t63v.mp4",
 									"https://res.cloudinary.com/qblm/video/upload/v1553633227/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/ffmpeged_modernFamily_sll048_wfbkef.mp4",
-									"https://res.cloudinary.com/qblm/video/upload/v1553711136/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/ffmpeged_modernFamily_sll048_itfnuz.mp4"
+									"https://res.cloudinary.com/qblm/video/upload/v1553711136/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/ffmpeged_modernFamily_sll048_itfnuz.mp4",
+									"https://res.cloudinary.com/qblm/video/upload/v1553711730/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/ffmpeged_modernFamily_sll048_qyae8u.mp4"
 								],
 								"transformedPublicIds": [
 									"UAT_1d474995-7967-3b69-b571-2951c6b49ed8/modernFamily_sll048",
@@ -502,7 +503,8 @@
 									"UAT_1d474995-7967-3b69-b571-2951c6b49ed8/ffmpeged_modernFamily_sll048_xx6rit",
 									"UAT_1d474995-7967-3b69-b571-2951c6b49ed8/ffmpeged_modernFamily_sll048_a0t63v",
 									"UAT_1d474995-7967-3b69-b571-2951c6b49ed8/ffmpeged_modernFamily_sll048_wfbkef",
-									"UAT_1d474995-7967-3b69-b571-2951c6b49ed8/ffmpeged_modernFamily_sll048_itfnuz"
+									"UAT_1d474995-7967-3b69-b571-2951c6b49ed8/ffmpeged_modernFamily_sll048_itfnuz",
+									"UAT_1d474995-7967-3b69-b571-2951c6b49ed8/ffmpeged_modernFamily_sll048_qyae8u"
 								],
 								"embed": {
 									"width": 480,
