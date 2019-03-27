@@ -114,7 +114,7 @@
 										"isAttached": true,
 										"gravity": "center",
 										"crop": "scale",
-										"text": "0\nI'm a cool\n\n2\n00:00:04,800 --> 00:00:05,900\nguy that's that's my\n\n3\n00:00:05,900 --> 00:00:06,300\nthing\n\n4\n00:00:07,400 --> 00:00:07,800\nI'm\n\n5\n00:00:07,800 --> 00:00:08,900\nhappy I surf\n\n6\n00:00:08,900 --> 00:00:09,400\nthe web I\n",
+										"text": "I'm a cool",
 										"font": "Raleway",
 										"size": 18,
 										"color": {
@@ -132,206 +132,8 @@
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "e7kdf",
-													"text": "0",
-													"type": "unstyled",
-													"depth": 0,
-													"inlineStyleRanges": [],
-													"entityRanges": [],
-													"data": {}
-												},
-												{
-													"key": "10fu4",
+													"key": "aqfon",
 													"text": "I'm a cool",
-													"type": "unstyled",
-													"depth": 0,
-													"inlineStyleRanges": [],
-													"entityRanges": [],
-													"data": {}
-												},
-												{
-													"key": "h0en",
-													"text": "",
-													"type": "unstyled",
-													"depth": 0,
-													"inlineStyleRanges": [],
-													"entityRanges": [],
-													"data": {}
-												},
-												{
-													"key": "5scfg",
-													"text": "2",
-													"type": "unstyled",
-													"depth": 0,
-													"inlineStyleRanges": [],
-													"entityRanges": [],
-													"data": {}
-												},
-												{
-													"key": "ab6sl",
-													"text": "00:00:04,800 --> 00:00:05,900",
-													"type": "unstyled",
-													"depth": 0,
-													"inlineStyleRanges": [],
-													"entityRanges": [],
-													"data": {}
-												},
-												{
-													"key": "59t5p",
-													"text": "guy that's that's my",
-													"type": "unstyled",
-													"depth": 0,
-													"inlineStyleRanges": [],
-													"entityRanges": [],
-													"data": {}
-												},
-												{
-													"key": "2nkbt",
-													"text": "",
-													"type": "unstyled",
-													"depth": 0,
-													"inlineStyleRanges": [],
-													"entityRanges": [],
-													"data": {}
-												},
-												{
-													"key": "5fhs0",
-													"text": "3",
-													"type": "unstyled",
-													"depth": 0,
-													"inlineStyleRanges": [],
-													"entityRanges": [],
-													"data": {}
-												},
-												{
-													"key": "8f3qv",
-													"text": "00:00:05,900 --> 00:00:06,300",
-													"type": "unstyled",
-													"depth": 0,
-													"inlineStyleRanges": [],
-													"entityRanges": [],
-													"data": {}
-												},
-												{
-													"key": "1rkj",
-													"text": "thing",
-													"type": "unstyled",
-													"depth": 0,
-													"inlineStyleRanges": [],
-													"entityRanges": [],
-													"data": {}
-												},
-												{
-													"key": "9jn0s",
-													"text": "",
-													"type": "unstyled",
-													"depth": 0,
-													"inlineStyleRanges": [],
-													"entityRanges": [],
-													"data": {}
-												},
-												{
-													"key": "47drv",
-													"text": "4",
-													"type": "unstyled",
-													"depth": 0,
-													"inlineStyleRanges": [],
-													"entityRanges": [],
-													"data": {}
-												},
-												{
-													"key": "741b5",
-													"text": "00:00:07,400 --> 00:00:07,800",
-													"type": "unstyled",
-													"depth": 0,
-													"inlineStyleRanges": [],
-													"entityRanges": [],
-													"data": {}
-												},
-												{
-													"key": "cn7lh",
-													"text": "I'm",
-													"type": "unstyled",
-													"depth": 0,
-													"inlineStyleRanges": [],
-													"entityRanges": [],
-													"data": {}
-												},
-												{
-													"key": "embqg",
-													"text": "",
-													"type": "unstyled",
-													"depth": 0,
-													"inlineStyleRanges": [],
-													"entityRanges": [],
-													"data": {}
-												},
-												{
-													"key": "4ctbs",
-													"text": "5",
-													"type": "unstyled",
-													"depth": 0,
-													"inlineStyleRanges": [],
-													"entityRanges": [],
-													"data": {}
-												},
-												{
-													"key": "74vl",
-													"text": "00:00:07,800 --> 00:00:08,900",
-													"type": "unstyled",
-													"depth": 0,
-													"inlineStyleRanges": [],
-													"entityRanges": [],
-													"data": {}
-												},
-												{
-													"key": "eubsf",
-													"text": "happy I surf",
-													"type": "unstyled",
-													"depth": 0,
-													"inlineStyleRanges": [],
-													"entityRanges": [],
-													"data": {}
-												},
-												{
-													"key": "4ipid",
-													"text": "",
-													"type": "unstyled",
-													"depth": 0,
-													"inlineStyleRanges": [],
-													"entityRanges": [],
-													"data": {}
-												},
-												{
-													"key": "7gs1n",
-													"text": "6",
-													"type": "unstyled",
-													"depth": 0,
-													"inlineStyleRanges": [],
-													"entityRanges": [],
-													"data": {}
-												},
-												{
-													"key": "fv90r",
-													"text": "00:00:08,900 --> 00:00:09,400",
-													"type": "unstyled",
-													"depth": 0,
-													"inlineStyleRanges": [],
-													"entityRanges": [],
-													"data": {}
-												},
-												{
-													"key": "ehqse",
-													"text": "the web I",
-													"type": "unstyled",
-													"depth": 0,
-													"inlineStyleRanges": [],
-													"entityRanges": [],
-													"data": {}
-												},
-												{
-													"key": "9qvhc",
-													"text": "",
 													"type": "unstyled",
 													"depth": 0,
 													"inlineStyleRanges": [],
@@ -354,8 +156,283 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
-										"start_offset": 0,
-										"end_offset": 0,
+										"start_offset": 3,
+										"end_offset": 4.8,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "guy that's that's my",
+										"font": "Raleway",
+										"size": 18,
+										"color": {
+											"hex": "#ffffff",
+											"rgb": {
+												"r": 255,
+												"g": 255,
+												"b": 255,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"entityMap": {},
+											"blocks": [
+												{
+													"key": "2j135",
+													"text": "guy that's that's my",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											]
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 4.8,
+										"end_offset": 5.9,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "thing",
+										"font": "Raleway",
+										"size": 18,
+										"color": {
+											"hex": "#ffffff",
+											"rgb": {
+												"r": 255,
+												"g": 255,
+												"b": 255,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"entityMap": {},
+											"blocks": [
+												{
+													"key": "85kl8",
+													"text": "thing",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											]
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 5.9,
+										"end_offset": 6.3,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "I'm",
+										"font": "Raleway",
+										"size": 18,
+										"color": {
+											"hex": "#ffffff",
+											"rgb": {
+												"r": 255,
+												"g": 255,
+												"b": 255,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"entityMap": {},
+											"blocks": [
+												{
+													"key": "48fs3",
+													"text": "I'm",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											]
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 7.4,
+										"end_offset": 7.8,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "happy I surf",
+										"font": "Raleway",
+										"size": 18,
+										"color": {
+											"hex": "#ffffff",
+											"rgb": {
+												"r": 255,
+												"g": 255,
+												"b": 255,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"entityMap": {},
+											"blocks": [
+												{
+													"key": "f6f6m",
+													"text": "happy I surf",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											]
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 7.8,
+										"end_offset": 8.9,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "the web I",
+										"font": "Raleway",
+										"size": 18,
+										"color": {
+											"hex": "#ffffff",
+											"rgb": {
+												"r": 255,
+												"g": 255,
+												"b": 255,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"entityMap": {},
+											"blocks": [
+												{
+													"key": "6sb2j",
+													"text": "the web I",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											]
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 8.9,
+										"end_offset": 9.4,
 										"isAutoOverlayed": true
 									}
 								],
@@ -446,12 +523,12 @@
 									"gravity": "center",
 									"boxcolor": {
 										"rgb": {
-											"r": 211,
-											"g": 103,
-											"b": 200,
-											"a": 0.59
+											"r": 217,
+											"g": 117,
+											"b": 222,
+											"a": 0.57
 										},
-										"hex": "#d367c8"
+										"hex": "#d975de"
 									},
 									"matchText": true
 								}
