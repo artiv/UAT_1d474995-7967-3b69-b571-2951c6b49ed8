@@ -1,0 +1,742 @@
+{
+	"fileName": "hi_597.qbl",
+	"fileItem": {
+		"fileItemGeneral": {
+			"fileItemGuid": "889af708-1c65-faf7-05ff-75df75e53dce",
+			"fileItemDate": "2019-03-28T06:12:16.902Z",
+			"fileItemCollections": [
+				"CuWXLLd58FCPoN258"
+			],
+			"fileItemCollectionsForTranslation": [
+				"CuWXLLd58FCPoN258"
+			]
+		},
+		"fileItemLanguage": {
+			"primaryLanguage": "BCTQmLdCs2P7eCJjm",
+			"possibleLanguages": [
+				"PoxA4MpiE34gKXqYL",
+				"BCTQmLdCs2P7eCJjm"
+			]
+		},
+		"fileItemStructure": {
+			"fileItemGenerics": [],
+			"fileItemFields": [
+				{
+					"fieldGeneral": {
+						"fieldGuid": "cb263655-a767-3c30-e3c3-d10ce4765b41",
+						"fieldType": "fieldVideo",
+						"fieldIsVisibleCollections": [
+							"CuWXLLd58FCPoN258"
+						],
+						"fieldIsEditableCollections": [
+							"CuWXLLd58FCPoN258"
+						],
+						"fieldIsRequiredCollections": [
+							"CuWXLLd58FCPoN258"
+						],
+						"fieldIsMultipleCollections": [
+							"CuWXLLd58FCPoN258"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please upload Video?",
+						"fieldKey": "372d9fd1-ce6a-42be-74d6-314fa6ea42a3",
+						"fieldValues": [
+							{
+								"public_id": "UAT_1d474995-7967-3b69-b571-2951c6b49ed8/ffmpeged_modernFamily_ihl2ho_bkaezg",
+								"version": 1553753220,
+								"signature": "ca7a5e3c478992f1d4c08acf8cfbb3b534c3d1aa",
+								"width": 480,
+								"height": 360,
+								"format": "mp4",
+								"resource_type": "video",
+								"created_at": "2019-03-28T06:07:00Z",
+								"tags": [],
+								"pages": 0,
+								"bytes": 978242,
+								"type": "upload",
+								"etag": "282eaf084cbbbfdab8f9605e721f4d1a",
+								"placeholder": false,
+								"url": "http://res.cloudinary.com/qblm/video/upload/v1553753220/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/ffmpeged_modernFamily_ihl2ho_bkaezg.mp4",
+								"secure_url": "https://res.cloudinary.com/qblm/video/upload/v1553753220/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/ffmpeged_modernFamily_ihl2ho_bkaezg.mp4",
+								"access_mode": "public",
+								"existing": false,
+								"audio": {
+									"codec": "aac",
+									"bit_rate": "95999",
+									"frequency": 44100,
+									"channels": 2,
+									"channel_layout": "stereo"
+								},
+								"video": {
+									"pix_format": "yuv420p",
+									"codec": "h264",
+									"level": 21,
+									"profile": "High",
+									"bit_rate": "157596",
+									"dar": "4:3"
+								},
+								"is_audio": false,
+								"frame_rate": 24,
+								"bit_rate": 259652,
+								"duration": 30.14,
+								"rotation": 0,
+								"original_filename": "ffmpeged_modernFamily_ihl2ho",
+								"path": "v1553752454/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/modernFamily_ihl2ho.mp4",
+								"thumbnail_url": "https://res.cloudinary.com/qblm/video/upload/c_limit,h_60,w_90/v1553752454/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/modernFamily_ihl2ho.jpg",
+								"overlays": [
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"text": "I ' ma शांत",
+										"font": "Noto Sans",
+										"size": 14,
+										"color": {
+											"rgb": {
+												"r": 255,
+												"g": 255,
+												"b": 255,
+												"a": 1
+											},
+											"hex": "#ffffff"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"entityMap": {},
+											"blocks": [
+												{
+													"key": "a1rrt",
+													"text": "I ' ma शांत",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											]
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 3,
+										"end_offset": 4.8,
+										"isAutoOverlayed": true,
+										"originalState": {
+											"entityMap": {},
+											"blocks": [
+												{
+													"key": "a1rrt",
+													"text": "I'm a cool",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											]
+										}
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"text": "आदमी है कि that's s मेरी",
+										"font": "Noto Sans",
+										"size": 14,
+										"color": {
+											"rgb": {
+												"r": 255,
+												"g": 255,
+												"b": 255,
+												"a": 1
+											},
+											"hex": "#ffffff"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"entityMap": {},
+											"blocks": [
+												{
+													"key": "92bb2",
+													"text": "आदमी है कि that's s मेरी",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											]
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 4.8,
+										"end_offset": 5.9,
+										"isAutoOverlayed": true,
+										"originalState": {
+											"entityMap": {},
+											"blocks": [
+												{
+													"key": "92bb2",
+													"text": "guy that's that's my",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											]
+										}
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"text": "बात",
+										"font": "Noto Sans",
+										"size": 14,
+										"color": {
+											"rgb": {
+												"r": 255,
+												"g": 255,
+												"b": 255,
+												"a": 1
+											},
+											"hex": "#ffffff"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"entityMap": {},
+											"blocks": [
+												{
+													"key": "5c910",
+													"text": "बात",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											]
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 5.9,
+										"end_offset": 6.3,
+										"isAutoOverlayed": true,
+										"originalState": {
+											"entityMap": {},
+											"blocks": [
+												{
+													"key": "5c910",
+													"text": "thing",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											]
+										}
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"text": "मैं हूं",
+										"font": "Noto Sans",
+										"size": 14,
+										"color": {
+											"rgb": {
+												"r": 255,
+												"g": 255,
+												"b": 255,
+												"a": 1
+											},
+											"hex": "#ffffff"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"entityMap": {},
+											"blocks": [
+												{
+													"key": "1o2nr",
+													"text": "मैं हूं",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											]
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 7.4,
+										"end_offset": 7.8,
+										"isAutoOverlayed": true,
+										"originalState": {
+											"entityMap": {},
+											"blocks": [
+												{
+													"key": "1o2nr",
+													"text": "I'm",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											]
+										}
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"text": "मुबारक हो मैं सर्फ",
+										"font": "Noto Sans",
+										"size": 14,
+										"color": {
+											"rgb": {
+												"r": 255,
+												"g": 255,
+												"b": 255,
+												"a": 1
+											},
+											"hex": "#ffffff"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"entityMap": {},
+											"blocks": [
+												{
+													"key": "5gr86",
+													"text": "मुबारक हो मैं सर्फ",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											]
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 7.8,
+										"end_offset": 8.9,
+										"isAutoOverlayed": true,
+										"originalState": {
+											"entityMap": {},
+											"blocks": [
+												{
+													"key": "5gr86",
+													"text": "happy I surf",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											]
+										}
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale",
+										"text": "वेब मैं",
+										"font": "Noto Sans",
+										"size": 14,
+										"color": {
+											"rgb": {
+												"r": 255,
+												"g": 255,
+												"b": 255,
+												"a": 1
+											},
+											"hex": "#ffffff"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"entityMap": {},
+											"blocks": [
+												{
+													"key": "241g",
+													"text": "वेब मैं",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											]
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 8.9,
+										"end_offset": 9.4,
+										"isAutoOverlayed": true,
+										"originalState": {
+											"entityMap": {},
+											"blocks": [
+												{
+													"key": "241g",
+													"text": "the web I",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											]
+										}
+									}
+								],
+								"videoOverlays": [],
+								"audioOverlays": [],
+								"captions": {
+									"captionString": "1\n00:00:03,000 --> 00:00:04,800\nI ' ma शांत\n\n2\n00:00:04,800 --> 00:00:05,900\nआदमी है कि that's s मेरी\n\n3\n00:00:05,900 --> 00:00:06,300\nबात\n\n4\n00:00:07,400 --> 00:00:07,800\nमैं हूं\n\n5\n00:00:07,800 --> 00:00:08,900\nमुबारक हो मैं सर्फ\n\n6\n00:00:08,900 --> 00:00:09,400\nवेब मैं\n",
+									"parsed": [
+										{
+											"start": 3000,
+											"end": 4800,
+											"text": "I ' ma शांत"
+										},
+										{
+											"start": 4800,
+											"end": 5900,
+											"text": "आदमी है कि that's s मेरी"
+										},
+										{
+											"start": 5900,
+											"end": 6300,
+											"text": "बात"
+										},
+										{
+											"start": 7400,
+											"end": 7800,
+											"text": "मैं हूं"
+										},
+										{
+											"start": 7800,
+											"end": 8900,
+											"text": "मुबारक हो मैं सर्फ"
+										},
+										{
+											"start": 8900,
+											"end": 9400,
+											"text": "वेब मैं"
+										}
+									],
+									"font": "Noto Sans Devanagari",
+									"size": 18,
+									"color": {
+										"rgb": {
+											"r": 0,
+											"g": 0,
+											"b": 0,
+											"a": 1
+										}
+									},
+									"isAttached": false,
+									"originalCaptionString": "1\n00:00:03,000 --> 00:00:04,800\nI'm a cool\n\n2\n00:00:04,800 --> 00:00:05,900\nguy that's that's my\n\n3\n00:00:05,900 --> 00:00:06,300\nthing\n\n4\n00:00:07,400 --> 00:00:07,800\nI'm\n\n5\n00:00:07,800 --> 00:00:08,900\nhappy I surf\n\n6\n00:00:08,900 --> 00:00:09,400\nthe web I",
+									"asset": {
+										"public_id": "UAT_1d474995-7967-3b69-b571-2951c6b49ed8/ffmpeged_modernFamily_ihl2ho_bkaezg_hi_6DYj.srt",
+										"version": 1553753571,
+										"signature": "69b87487494407af0b7e3135fa60a03fa39f1c56",
+										"resource_type": "raw",
+										"created_at": "2019-03-28T06:12:51Z",
+										"tags": [],
+										"bytes": 365,
+										"type": "upload",
+										"etag": "313639bf56276537d725ee4f3afc800f",
+										"placeholder": false,
+										"url": "http://res.cloudinary.com/qblm/raw/upload/v1553753571/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/ffmpeged_modernFamily_ihl2ho_bkaezg_hi_6DYj.srt",
+										"secure_url": "https://res.cloudinary.com/qblm/raw/upload/v1553753571/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/ffmpeged_modernFamily_ihl2ho_bkaezg_hi_6DYj.srt",
+										"access_mode": "public"
+									}
+								},
+								"transformedURLs": [
+									"https://res.cloudinary.com/qblm/video/upload/v1553752454/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/modernFamily_ihl2ho.mp4",
+									"https://res.cloudinary.com/qblm/video/upload/v1553753220/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/ffmpeged_modernFamily_ihl2ho_bkaezg.mp4"
+								],
+								"transformedPublicIds": [
+									"UAT_1d474995-7967-3b69-b571-2951c6b49ed8/modernFamily_ihl2ho",
+									"UAT_1d474995-7967-3b69-b571-2951c6b49ed8/ffmpeged_modernFamily_ihl2ho_bkaezg"
+								],
+								"embed": {
+									"width": 480,
+									"height": 360,
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"caption": "",
+									"seoSuffix": "modernfamily"
+								},
+								"underlay": {
+									"show": "stripe",
+									"gravity": "south",
+									"boxcolor": {
+										"rgb": {
+											"r": 235,
+											"g": 122,
+											"b": 241,
+											"a": 0.5
+										},
+										"hex": "#eb7af1"
+									},
+									"matchText": true
+								}
+							}
+						],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "approved",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"fieldGeneral": {
+						"fieldGuid": "016190e7-2b9a-539b-af64-755d2bad0eed",
+						"fieldType": "fieldAudio",
+						"fieldIsVisibleCollections": [
+							"CuWXLLd58FCPoN258"
+						],
+						"fieldIsEditableCollections": [
+							"CuWXLLd58FCPoN258"
+						],
+						"fieldIsRequiredCollections": [
+							"CuWXLLd58FCPoN258"
+						],
+						"fieldIsMultipleCollections": [
+							"CuWXLLd58FCPoN258"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please upload Audio?",
+						"fieldKey": "91638e9b-a3d8-8734-fe8e-10c7306e1884",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"fieldGeneral": {
+						"fieldGuid": "2b6630dc-9c96-69e4-a15f-d72444bb3c4f",
+						"fieldType": "fieldImage",
+						"fieldIsVisibleCollections": [
+							"CuWXLLd58FCPoN258"
+						],
+						"fieldIsEditableCollections": [
+							"CuWXLLd58FCPoN258"
+						],
+						"fieldIsRequiredCollections": [
+							"CuWXLLd58FCPoN258"
+						],
+						"fieldIsMultipleCollections": [
+							"CuWXLLd58FCPoN258"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please upload Image?",
+						"fieldKey": "775d6d31-2afb-3f75-f67c-70365851d784",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"fieldGeneral": {
+						"fieldGuid": "a0131453-8fba-0e7e-2036-d00c8a013659",
+						"fieldType": "fieldTextbox",
+						"fieldIsVisibleCollections": [
+							"CuWXLLd58FCPoN258"
+						],
+						"fieldIsEditableCollections": [
+							"CuWXLLd58FCPoN258"
+						],
+						"fieldIsRequiredCollections": [
+							"CuWXLLd58FCPoN258"
+						],
+						"fieldIsMultipleCollections": [
+							"CuWXLLd58FCPoN258"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please upload Text?",
+						"fieldKey": "d1a86683-e308-0fce-e5e7-343dc69c0141",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				}
+			]
+		},
+		"fileItemPublish": {
+			"fileItemTypes": []
+		}
+	}
+}
