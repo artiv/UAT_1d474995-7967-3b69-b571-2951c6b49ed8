@@ -19,7 +19,85 @@
 			]
 		},
 		"fileTemplateStructure": {
-			"fileTemplateGenerics": [],
+			"fileTemplateGenerics": [
+				{
+					"genericGeneral": {
+						"genericGuid": "c8a11978-e5c9-abb3-ec85-509411786c18",
+						"genericType": "genericParent",
+						"genericIsVisibleCollections": [
+							"CuWXLLd58FCPoN258"
+						],
+						"genericIsEditableCollections": [
+							"CuWXLLd58FCPoN258"
+						],
+						"genericIsRequiredCollections": [],
+						"genericIsMultipleCollections": []
+					},
+					"genericMeta": {
+						"genericCanTranslate": true,
+						"genericCanParent": true,
+						"genericCanChild": false
+					},
+					"genericSpecific": {
+						"genericInformation": "Please upload Parent?",
+						"genericChildren": [
+							"2c358e68-0cf0-19c7-51bd-616f5ac66301",
+							"cb263655-a767-3c30-e3c3-d10ce4765b41"
+						],
+						"genericParent": "",
+						"genericKey": "31c7dbbc-48e1-63ab-9559-60896546fc87",
+						"genericValues": []
+					},
+					"genericWorking": {
+						"genericOrderId": "",
+						"genericOrderComment": "",
+						"specificOrderComment": "",
+						"genericJobId": "",
+						"genericJobStatus": "",
+						"genericJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"genericGeneral": {
+						"genericGuid": "2c358e68-0cf0-19c7-51bd-616f5ac66301",
+						"genericType": "genericText",
+						"genericIsVisibleCollections": [
+							"CuWXLLd58FCPoN258"
+						],
+						"genericIsEditableCollections": [
+							"CuWXLLd58FCPoN258"
+						],
+						"genericIsRequiredCollections": [
+							"CuWXLLd58FCPoN258"
+						],
+						"genericIsMultipleCollections": [
+							"CuWXLLd58FCPoN258"
+						]
+					},
+					"genericMeta": {
+						"genericCanTranslate": true,
+						"genericCanParent": false,
+						"genericCanChild": true
+					},
+					"genericSpecific": {
+						"genericInformation": "Please upload Text gen?",
+						"genericChildren": [],
+						"genericParent": "c8a11978-e5c9-abb3-ec85-509411786c18",
+						"genericKey": "793dc01a-8c11-121a-675c-4f66be5067e2",
+						"genericValues": []
+					},
+					"genericWorking": {
+						"genericOrderId": "",
+						"genericOrderComment": "",
+						"specificOrderComment": "",
+						"genericJobId": "",
+						"genericJobStatus": "",
+						"genericJobComment": "",
+						"specificJobComment": ""
+					}
+				}
+			],
 			"fileTemplateFields": [
 				{
 					"fieldGeneral": {
@@ -41,13 +119,14 @@
 					"fieldMeta": {
 						"fieldCanTranslate": true,
 						"fieldCanParent": false,
-						"fieldCanChild": false
+						"fieldCanChild": true
 					},
 					"fieldSpecific": {
 						"fieldInformation": "Please upload Video?",
 						"fieldKey": "372d9fd1-ce6a-42be-74d6-314fa6ea42a3",
 						"fieldValues": [],
-						"fieldChildren": []
+						"fieldChildren": [],
+						"fieldParent": "c8a11978-e5c9-abb3-ec85-509411786c18"
 					},
 					"fieldWorking": {
 						"fieldOrderId": "",
@@ -79,13 +158,14 @@
 					"fieldMeta": {
 						"fieldCanTranslate": true,
 						"fieldCanParent": false,
-						"fieldCanChild": false
+						"fieldCanChild": true
 					},
 					"fieldSpecific": {
 						"fieldInformation": "Please upload Audio?",
 						"fieldKey": "91638e9b-a3d8-8734-fe8e-10c7306e1884",
 						"fieldValues": [],
-						"fieldChildren": []
+						"fieldChildren": [],
+						"fieldParent": ""
 					},
 					"fieldWorking": {
 						"fieldOrderId": "",
