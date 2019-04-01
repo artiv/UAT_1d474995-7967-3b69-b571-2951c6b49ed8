@@ -551,7 +551,21 @@
 								"path": "v1554142671/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/sampleVideo_iepkuu.mp4",
 								"thumbnail_url": "https://res.cloudinary.com/qblm/video/upload/c_limit,h_60,w_90/v1554142671/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/sampleVideo_iepkuu.jpg",
 								"overlays": [],
-								"videoOverlays": [],
+								"videoOverlays": [
+									{
+										"public_id": "UAT_1d474995-7967-3b69-b571-2951c6b49ed8/ffmpeged_modernFamily_ihl2ho_bkaezg",
+										"secure_url": "https://res.cloudinary.com/qblm/video/upload/v1553753220/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/ffmpeged_modernFamily_ihl2ho_bkaezg.mp4",
+										"x": "0",
+										"y": "0",
+										"width": "100",
+										"height": "100",
+										"isAttached": true,
+										"gravity": "north_west",
+										"crop": "scale",
+										"start_offset": "0",
+										"end_offset": "30"
+									}
+								],
 								"audioOverlays": [],
 								"captions": {},
 								"transformedURLs": [
