@@ -423,7 +423,21 @@
 										"isAutoOverlayed": true
 									}
 								],
-								"videoOverlays": [],
+								"videoOverlays": [
+									{
+										"public_id": "UAT_1d474995-7967-3b69-b571-2951c6b49ed8/ffmpeged_sampleVideo_iepkuu_ybor2u",
+										"secure_url": "https://res.cloudinary.com/qblm/video/upload/v1554142823/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/ffmpeged_sampleVideo_iepkuu_ybor2u.mp4",
+										"x": "0",
+										"y": "0",
+										"width": "200",
+										"height": "200",
+										"isAttached": true,
+										"gravity": "north_west",
+										"crop": "scale",
+										"start_offset": "0",
+										"end_offset": "30"
+									}
+								],
 								"audioOverlays": [],
 								"captions": {
 									"captionString": "1\n00:00:03,000 --> 00:00:04,800\nI'm a cool\n\n2\n00:00:04,800 --> 00:00:05,900\nguy that's that's my\n\n3\n00:00:05,900 --> 00:00:06,300\nthing\n\n4\n00:00:07,400 --> 00:00:07,800\nI'm\n\n5\n00:00:07,800 --> 00:00:08,900\nhappy I surf\n\n6\n00:00:08,900 --> 00:00:09,400\nthe web I",
