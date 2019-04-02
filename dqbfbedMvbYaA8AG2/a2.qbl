@@ -1,0 +1,807 @@
+{
+	"fileName": "a1.qbl",
+	"fileTemplateRepo": "UAT_1d474995-7967-3b69-b571-2951c6b49ed8",
+	"fileTemplatePath": "CuWXLLd58FCPoN258/afi.q6a",
+	"fileItem": {
+		"fileItemGeneral": {
+			"fileItemGuid": "4786e4d6-27a5-f225-c665-7c5f4c5c131c",
+			"fileItemDate": "2019-03-25T17:27:49.153Z",
+			"fileItemCollections": [
+				"CuWXLLd58FCPoN258"
+			],
+			"fileItemCollectionsForTranslation": [
+				"CuWXLLd58FCPoN258"
+			]
+		},
+		"fileItemLanguage": {
+			"primaryLanguage": "PoxA4MpiE34gKXqYL",
+			"possibleLanguages": [
+				"PoxA4MpiE34gKXqYL",
+				"BCTQmLdCs2P7eCJjm"
+			]
+		},
+		"fileItemStructure": {
+			"fileItemGenerics": [],
+			"fileItemFields": [
+				{
+					"fieldGeneral": {
+						"fieldGuid": "cb263655-a767-3c30-e3c3-d10ce4765b41",
+						"fieldType": "fieldVideo",
+						"fieldIsVisibleCollections": [
+							"CuWXLLd58FCPoN258"
+						],
+						"fieldIsEditableCollections": [
+							"CuWXLLd58FCPoN258"
+						],
+						"fieldIsRequiredCollections": [
+							"CuWXLLd58FCPoN258"
+						],
+						"fieldIsMultipleCollections": [
+							"CuWXLLd58FCPoN258"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please upload Video?",
+						"fieldKey": "372d9fd1-ce6a-42be-74d6-314fa6ea42a3",
+						"fieldValues": [
+							{
+								"public_id": "UAT_1d474995-7967-3b69-b571-2951c6b49ed8/ffmpeged_modernFamily_sll048_qyae8u",
+								"version": 1553711730,
+								"signature": "ced81555e594f560f73ce64d9100cdbadc2d0fb9",
+								"width": 480,
+								"height": 360,
+								"format": "mp4",
+								"resource_type": "video",
+								"created_at": "2019-03-27T18:35:30Z",
+								"tags": [],
+								"pages": 0,
+								"bytes": 950811,
+								"type": "upload",
+								"etag": "80457cf88574b21312e7043c6b0f7527",
+								"placeholder": false,
+								"url": "http://res.cloudinary.com/qblm/video/upload/v1553711730/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/ffmpeged_modernFamily_sll048_qyae8u.mp4",
+								"secure_url": "https://res.cloudinary.com/qblm/video/upload/v1553711730/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/ffmpeged_modernFamily_sll048_qyae8u.mp4",
+								"access_mode": "public",
+								"existing": false,
+								"audio": {
+									"codec": "aac",
+									"bit_rate": "95999",
+									"frequency": 44100,
+									"channels": 2,
+									"channel_layout": "stereo"
+								},
+								"video": {
+									"pix_format": "yuv420p",
+									"codec": "h264",
+									"level": 21,
+									"profile": "High",
+									"bit_rate": "150316",
+									"dar": "4:3"
+								},
+								"is_audio": false,
+								"frame_rate": 24,
+								"bit_rate": 252371,
+								"duration": 30.14,
+								"rotation": 0,
+								"original_filename": "ffmpeged_modernFamily_sll048",
+								"path": "v1553534902/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/modernFamily_sll048.mp4",
+								"thumbnail_url": "https://res.cloudinary.com/qblm/video/upload/c_limit,h_60,w_90/v1553534902/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/modernFamily_sll048.jpg",
+								"overlays": [
+									{
+										"public_id": "UAT_1d474995-7967-3b69-b571-2951c6b49ed8/sample_aynaqn",
+										"secure_url": "https://res.cloudinary.com/qblm/images/w_864,h_576,/l_text:Noto Sans_18:testing new tr,co_rgb:ffffff,o_100,x_0,y_0,c_scale,g_north,/l_UAT_1d474995-7967-3b69-b571-2951c6b49ed8:sample_aynaqn,x_0,y_0,c_scale,g_south,w_100,h_100,/v1553534956/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/sample_aynaqn/sample.jpg",
+										"x": "0",
+										"y": "0",
+										"width": "240",
+										"height": "180",
+										"isAttached": true,
+										"gravity": "south_east",
+										"crop": "scale",
+										"start_offset": "3",
+										"end_offset": "15"
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "I'm a cool",
+										"font": "Raleway",
+										"size": 18,
+										"color": {
+											"hex": "#ffffff",
+											"rgb": {
+												"r": 255,
+												"g": 255,
+												"b": 255,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"entityMap": {},
+											"blocks": [
+												{
+													"key": "aqfon",
+													"text": "I'm a cool",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											]
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 3,
+										"end_offset": 4.8,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "guy that's that's my",
+										"font": "Raleway",
+										"size": 18,
+										"color": {
+											"hex": "#ffffff",
+											"rgb": {
+												"r": 255,
+												"g": 255,
+												"b": 255,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"entityMap": {},
+											"blocks": [
+												{
+													"key": "2j135",
+													"text": "guy that's that's my",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											]
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 4.8,
+										"end_offset": 5.9,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "thing",
+										"font": "Raleway",
+										"size": 18,
+										"color": {
+											"hex": "#ffffff",
+											"rgb": {
+												"r": 255,
+												"g": 255,
+												"b": 255,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"entityMap": {},
+											"blocks": [
+												{
+													"key": "85kl8",
+													"text": "thing",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											]
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 5.9,
+										"end_offset": 6.3,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "I'm",
+										"font": "Raleway",
+										"size": 18,
+										"color": {
+											"hex": "#ffffff",
+											"rgb": {
+												"r": 255,
+												"g": 255,
+												"b": 255,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"entityMap": {},
+											"blocks": [
+												{
+													"key": "48fs3",
+													"text": "I'm",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											]
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 7.4,
+										"end_offset": 7.8,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "happy I surf",
+										"font": "Raleway",
+										"size": 18,
+										"color": {
+											"hex": "#ffffff",
+											"rgb": {
+												"r": 255,
+												"g": 255,
+												"b": 255,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"entityMap": {},
+											"blocks": [
+												{
+													"key": "f6f6m",
+													"text": "happy I surf",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											]
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 7.8,
+										"end_offset": 8.9,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "center",
+										"crop": "scale",
+										"text": "the web I",
+										"font": "Raleway",
+										"size": 18,
+										"color": {
+											"hex": "#ffffff",
+											"rgb": {
+												"r": 255,
+												"g": 255,
+												"b": 255,
+												"a": 1
+											}
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"entityMap": {},
+											"blocks": [
+												{
+													"key": "6sb2j",
+													"text": "the web I",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											]
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 8.9,
+										"end_offset": 9.4,
+										"isAutoOverlayed": true
+									}
+								],
+								"videoOverlays": [],
+								"audioOverlays": [],
+								"captions": {
+									"captionString": "1\n00:00:03,000 --> 00:00:04,800\nI'm a cool\n\n2\n00:00:04,800 --> 00:00:05,900\nguy that's that's my\n\n3\n00:00:05,900 --> 00:00:06,300\nthing\n\n4\n00:00:07,400 --> 00:00:07,800\nI'm\n\n5\n00:00:07,800 --> 00:00:08,900\nhappy I surf\n\n6\n00:00:08,900 --> 00:00:09,400\nthe web I",
+									"parsed": [
+										{
+											"start": 3000,
+											"end": 4800,
+											"text": "I'm a cool"
+										},
+										{
+											"start": 4800,
+											"end": 5900,
+											"text": "guy that's that's my"
+										},
+										{
+											"start": 5900,
+											"end": 6300,
+											"text": "thing"
+										},
+										{
+											"start": 7400,
+											"end": 7800,
+											"text": "I'm"
+										},
+										{
+											"start": 7800,
+											"end": 8900,
+											"text": "happy I surf"
+										},
+										{
+											"start": 8900,
+											"end": 9400,
+											"text": "the web I"
+										}
+									],
+									"isAttached": false,
+									"font": "Noto Sans",
+									"size": 18,
+									"color": {
+										"rgb": {
+											"r": 0,
+											"g": 0,
+											"b": 0,
+											"a": 1
+										}
+									}
+								},
+								"transformedURLs": [
+									"https://res.cloudinary.com/qblm/video/upload/v1553534902/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/modernFamily_sll048.mp4",
+									"https://res.cloudinary.com/qblm/video/upload/v1553536646/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/ffmpeged_modernFamily_sll048_ut5yfo.mp4",
+									"https://res.cloudinary.com/qblm/video/upload/v1553631515/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/ffmpeged_modernFamily_sll048_kwebje.mp4",
+									"https://res.cloudinary.com/qblm/video/upload/v1553631911/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/ffmpeged_modernFamily_sll048_l68mso.mp4",
+									"https://res.cloudinary.com/qblm/video/upload/v1553632509/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/ffmpeged_modernFamily_sll048_xx6rit.mp4",
+									"https://res.cloudinary.com/qblm/video/upload/v1553633117/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/ffmpeged_modernFamily_sll048_a0t63v.mp4",
+									"https://res.cloudinary.com/qblm/video/upload/v1553633227/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/ffmpeged_modernFamily_sll048_wfbkef.mp4",
+									"https://res.cloudinary.com/qblm/video/upload/v1553711136/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/ffmpeged_modernFamily_sll048_itfnuz.mp4",
+									"https://res.cloudinary.com/qblm/video/upload/v1553711730/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/ffmpeged_modernFamily_sll048_qyae8u.mp4"
+								],
+								"transformedPublicIds": [
+									"UAT_1d474995-7967-3b69-b571-2951c6b49ed8/modernFamily_sll048",
+									"UAT_1d474995-7967-3b69-b571-2951c6b49ed8/ffmpeged_modernFamily_sll048_ut5yfo",
+									"UAT_1d474995-7967-3b69-b571-2951c6b49ed8/ffmpeged_modernFamily_sll048_kwebje",
+									"UAT_1d474995-7967-3b69-b571-2951c6b49ed8/ffmpeged_modernFamily_sll048_l68mso",
+									"UAT_1d474995-7967-3b69-b571-2951c6b49ed8/ffmpeged_modernFamily_sll048_xx6rit",
+									"UAT_1d474995-7967-3b69-b571-2951c6b49ed8/ffmpeged_modernFamily_sll048_a0t63v",
+									"UAT_1d474995-7967-3b69-b571-2951c6b49ed8/ffmpeged_modernFamily_sll048_wfbkef",
+									"UAT_1d474995-7967-3b69-b571-2951c6b49ed8/ffmpeged_modernFamily_sll048_itfnuz",
+									"UAT_1d474995-7967-3b69-b571-2951c6b49ed8/ffmpeged_modernFamily_sll048_qyae8u"
+								],
+								"embed": {
+									"width": 480,
+									"height": 360,
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"caption": "",
+									"seoSuffix": "modernfamily"
+								},
+								"underlay": {
+									"show": "stripe",
+									"gravity": "center",
+									"boxcolor": {
+										"rgb": {
+											"r": 217,
+											"g": 117,
+											"b": 222,
+											"a": 0.57
+										},
+										"hex": "#d975de"
+									},
+									"matchText": true
+								}
+							}
+						],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"fieldGeneral": {
+						"fieldGuid": "016190e7-2b9a-539b-af64-755d2bad0eed",
+						"fieldType": "fieldAudio",
+						"fieldIsVisibleCollections": [
+							"CuWXLLd58FCPoN258"
+						],
+						"fieldIsEditableCollections": [
+							"CuWXLLd58FCPoN258"
+						],
+						"fieldIsRequiredCollections": [
+							"CuWXLLd58FCPoN258"
+						],
+						"fieldIsMultipleCollections": [
+							"CuWXLLd58FCPoN258"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please upload Audio?",
+						"fieldKey": "91638e9b-a3d8-8734-fe8e-10c7306e1884",
+						"fieldValues": [
+							{
+								"public_id": "cd7f96ee-c3ff-814a-c690-e859093bf283",
+								"captions": {
+									"captionString": "0\nI'm a cool\n\n2\n00:00:04,800 --> 00:00:05,900\nguy that's that's my\n\n3\n00:00:05,900 --> 00:00:06,300\nthing\n\n4\n00:00:07,400 --> 00:00:07,800\nI'm\n\n5\n00:00:07,800 --> 00:00:08,900\nhappy I surf\n\n6\n00:00:08,900 --> 00:00:09,400\nthe web I\n",
+									"parsed": [
+										{
+											"start": 0,
+											"end": 0,
+											"text": "0\nI'm a cool\n\n2\n00:00:04,800 --> 00:00:05,900\nguy that's that's my\n\n3\n00:00:05,900 --> 00:00:06,300\nthing\n\n4\n00:00:07,400 --> 00:00:07,800\nI'm\n\n5\n00:00:07,800 --> 00:00:08,900\nhappy I surf\n\n6\n00:00:08,900 --> 00:00:09,400\nthe web I\n"
+										}
+									],
+									"font": "Noto Sans",
+									"size": 18,
+									"color": {
+										"rgb": {
+											"r": 0,
+											"g": 0,
+											"b": 0,
+											"a": 1
+										}
+									},
+									"isAttached": false
+								},
+								"overlays": [],
+								"embed": {
+									"width": 100,
+									"height": 100,
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"caption": "",
+									"seoSuffix": ""
+								}
+							}
+						],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"fieldGeneral": {
+						"fieldGuid": "2b6630dc-9c96-69e4-a15f-d72444bb3c4f",
+						"fieldType": "fieldImage",
+						"fieldIsVisibleCollections": [
+							"CuWXLLd58FCPoN258"
+						],
+						"fieldIsEditableCollections": [
+							"CuWXLLd58FCPoN258"
+						],
+						"fieldIsRequiredCollections": [
+							"CuWXLLd58FCPoN258"
+						],
+						"fieldIsMultipleCollections": [
+							"CuWXLLd58FCPoN258"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please upload Image?",
+						"fieldKey": "775d6d31-2afb-3f75-f67c-70365851d784",
+						"fieldValues": [
+							{
+								"public_id": "UAT_1d474995-7967-3b69-b571-2951c6b49ed8/sample_aynaqn",
+								"version": 1553534956,
+								"signature": "a1c6c9c558943e6135bc382a48c802df607fa1a8",
+								"width": 864,
+								"height": 576,
+								"format": "jpg",
+								"resource_type": "image",
+								"created_at": "2019-03-25T17:29:16Z",
+								"tags": [],
+								"bytes": 109669,
+								"type": "upload",
+								"etag": "3e297c2d8da6cb1310727332e862ece4",
+								"placeholder": false,
+								"url": "http://res.cloudinary.com/qblm/image/upload/v1553534956/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/sample_aynaqn.jpg",
+								"secure_url": "https://res.cloudinary.com/qblm/image/upload/v1553534956/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/sample_aynaqn.jpg",
+								"access_mode": "public",
+								"existing": false,
+								"original_filename": "sample",
+								"path": "v1553534956/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/sample_aynaqn.jpg",
+								"thumbnail_url": "https://res.cloudinary.com/qblm/image/upload/c_limit,h_60,w_90/v1553534956/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/sample_aynaqn.jpg",
+								"overlays": [
+									{
+										"isText": true,
+										"font": "Noto Sans",
+										"size": 18,
+										"color": {
+											"hex": "#ffffff",
+											"rgb": {
+												"r": 255,
+												"g": 255,
+												"b": 255,
+												"a": 1
+											}
+										},
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"isAttached": true,
+										"gravity": "north",
+										"crop": "scale",
+										"editorContent": {
+											"entityMap": {},
+											"blocks": [
+												{
+													"key": "ekaek",
+													"text": "testing new tr",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											]
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"text": "testing new tr"
+									},
+									{
+										"public_id": "UAT_1d474995-7967-3b69-b571-2951c6b49ed8/sample_aynaqn",
+										"secure_url": "https://res.cloudinary.com/qblm/image/upload/v1553534956/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/sample_aynaqn.jpg",
+										"x": "0",
+										"y": "0",
+										"width": "100",
+										"height": "100",
+										"isAttached": true,
+										"gravity": "south",
+										"crop": "scale"
+									}
+								],
+								"embed": {
+									"width": 864,
+									"height": 576,
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"caption": "",
+									"seoSuffix": "sample"
+								}
+							}
+						],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"fieldGeneral": {
+						"fieldGuid": "a0131453-8fba-0e7e-2036-d00c8a013659",
+						"fieldType": "fieldTextbox",
+						"fieldIsVisibleCollections": [
+							"CuWXLLd58FCPoN258"
+						],
+						"fieldIsEditableCollections": [
+							"CuWXLLd58FCPoN258"
+						],
+						"fieldIsRequiredCollections": [
+							"CuWXLLd58FCPoN258"
+						],
+						"fieldIsMultipleCollections": [
+							"CuWXLLd58FCPoN258"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please upload Text?",
+						"fieldKey": "d1a86683-e308-0fce-e5e7-343dc69c0141",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				}
+			]
+		},
+		"fileItemPublish": {
+			"fileItemTypes": []
+		}
+	}
+}
