@@ -152,11 +152,10 @@
 										"y": "0",
 										"width": "default",
 										"height": "default",
-										"hasChanged": true,
 										"isAttached": true,
 										"gravity": "south",
 										"crop": "scale",
-										"text": "guy that's that's my",
+										"text": "the web I",
 										"font": "Noto Sans",
 										"size": 14,
 										"color": {
@@ -174,8 +173,8 @@
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "50ds8",
-													"text": "guy that's that's my",
+													"key": "5r54o",
+													"text": "the web I",
 													"type": "unstyled",
 													"depth": 0,
 													"inlineStyleRanges": [],
@@ -188,18 +187,15 @@
 											"BOLD": false,
 											"ITALIC": false,
 											"UNDERLINE": false,
-											"STRIKETHROUGH": false,
-											"CODE": false,
-											"SUPERSCRIPT": false,
-											"SUBSCRIPT": false
+											"STRIKETHROUGH": false
 										},
 										"editorOthers": {
 											"language": "en",
 											"inputMethod": "system"
 										},
 										"isText": true,
-										"start_offset": 4.8,
-										"end_offset": 5.9,
+										"start_offset": 8.9,
+										"end_offset": 9.4,
 										"isAutoOverlayed": true
 									},
 									{
