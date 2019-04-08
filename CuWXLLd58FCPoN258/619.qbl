@@ -1522,7 +1522,7 @@
 									"seoSuffix": "modernfamily"
 								},
 								"underlay": {
-									"show": "stripe",
+									"show": "image",
 									"gravity": "center",
 									"boxcolor": {
 										"rgb": {
@@ -1533,6 +1533,7 @@
 										},
 										"hex": "#ff0000"
 									},
+									imageUrl: "https://res.cloudinary.com/qblm/image/upload/v1547627545/sample.jpg"
 									"matchText": false
 								}
 							}
