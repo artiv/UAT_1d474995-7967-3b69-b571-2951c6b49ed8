@@ -1533,7 +1533,7 @@
 										},
 										"hex": "#ff0000"
 									},
-									imageUrl: "https://res.cloudinary.com/qblm/image/upload/v1547627545/sample.jpg"
+									imageUrl: "https://res.cloudinary.com/qblm/image/upload/v1547627545/sample.jpg",
 									"matchText": false
 								}
 							}
