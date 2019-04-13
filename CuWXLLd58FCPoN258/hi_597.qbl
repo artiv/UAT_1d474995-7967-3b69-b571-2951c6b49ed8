@@ -100,9 +100,9 @@
 										"crop": "scale",
 										"start_offset": 3,
 										"end_offset": 4.8,
-										"text": "I ' ma शांत",
+										"text": "कहानियों के बारे में ",
 										"font": "Noto Sans Devanagari",
-										"size": 14,
+										"size": 18,
 										"color": {
 											"rgb": {
 												"r": 255,
@@ -119,10 +119,36 @@
 											"blocks": [
 												{
 													"key": "8iiod",
-													"text": "I ' ma शांत",
+													"text": "कहानियों के बारे में ",
 													"type": "unstyled",
 													"depth": 0,
-													"inlineStyleRanges": [],
+													"inlineStyleRanges": [
+														{
+															"offset": 0,
+															"length": 20,
+															"style": "color-rgb(36,41,46)"
+														},
+														{
+															"offset": 0,
+															"length": 20,
+															"style": "bgcolor-rgba(27,31,35,0.05)"
+														},
+														{
+															"offset": 0,
+															"length": 20,
+															"style": "fontsize-11.9"
+														},
+														{
+															"offset": 0,
+															"length": 20,
+															"style": "fontfamily-SFMono-Regular, Consolas, \"Liberation Mono\", Menlo, Courier, monospace"
+														},
+														{
+															"offset": 0,
+															"length": 21,
+															"style": "fontsize-18"
+														}
+													],
 													"entityRanges": [],
 													"data": {}
 												}
