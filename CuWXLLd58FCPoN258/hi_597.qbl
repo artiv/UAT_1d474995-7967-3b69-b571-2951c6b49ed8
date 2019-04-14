@@ -256,7 +256,6 @@
 										"y": "0",
 										"width": "default",
 										"height": "default",
-										"hasChanged": true,
 										"isAttached": true,
 										"gravity": "south",
 										"crop": "scale",
@@ -264,7 +263,7 @@
 										"end_offset": 6.3,
 										"text": "बात",
 										"font": "Noto Sans Devanagari",
-										"size": 14,
+										"size": 16,
 										"color": {
 											"rgb": {
 												"r": 255,
@@ -284,7 +283,13 @@
 													"text": "बात",
 													"type": "unstyled",
 													"depth": 0,
-													"inlineStyleRanges": [],
+													"inlineStyleRanges": [
+														{
+															"offset": 0,
+															"length": 3,
+															"style": "fontsize-16"
+														}
+													],
 													"entityRanges": [],
 													"data": {}
 												}
@@ -294,10 +299,7 @@
 											"BOLD": false,
 											"ITALIC": false,
 											"UNDERLINE": false,
-											"STRIKETHROUGH": false,
-											"CODE": false,
-											"SUPERSCRIPT": false,
-											"SUBSCRIPT": false
+											"STRIKETHROUGH": false
 										},
 										"editorOthers": {
 											"language": "en",
