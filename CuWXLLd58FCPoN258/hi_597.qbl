@@ -102,7 +102,7 @@
 										"end_offset": 4.8,
 										"text": "कहानियों के बारे में ",
 										"font": "Noto Sans Devanagari",
-										"size": 18,
+										"size": 24,
 										"color": {
 											"rgb": {
 												"r": 255,
@@ -147,6 +147,11 @@
 															"offset": 0,
 															"length": 21,
 															"style": "fontsize-18"
+														},
+														{
+															"offset": 0,
+															"length": 21,
+															"style": "fontsize-24"
 														}
 													],
 													"entityRanges": [],
