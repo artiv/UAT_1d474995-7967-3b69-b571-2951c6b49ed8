@@ -200,13 +200,13 @@
 										"font": "Noto Sans Devanagari",
 										"size": 14,
 										"color": {
+											"hex": "#abcdef",
 											"rgb": {
-												"r": 255,
-												"g": 255,
-												"b": 255,
-												"a": 1
-											},
-											"hex": "#ffffff"
+												"r": 171,
+												"g": 205,
+												"b": 239,
+												"a": 0.37
+											}
 										},
 										"useXY": false,
 										"matchUnderlay": true,
