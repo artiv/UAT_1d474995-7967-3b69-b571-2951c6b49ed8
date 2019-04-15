@@ -91,26 +91,38 @@
 								"thumbnail_url": "https://res.cloudinary.com/qblm/video/upload/c_limit,h_60,w_90/v1553752454/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/modernFamily_ihl2ho.jpg",
 								"overlays": [
 									{
+										"public_id": "UAT_1d474995-7967-3b69-b571-2951c6b49ed8/sample_boauoz",
+										"secure_url": "https://res.cloudinary.com/qblm/images/w_864,h_576,//v1554754553/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/sample_boauoz/sample.jpg",
+										"x": "0",
+										"y": "0",
+										"width": "200",
+										"height": "100",
+										"isAttached": false,
+										"gravity": "north_west",
+										"crop": "scale",
+										"start_offset": "0",
+										"end_offset": "30"
+									},
+									{
 										"x": "0",
 										"y": "0",
 										"width": "default",
 										"height": "default",
+										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "south",
+										"gravity": "center",
 										"crop": "scale",
-										"start_offset": 3,
-										"end_offset": 4.8,
-										"text": "कहानियों के बारे में ",
+										"text": "I ' ma शांत",
 										"font": "Noto Sans Devanagari",
-										"size": 24,
+										"size": 14,
 										"color": {
+											"hex": "#a453bb",
 											"rgb": {
-												"r": 255,
-												"g": 255,
-												"b": 255,
+												"r": 164,
+												"g": 83,
+												"b": 187,
 												"a": 1
-											},
-											"hex": "#ffffff"
+											}
 										},
 										"useXY": false,
 										"matchUnderlay": true,
@@ -118,42 +130,11 @@
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "8iiod",
-													"text": "कहानियों के बारे में ",
+													"key": "41rgp",
+													"text": "I ' ma शांत",
 													"type": "unstyled",
 													"depth": 0,
-													"inlineStyleRanges": [
-														{
-															"offset": 0,
-															"length": 20,
-															"style": "color-rgb(36,41,46)"
-														},
-														{
-															"offset": 0,
-															"length": 20,
-															"style": "bgcolor-rgba(27,31,35,0.05)"
-														},
-														{
-															"offset": 0,
-															"length": 20,
-															"style": "fontsize-11.9"
-														},
-														{
-															"offset": 0,
-															"length": 20,
-															"style": "fontfamily-SFMono-Regular, Consolas, \"Liberation Mono\", Menlo, Courier, monospace"
-														},
-														{
-															"offset": 0,
-															"length": 21,
-															"style": "fontsize-18"
-														},
-														{
-															"offset": 0,
-															"length": 21,
-															"style": "fontsize-24"
-														}
-													],
+													"inlineStyleRanges": [],
 													"entityRanges": [],
 													"data": {}
 												}
@@ -163,19 +144,24 @@
 											"BOLD": false,
 											"ITALIC": false,
 											"UNDERLINE": false,
-											"STRIKETHROUGH": false
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
 										},
 										"editorOthers": {
 											"language": "en",
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 3,
+										"end_offset": 4.8,
 										"isAutoOverlayed": true,
 										"originalState": {
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "6l5rb",
+													"key": "f994g",
 													"text": "I'm a cool",
 													"type": "unstyled",
 													"depth": 0,
@@ -191,21 +177,20 @@
 										"y": "0",
 										"width": "default",
 										"height": "default",
+										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "south",
+										"gravity": "center",
 										"crop": "scale",
-										"start_offset": 4.8,
-										"end_offset": 5.9,
 										"text": "आदमी है कि that's s मेरी",
 										"font": "Noto Sans Devanagari",
 										"size": 14,
 										"color": {
-											"hex": "#abcdef",
+											"hex": "#a453bb",
 											"rgb": {
-												"r": 171,
-												"g": 205,
-												"b": 239,
-												"a": 0.37
+												"r": 164,
+												"g": 83,
+												"b": 187,
+												"a": 1
 											}
 										},
 										"useXY": false,
@@ -214,7 +199,7 @@
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "8bk25",
+													"key": "79io3",
 													"text": "आदमी है कि that's s मेरी",
 													"type": "unstyled",
 													"depth": 0,
@@ -228,19 +213,24 @@
 											"BOLD": false,
 											"ITALIC": false,
 											"UNDERLINE": false,
-											"STRIKETHROUGH": false
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
 										},
 										"editorOthers": {
 											"language": "en",
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 4.8,
+										"end_offset": 5.9,
 										"isAutoOverlayed": true,
 										"originalState": {
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "ac84e",
+													"key": "7rh0t",
 													"text": "guy that's that's my",
 													"type": "unstyled",
 													"depth": 0,
@@ -256,22 +246,21 @@
 										"y": "0",
 										"width": "default",
 										"height": "default",
+										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "south",
+										"gravity": "center",
 										"crop": "scale",
-										"start_offset": 5.9,
-										"end_offset": 6.3,
 										"text": "बात",
 										"font": "Noto Sans Devanagari",
-										"size": 16,
+										"size": 14,
 										"color": {
+											"hex": "#a453bb",
 											"rgb": {
-												"r": 255,
-												"g": 255,
-												"b": 255,
+												"r": 164,
+												"g": 83,
+												"b": 187,
 												"a": 1
-											},
-											"hex": "#ffffff"
+											}
 										},
 										"useXY": false,
 										"matchUnderlay": true,
@@ -279,17 +268,11 @@
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "9nu53",
+													"key": "cqfbv",
 													"text": "बात",
 													"type": "unstyled",
 													"depth": 0,
-													"inlineStyleRanges": [
-														{
-															"offset": 0,
-															"length": 3,
-															"style": "fontsize-16"
-														}
-													],
+													"inlineStyleRanges": [],
 													"entityRanges": [],
 													"data": {}
 												}
@@ -299,19 +282,24 @@
 											"BOLD": false,
 											"ITALIC": false,
 											"UNDERLINE": false,
-											"STRIKETHROUGH": false
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
 										},
 										"editorOthers": {
 											"language": "en",
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 5.9,
+										"end_offset": 6.3,
 										"isAutoOverlayed": true,
 										"originalState": {
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "eu7o3",
+													"key": "2dblh",
 													"text": "thing",
 													"type": "unstyled",
 													"depth": 0,
@@ -329,21 +317,19 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "south",
+										"gravity": "center",
 										"crop": "scale",
-										"start_offset": 7.4,
-										"end_offset": 7.8,
 										"text": "मैं हूं",
 										"font": "Noto Sans Devanagari",
 										"size": 14,
 										"color": {
+											"hex": "#a453bb",
 											"rgb": {
-												"r": 255,
-												"g": 255,
-												"b": 255,
+												"r": 164,
+												"g": 83,
+												"b": 187,
 												"a": 1
-											},
-											"hex": "#ffffff"
+											}
 										},
 										"useXY": false,
 										"matchUnderlay": true,
@@ -351,7 +337,7 @@
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "cuqk",
+													"key": "e3vkq",
 													"text": "मैं हूं",
 													"type": "unstyled",
 													"depth": 0,
@@ -375,12 +361,14 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 7.4,
+										"end_offset": 7.8,
 										"isAutoOverlayed": true,
 										"originalState": {
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "46f2b",
+													"key": "fikr",
 													"text": "I'm",
 													"type": "unstyled",
 													"depth": 0,
@@ -398,21 +386,19 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "south",
+										"gravity": "center",
 										"crop": "scale",
-										"start_offset": 7.8,
-										"end_offset": 8.9,
 										"text": "मुबारक हो मैं सर्फ",
 										"font": "Noto Sans Devanagari",
 										"size": 14,
 										"color": {
+											"hex": "#a453bb",
 											"rgb": {
-												"r": 255,
-												"g": 255,
-												"b": 255,
+												"r": 164,
+												"g": 83,
+												"b": 187,
 												"a": 1
-											},
-											"hex": "#ffffff"
+											}
 										},
 										"useXY": false,
 										"matchUnderlay": true,
@@ -420,7 +406,7 @@
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "4bqai",
+													"key": "f22vg",
 													"text": "मुबारक हो मैं सर्फ",
 													"type": "unstyled",
 													"depth": 0,
@@ -444,12 +430,14 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 7.8,
+										"end_offset": 8.9,
 										"isAutoOverlayed": true,
 										"originalState": {
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "218ns",
+													"key": "3igg3",
 													"text": "happy I surf",
 													"type": "unstyled",
 													"depth": 0,
@@ -467,21 +455,19 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "south",
+										"gravity": "center",
 										"crop": "scale",
-										"start_offset": 8.9,
-										"end_offset": 9.4,
 										"text": "वेब मैं",
 										"font": "Noto Sans Devanagari",
 										"size": 14,
 										"color": {
+											"hex": "#a453bb",
 											"rgb": {
-												"r": 255,
-												"g": 255,
-												"b": 255,
+												"r": 164,
+												"g": 83,
+												"b": 187,
 												"a": 1
-											},
-											"hex": "#ffffff"
+											}
 										},
 										"useXY": false,
 										"matchUnderlay": true,
@@ -489,7 +475,7 @@
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "6nb3i",
+													"key": "acqt0",
 													"text": "वेब मैं",
 													"type": "unstyled",
 													"depth": 0,
@@ -513,12 +499,14 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 8.9,
+										"end_offset": 9.4,
 										"isAutoOverlayed": true,
 										"originalState": {
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "51tou",
+													"key": "3rc83",
 													"text": "the web I",
 													"type": "unstyled",
 													"depth": 0,
@@ -528,19 +516,6 @@
 												}
 											]
 										}
-									},
-									{
-										"public_id": "UAT_1d474995-7967-3b69-b571-2951c6b49ed8/sample_boauoz",
-										"secure_url": "https://res.cloudinary.com/qblm/images/w_864,h_576,//v1554754553/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/sample_boauoz/sample.jpg",
-										"x": "0",
-										"y": "0",
-										"width": "200",
-										"height": "100",
-										"isAttached": false,
-										"gravity": "north_west",
-										"crop": "scale",
-										"start_offset": "0",
-										"end_offset": "30"
 									}
 								],
 								"videoOverlays": [],
@@ -637,17 +612,17 @@
 								},
 								"underlay": {
 									"show": "stripe",
-									"gravity": "south",
+									"gravity": "center",
 									"boxcolor": {
 										"rgb": {
 											"r": 255,
 											"g": 0,
 											"b": 0,
-											"a": 0.39
+											"a": 0.14
 										},
 										"hex": "#ff0000"
 									},
-									"matchText": true
+									"matchText": false
 								}
 							}
 						],
