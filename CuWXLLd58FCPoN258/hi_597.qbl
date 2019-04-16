@@ -557,8 +557,9 @@
 									"font": "Noto Sans Devanagari",
 									"size": 18,
 									"color": {
+										"hex": "#ff0000",
 										"rgb": {
-											"r": 0,
+											"r": 255,
 											"g": 0,
 											"b": 0,
 											"a": 1
