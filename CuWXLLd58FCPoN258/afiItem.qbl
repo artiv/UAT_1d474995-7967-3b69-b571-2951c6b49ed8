@@ -1,0 +1,264 @@
+{
+	"fileName": "afiItem.qbl",
+	"fileTemplateRepo": "UAT_1d474995-7967-3b69-b571-2951c6b49ed8",
+	"fileTemplatePath": "CuWXLLd58FCPoN258/afi.q6a",
+	"fileItem": {
+		"fileItemGeneral": {
+			"fileItemGuid": "825fd237-8ee4-6ac3-c367-7d616a7cb7f5",
+			"fileItemDate": "2019-04-16T10:39:14.970Z",
+			"fileItemCollections": [
+				"CuWXLLd58FCPoN258"
+			],
+			"fileItemCollectionsForTranslation": [
+				"CuWXLLd58FCPoN258"
+			]
+		},
+		"fileItemLanguage": {
+			"primaryLanguage": "PoxA4MpiE34gKXqYL",
+			"possibleLanguages": [
+				"PoxA4MpiE34gKXqYL",
+				"BCTQmLdCs2P7eCJjm"
+			]
+		},
+		"fileItemStructure": {
+			"fileItemGenerics": [
+				{
+					"genericGeneral": {
+						"genericGuid": "c8a11978-e5c9-abb3-ec85-509411786c18",
+						"genericType": "genericParent",
+						"genericIsVisibleCollections": [
+							"CuWXLLd58FCPoN258"
+						],
+						"genericIsEditableCollections": [
+							"CuWXLLd58FCPoN258"
+						],
+						"genericIsRequiredCollections": [],
+						"genericIsMultipleCollections": []
+					},
+					"genericMeta": {
+						"genericCanTranslate": true,
+						"genericCanParent": true,
+						"genericCanChild": false
+					},
+					"genericSpecific": {
+						"genericInformation": "Please upload Parent?",
+						"genericChildren": [
+							"2c358e68-0cf0-19c7-51bd-616f5ac66301",
+							"cb263655-a767-3c30-e3c3-d10ce4765b41"
+						],
+						"genericParent": "",
+						"genericKey": "31c7dbbc-48e1-63ab-9559-60896546fc87",
+						"genericValues": []
+					},
+					"genericWorking": {
+						"genericOrderId": "",
+						"genericOrderComment": "",
+						"specificOrderComment": "",
+						"genericJobId": "",
+						"genericJobStatus": "",
+						"genericJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"genericGeneral": {
+						"genericGuid": "2c358e68-0cf0-19c7-51bd-616f5ac66301",
+						"genericType": "genericText",
+						"genericIsVisibleCollections": [
+							"CuWXLLd58FCPoN258"
+						],
+						"genericIsEditableCollections": [
+							"CuWXLLd58FCPoN258"
+						],
+						"genericIsRequiredCollections": [
+							"CuWXLLd58FCPoN258"
+						],
+						"genericIsMultipleCollections": [
+							"CuWXLLd58FCPoN258"
+						]
+					},
+					"genericMeta": {
+						"genericCanTranslate": true,
+						"genericCanParent": false,
+						"genericCanChild": true
+					},
+					"genericSpecific": {
+						"genericInformation": "Please upload Text gen?",
+						"genericChildren": [],
+						"genericParent": "c8a11978-e5c9-abb3-ec85-509411786c18",
+						"genericKey": "793dc01a-8c11-121a-675c-4f66be5067e2",
+						"genericValues": []
+					},
+					"genericWorking": {
+						"genericOrderId": "",
+						"genericOrderComment": "",
+						"specificOrderComment": "",
+						"genericJobId": "",
+						"genericJobStatus": "",
+						"genericJobComment": "",
+						"specificJobComment": ""
+					}
+				}
+			],
+			"fileItemFields": [
+				{
+					"fieldGeneral": {
+						"fieldGuid": "cb263655-a767-3c30-e3c3-d10ce4765b41",
+						"fieldType": "fieldVideo",
+						"fieldIsVisibleCollections": [
+							"CuWXLLd58FCPoN258"
+						],
+						"fieldIsEditableCollections": [
+							"CuWXLLd58FCPoN258"
+						],
+						"fieldIsRequiredCollections": [
+							"CuWXLLd58FCPoN258"
+						],
+						"fieldIsMultipleCollections": [
+							"CuWXLLd58FCPoN258"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": true
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please upload Video?",
+						"fieldKey": "372d9fd1-ce6a-42be-74d6-314fa6ea42a3",
+						"fieldValues": [],
+						"fieldChildren": [],
+						"fieldParent": "c8a11978-e5c9-abb3-ec85-509411786c18"
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"fieldGeneral": {
+						"fieldGuid": "016190e7-2b9a-539b-af64-755d2bad0eed",
+						"fieldType": "fieldAudio",
+						"fieldIsVisibleCollections": [
+							"CuWXLLd58FCPoN258"
+						],
+						"fieldIsEditableCollections": [
+							"CuWXLLd58FCPoN258"
+						],
+						"fieldIsRequiredCollections": [
+							"CuWXLLd58FCPoN258"
+						],
+						"fieldIsMultipleCollections": [
+							"CuWXLLd58FCPoN258"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": true
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please upload Audio?",
+						"fieldKey": "91638e9b-a3d8-8734-fe8e-10c7306e1884",
+						"fieldValues": [],
+						"fieldChildren": [],
+						"fieldParent": ""
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"fieldGeneral": {
+						"fieldGuid": "2b6630dc-9c96-69e4-a15f-d72444bb3c4f",
+						"fieldType": "fieldImage",
+						"fieldIsVisibleCollections": [
+							"CuWXLLd58FCPoN258"
+						],
+						"fieldIsEditableCollections": [
+							"CuWXLLd58FCPoN258"
+						],
+						"fieldIsRequiredCollections": [
+							"CuWXLLd58FCPoN258"
+						],
+						"fieldIsMultipleCollections": [
+							"CuWXLLd58FCPoN258"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please upload Image?",
+						"fieldKey": "775d6d31-2afb-3f75-f67c-70365851d784",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"fieldGeneral": {
+						"fieldGuid": "a0131453-8fba-0e7e-2036-d00c8a013659",
+						"fieldType": "fieldTextbox",
+						"fieldIsVisibleCollections": [
+							"CuWXLLd58FCPoN258"
+						],
+						"fieldIsEditableCollections": [
+							"CuWXLLd58FCPoN258"
+						],
+						"fieldIsRequiredCollections": [
+							"CuWXLLd58FCPoN258"
+						],
+						"fieldIsMultipleCollections": [
+							"CuWXLLd58FCPoN258"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please upload Text?",
+						"fieldKey": "d1a86683-e308-0fce-e5e7-343dc69c0141",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				}
+			]
+		},
+		"fileItemPublish": {
+			"fileItemTypes": []
+		}
+	}
+}
