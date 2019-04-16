@@ -173,9 +173,8 @@
 										"y": "0",
 										"width": "default",
 										"height": "default",
-										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "north",
+										"gravity": "south",
 										"crop": "scale",
 										"text": "कहानियों के बारे में",
 										"font": "Noto Sans Devanagari",
@@ -190,7 +189,7 @@
 											"hex": "#ffffff"
 										},
 										"useXY": false,
-										"matchUnderlay": true,
+										"matchUnderlay": false,
 										"editorContent": {
 											"entityMap": {},
 											"blocks": [
@@ -209,10 +208,7 @@
 											"BOLD": false,
 											"ITALIC": false,
 											"UNDERLINE": false,
-											"STRIKETHROUGH": false,
-											"CODE": false,
-											"SUPERSCRIPT": false,
-											"SUBSCRIPT": false
+											"STRIKETHROUGH": false
 										},
 										"editorOthers": {
 											"language": "en",
