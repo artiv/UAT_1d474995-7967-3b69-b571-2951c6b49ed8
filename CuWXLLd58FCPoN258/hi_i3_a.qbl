@@ -175,11 +175,11 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "center",
+										"gravity": "north",
 										"crop": "scale",
 										"text": "कहानियों के बारे में",
 										"font": "Noto Sans Devanagari",
-										"size": 16,
+										"size": 14,
 										"color": {
 											"rgb": {
 												"r": 255,
@@ -195,7 +195,7 @@
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "4pucs",
+													"key": "909p0",
 													"text": "कहानियों के बारे में",
 													"type": "unstyled",
 													"depth": 0,
@@ -226,7 +226,7 @@
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "3o0bu",
+													"key": "90vqe",
 													"text": "I'm a cool",
 													"type": "unstyled",
 													"depth": 0,
@@ -244,11 +244,11 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "center",
+										"gravity": "north",
 										"crop": "scale",
 										"text": "आदमी है कि that's s मेरी",
 										"font": "Noto Sans Devanagari",
-										"size": 16,
+										"size": 14,
 										"color": {
 											"rgb": {
 												"r": 255,
@@ -264,7 +264,7 @@
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "4ao32",
+													"key": "5t3bu",
 													"text": "आदमी है कि that's s मेरी",
 													"type": "unstyled",
 													"depth": 0,
@@ -295,7 +295,7 @@
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "nqkm",
+													"key": "8bp5q",
 													"text": "guy that's that's my",
 													"type": "unstyled",
 													"depth": 0,
@@ -313,11 +313,11 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "center",
+										"gravity": "north",
 										"crop": "scale",
 										"text": "फेंग",
 										"font": "Noto Sans Devanagari",
-										"size": 16,
+										"size": 14,
 										"color": {
 											"rgb": {
 												"r": 255,
@@ -333,7 +333,7 @@
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "1r76q",
+													"key": "beabc",
 													"text": "फेंग",
 													"type": "unstyled",
 													"depth": 0,
@@ -364,7 +364,7 @@
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "65pf0",
+													"key": "ee86b",
 													"text": "Fang",
 													"type": "unstyled",
 													"depth": 0,
@@ -382,11 +382,11 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "center",
+										"gravity": "north",
 										"crop": "scale",
 										"text": "मैं हूं",
 										"font": "Noto Sans Devanagari",
-										"size": 16,
+										"size": 14,
 										"color": {
 											"rgb": {
 												"r": 255,
@@ -402,7 +402,7 @@
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "avngc",
+													"key": "66p64",
 													"text": "मैं हूं",
 													"type": "unstyled",
 													"depth": 0,
@@ -433,7 +433,7 @@
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "7gife",
+													"key": "alj7",
 													"text": "I'm",
 													"type": "unstyled",
 													"depth": 0,
@@ -451,11 +451,11 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "center",
+										"gravity": "north",
 										"crop": "scale",
 										"text": "यहां 5 मैं सर्फ",
 										"font": "Noto Sans Devanagari",
-										"size": 16,
+										"size": 14,
 										"color": {
 											"rgb": {
 												"r": 255,
@@ -471,7 +471,7 @@
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "a7q34",
+													"key": "5l9p2",
 													"text": "यहां 5 मैं सर्फ",
 													"type": "unstyled",
 													"depth": 0,
@@ -502,7 +502,7 @@
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "34rjr",
+													"key": "eh5fj",
 													"text": "here 5 i surf",
 													"type": "unstyled",
 													"depth": 0,
@@ -520,11 +520,11 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "center",
+										"gravity": "north",
 										"crop": "scale",
 										"text": "वेब मैं",
 										"font": "Noto Sans Devanagari",
-										"size": 16,
+										"size": 14,
 										"color": {
 											"rgb": {
 												"r": 255,
@@ -540,7 +540,7 @@
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "ejg6k",
+													"key": "f3s6g",
 													"text": "वेब मैं",
 													"type": "unstyled",
 													"depth": 0,
@@ -571,7 +571,7 @@
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "91mvk",
+													"key": "f4o3d",
 													"text": "the web I",
 													"type": "unstyled",
 													"depth": 0,
@@ -589,11 +589,11 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "center",
+										"gravity": "north",
 										"crop": "scale",
 										"text": "पाठ योग्य",
 										"font": "Noto Sans Devanagari",
-										"size": 16,
+										"size": 14,
 										"color": {
 											"rgb": {
 												"r": 255,
@@ -609,7 +609,7 @@
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "4fh4",
+													"key": "283g2",
 													"text": "पाठ योग्य",
 													"type": "unstyled",
 													"depth": 0,
@@ -640,7 +640,7 @@
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "3gban",
+													"key": "6kbqh",
 													"text": "text LOL",
 													"type": "unstyled",
 													"depth": 0,
@@ -658,11 +658,11 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "center",
+										"gravity": "north",
 										"crop": "scale",
 										"text": "ज़ोर की हँसी",
 										"font": "Noto Sans Devanagari",
-										"size": 16,
+										"size": 14,
 										"color": {
 											"rgb": {
 												"r": 255,
@@ -678,7 +678,7 @@
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "attqr",
+													"key": "6oj9q",
 													"text": "ज़ोर की हँसी",
 													"type": "unstyled",
 													"depth": 0,
@@ -709,7 +709,7 @@
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "9f0p",
+													"key": "bbjgh",
 													"text": "laugh out loud",
 													"type": "unstyled",
 													"depth": 0,
@@ -727,11 +727,11 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "center",
+										"gravity": "north",
 										"crop": "scale",
 										"text": "OMG ओह मेरी",
 										"font": "Noto Sans Devanagari",
-										"size": 16,
+										"size": 14,
 										"color": {
 											"rgb": {
 												"r": 255,
@@ -747,7 +747,7 @@
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "5239l",
+													"key": "4cpm1",
 													"text": "OMG ओह मेरी",
 													"type": "unstyled",
 													"depth": 0,
@@ -778,7 +778,7 @@
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "ba7ar",
+													"key": "4bt19",
 													"text": "OMG oh my",
 													"type": "unstyled",
 													"depth": 0,
@@ -796,11 +796,11 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "center",
+										"gravity": "north",
 										"crop": "scale",
 										"text": "भगवान WTF",
 										"font": "Noto Sans Devanagari",
-										"size": 16,
+										"size": 14,
 										"color": {
 											"rgb": {
 												"r": 255,
@@ -816,7 +816,7 @@
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "851ac",
+													"key": "3u8k8",
 													"text": "भगवान WTF",
 													"type": "unstyled",
 													"depth": 0,
@@ -847,7 +847,7 @@
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "13c4g",
+													"key": "6vujg",
 													"text": "God WTF",
 													"type": "unstyled",
 													"depth": 0,
@@ -865,11 +865,11 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "center",
+										"gravity": "north",
 										"crop": "scale",
 										"text": "क्यों फैजे",
 										"font": "Noto Sans Devanagari",
-										"size": 16,
+										"size": 14,
 										"color": {
 											"rgb": {
 												"r": 255,
@@ -885,7 +885,7 @@
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "dk8ec",
+													"key": "2lmq",
 													"text": "क्यों फैजे",
 													"type": "unstyled",
 													"depth": 0,
@@ -916,7 +916,7 @@
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "v46d",
+													"key": "ategn",
 													"text": "why the FaZe",
 													"type": "unstyled",
 													"depth": 0,
@@ -934,11 +934,11 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "center",
+										"gravity": "north",
 										"crop": "scale",
 										"text": "तुंहें पता है मैं",
 										"font": "Noto Sans Devanagari",
-										"size": 16,
+										"size": 14,
 										"color": {
 											"rgb": {
 												"r": 255,
@@ -954,7 +954,7 @@
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "5045f",
+													"key": "1te37",
 													"text": "तुंहें पता है मैं",
 													"type": "unstyled",
 													"depth": 0,
@@ -985,7 +985,7 @@
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "djsnt",
+													"key": "d4opa",
 													"text": "you know I",
 													"type": "unstyled",
 													"depth": 0,
@@ -1003,11 +1003,11 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "center",
+										"gravity": "north",
 										"crop": "scale",
 										"text": "जानिए सभी लोकनृत्य उच्च",
 										"font": "Noto Sans Devanagari",
-										"size": 16,
+										"size": 14,
 										"color": {
 											"rgb": {
 												"r": 255,
@@ -1023,7 +1023,7 @@
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "6nfad",
+													"key": "arfme",
 													"text": "जानिए सभी लोकनृत्य उच्च",
 													"type": "unstyled",
 													"depth": 0,
@@ -1054,7 +1054,7 @@
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "96num",
+													"key": "8rrul",
 													"text": "know all the dances High",
 													"type": "unstyled",
 													"depth": 0,
@@ -1072,11 +1072,11 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "center",
+										"gravity": "north",
 										"crop": "scale",
 										"text": "स्कूल संगीत",
 										"font": "Noto Sans Devanagari",
-										"size": 16,
+										"size": 14,
 										"color": {
 											"rgb": {
 												"r": 255,
@@ -1092,7 +1092,7 @@
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "4n06d",
+													"key": "cva2h",
 													"text": "स्कूल संगीत",
 													"type": "unstyled",
 													"depth": 0,
@@ -1123,7 +1123,7 @@
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "19l9d",
+													"key": "da37h",
 													"text": "School Musical",
 													"type": "unstyled",
 													"depth": 0,
@@ -1141,11 +1141,11 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "center",
+										"gravity": "north",
 										"crop": "scale",
 										"text": "हम सब कर रहे है",
 										"font": "Noto Sans Devanagari",
-										"size": 16,
+										"size": 14,
 										"color": {
 											"rgb": {
 												"r": 255,
@@ -1161,7 +1161,7 @@
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "38foe",
+													"key": "7d1co",
 													"text": "हम सब कर रहे है",
 													"type": "unstyled",
 													"depth": 0,
@@ -1192,7 +1192,7 @@
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "2ufq4",
+													"key": "62ih1",
 													"text": "We're All",
 													"type": "unstyled",
 													"depth": 0,
@@ -1210,11 +1210,11 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "center",
+										"gravity": "north",
 										"crop": "scale",
 										"text": "इस में",
 										"font": "Noto Sans Devanagari",
-										"size": 16,
+										"size": 14,
 										"color": {
 											"rgb": {
 												"r": 255,
@@ -1230,7 +1230,7 @@
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "ft1e9",
+													"key": "6arhi",
 													"text": "इस में",
 													"type": "unstyled",
 													"depth": 0,
@@ -1261,7 +1261,7 @@
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "cg0n8",
+													"key": "1niuk",
 													"text": "in This",
 													"type": "unstyled",
 													"depth": 0,
@@ -1279,11 +1279,11 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "center",
+										"gravity": "north",
 										"crop": "scale",
 										"text": "साथ-साथ",
 										"font": "Noto Sans Devanagari",
-										"size": 16,
+										"size": 14,
 										"color": {
 											"rgb": {
 												"r": 255,
@@ -1299,7 +1299,7 @@
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "nka6",
+													"key": "a7r65",
 													"text": "साथ-साथ",
 													"type": "unstyled",
 													"depth": 0,
@@ -1330,7 +1330,7 @@
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "dflnu",
+													"key": "4t8b3",
 													"text": "Together",
 													"type": "unstyled",
 													"depth": 0,
@@ -1348,11 +1348,11 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "center",
+										"gravity": "north",
 										"crop": "scale",
 										"text": "हां हम कर रहे है",
 										"font": "Noto Sans Devanagari",
-										"size": 16,
+										"size": 14,
 										"color": {
 											"rgb": {
 												"r": 255,
@@ -1368,7 +1368,7 @@
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "2e7gt",
+													"key": "clffm",
 													"text": "हां हम कर रहे है",
 													"type": "unstyled",
 													"depth": 0,
@@ -1399,7 +1399,7 @@
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "8o82e",
+													"key": "9bsu6",
 													"text": "yes we are",
 													"type": "unstyled",
 													"depth": 0,
@@ -1417,11 +1417,11 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "center",
+										"gravity": "north",
 										"crop": "scale",
 										"text": "हम सब कर रहे है",
 										"font": "Noto Sans Devanagari",
-										"size": 16,
+										"size": 14,
 										"color": {
 											"rgb": {
 												"r": 255,
@@ -1437,7 +1437,7 @@
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "o3dt",
+													"key": "8n71b",
 													"text": "हम सब कर रहे है",
 													"type": "unstyled",
 													"depth": 0,
@@ -1468,7 +1468,7 @@
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "971s2",
+													"key": "fnjd5",
 													"text": "we're all",
 													"type": "unstyled",
 													"depth": 0,
@@ -1486,11 +1486,11 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "center",
+										"gravity": "north",
 										"crop": "scale",
 										"text": "सितारों और",
 										"font": "Noto Sans Devanagari",
-										"size": 16,
+										"size": 14,
 										"color": {
 											"rgb": {
 												"r": 255,
@@ -1506,7 +1506,7 @@
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "dh1r8",
+													"key": "ctvc",
 													"text": "सितारों और",
 													"type": "unstyled",
 													"depth": 0,
@@ -1537,7 +1537,7 @@
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "6p0ec",
+													"key": "5ia19",
 													"text": "stars and",
 													"type": "unstyled",
 													"depth": 0,
@@ -1555,11 +1555,11 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "center",
+										"gravity": "north",
 										"crop": "scale",
 										"text": "आप",
 										"font": "Noto Sans Devanagari",
-										"size": 16,
+										"size": 14,
 										"color": {
 											"rgb": {
 												"r": 255,
@@ -1575,7 +1575,7 @@
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "9vj9a",
+													"key": "4kg7c",
 													"text": "आप",
 													"type": "unstyled",
 													"depth": 0,
@@ -1606,7 +1606,7 @@
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "51q8b",
+													"key": "4p4fo",
 													"text": "you",
 													"type": "unstyled",
 													"depth": 0,
@@ -1624,11 +1624,11 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "center",
+										"gravity": "north",
 										"crop": "scale",
 										"text": "पता है यह",
 										"font": "Noto Sans Devanagari",
-										"size": 16,
+										"size": 14,
 										"color": {
 											"rgb": {
 												"r": 255,
@@ -1644,7 +1644,7 @@
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "c1mi2",
+													"key": "d7f12",
 													"text": "पता है यह",
 													"type": "unstyled",
 													"depth": 0,
@@ -1675,7 +1675,7 @@
 											"entityMap": {},
 											"blocks": [
 												{
-													"key": "5g45",
+													"key": "2uqel",
 													"text": "know it",
 													"type": "unstyled",
 													"depth": 0,
@@ -1854,7 +1854,7 @@
 								},
 								"underlay": {
 									"show": "stripe",
-									"gravity": "center",
+									"gravity": "north",
 									"boxcolor": {
 										"rgb": {
 											"r": 0,
@@ -1864,7 +1864,7 @@
 										},
 										"hex": "#00ff00"
 									},
-									"matchText": false
+									"matchText": true
 								}
 							}
 						],
