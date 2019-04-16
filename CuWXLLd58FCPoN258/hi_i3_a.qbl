@@ -234,11 +234,10 @@
 										}
 									},
 									{
-										"x": "0",
-										"y": "0",
+										"x": "100",
+										"y": "100",
 										"width": "default",
 										"height": "default",
-										"hasChanged": true,
 										"isAttached": true,
 										"gravity": "north",
 										"crop": "scale",
@@ -254,8 +253,8 @@
 											},
 											"hex": "#ffffff"
 										},
-										"useXY": false,
-										"matchUnderlay": true,
+										"useXY": true,
+										"matchUnderlay": false,
 										"editorContent": {
 											"entityMap": {},
 											"blocks": [
@@ -274,10 +273,7 @@
 											"BOLD": false,
 											"ITALIC": false,
 											"UNDERLINE": false,
-											"STRIKETHROUGH": false,
-											"CODE": false,
-											"SUPERSCRIPT": false,
-											"SUBSCRIPT": false
+											"STRIKETHROUGH": false
 										},
 										"editorOthers": {
 											"language": "en",
