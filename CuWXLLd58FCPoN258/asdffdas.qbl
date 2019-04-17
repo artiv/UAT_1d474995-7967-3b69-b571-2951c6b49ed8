@@ -302,7 +302,7 @@
 										"secure_url": "https://res.cloudinary.com/qblm/raw/upload/v1555540342/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/modernFamily_xyz9ue_en-US_jusr.srt",
 										"access_mode": "public"
 									},
-									"isAttached": false
+									"isAttached": true
 								},
 								"transformedURLs": [
 									"https://res.cloudinary.com/qblm/video/upload/v1555540230/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/modernFamily_xyz9ue.mp4"
