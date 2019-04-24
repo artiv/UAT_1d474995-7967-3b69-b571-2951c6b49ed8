@@ -183,6 +183,19 @@
 										"crop": "scale",
 										"start_offset": "8",
 										"end_offset": "11"
+									},
+									{
+										"public_id": "UAT_1d474995-7967-3b69-b571-2951c6b49ed8/sampleVideo_mdlmlg",
+										"secure_url": "https://res.cloudinary.com/qblm/video/upload/v1556090550/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/sampleVideo_mdlmlg.mp4",
+										"x": "0",
+										"y": "0",
+										"width": "200",
+										"height": "200",
+										"isAttached": true,
+										"gravity": "north_west",
+										"crop": "scale",
+										"start_offset": "17",
+										"end_offset": "24"
 									}
 								],
 								"audioOverlays": [],
