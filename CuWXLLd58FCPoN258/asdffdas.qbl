@@ -182,7 +182,7 @@
 										"gravity": "north_west",
 										"crop": "scale",
 										"start_offset": "8",
-										"end_offset": "11"
+										"end_offset": "20"
 									},
 									{
 										"public_id": "UAT_1d474995-7967-3b69-b571-2951c6b49ed8/sampleVideo_mdlmlg",
