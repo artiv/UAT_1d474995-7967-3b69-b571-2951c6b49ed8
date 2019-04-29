@@ -128,27 +128,27 @@
 						"fieldKey": "372d9fd1-ce6a-42be-74d6-314fa6ea42a3",
 						"fieldValues": [
 							{
-								"public_id": "UAT_1d474995-7967-3b69-b571-2951c6b49ed8/ffmpeged_modernFamily_xyz9ue_u6bz0q",
-								"version": 1556567413,
-								"signature": "2befcf81ec671cf675a18bba252bfa7cd8b1a4b3",
+								"public_id": "UAT_1d474995-7967-3b69-b571-2951c6b49ed8/ffmpeged_modernFamily_xyz9ue_uqmrbz",
+								"version": 1556569147,
+								"signature": "99c599ca9ce530ddea3d8cb9c5bc0f35a186286d",
 								"width": 480,
 								"height": 360,
 								"format": "mp4",
 								"resource_type": "video",
-								"created_at": "2019-04-29T19:50:13Z",
+								"created_at": "2019-04-29T20:19:07Z",
 								"tags": [],
 								"pages": 0,
-								"bytes": 1268661,
+								"bytes": 1331055,
 								"type": "upload",
-								"etag": "cf41c3f9d59423a802067c77d8f0f395",
+								"etag": "55264035c3eca468c73dd07c012eeb87",
 								"placeholder": false,
-								"url": "http://res.cloudinary.com/qblm/video/upload/v1556567413/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/ffmpeged_modernFamily_xyz9ue_u6bz0q.mp4",
-								"secure_url": "https://res.cloudinary.com/qblm/video/upload/v1556567413/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/ffmpeged_modernFamily_xyz9ue_u6bz0q.mp4",
+								"url": "http://res.cloudinary.com/qblm/video/upload/v1556569147/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/ffmpeged_modernFamily_xyz9ue_uqmrbz.mp4",
+								"secure_url": "https://res.cloudinary.com/qblm/video/upload/v1556569147/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/ffmpeged_modernFamily_xyz9ue_uqmrbz.mp4",
 								"access_mode": "public",
 								"existing": false,
 								"audio": {
 									"codec": "aac",
-									"bit_rate": "119432",
+									"bit_rate": "123390",
 									"frequency": 44100,
 									"channels": 2,
 									"channel_layout": "stereo"
@@ -158,13 +158,13 @@
 									"codec": "h264",
 									"level": 21,
 									"profile": "High",
-									"bit_rate": "211284",
+									"bit_rate": "171440",
 									"dar": "4:3"
 								},
 								"is_audio": false,
 								"frame_rate": 24,
-								"bit_rate": 336481,
-								"duration": 30.139002,
+								"bit_rate": 301015,
+								"duration": 35.375,
 								"rotation": 0,
 								"original_filename": "ffmpeged_modernFamily_xyz9ue",
 								"path": "v1555540230/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/modernFamily_xyz9ue.mp4",
@@ -345,7 +345,8 @@
 									"https://res.cloudinary.com/qblm/video/upload/v1556092578/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/ffmpeged_modernFamily_xyz9ue_ivnlnf.mp4",
 									"https://res.cloudinary.com/qblm/video/upload/v1556094137/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/ffmpeged_modernFamily_xyz9ue_lmvkhv.mp4",
 									"https://res.cloudinary.com/qblm/video/upload/v1556566777/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/ffmpeged_modernFamily_xyz9ue_ajimqf.mp4",
-									"https://res.cloudinary.com/qblm/video/upload/v1556567413/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/ffmpeged_modernFamily_xyz9ue_u6bz0q.mp4"
+									"https://res.cloudinary.com/qblm/video/upload/v1556567413/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/ffmpeged_modernFamily_xyz9ue_u6bz0q.mp4",
+									"https://res.cloudinary.com/qblm/video/upload/v1556569147/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/ffmpeged_modernFamily_xyz9ue_uqmrbz.mp4"
 								],
 								"transformedPublicIds": [
 									"UAT_1d474995-7967-3b69-b571-2951c6b49ed8/modernFamily_xyz9ue",
@@ -353,7 +354,8 @@
 									"UAT_1d474995-7967-3b69-b571-2951c6b49ed8/ffmpeged_modernFamily_xyz9ue_ivnlnf",
 									"UAT_1d474995-7967-3b69-b571-2951c6b49ed8/ffmpeged_modernFamily_xyz9ue_lmvkhv",
 									"UAT_1d474995-7967-3b69-b571-2951c6b49ed8/ffmpeged_modernFamily_xyz9ue_ajimqf",
-									"UAT_1d474995-7967-3b69-b571-2951c6b49ed8/ffmpeged_modernFamily_xyz9ue_u6bz0q"
+									"UAT_1d474995-7967-3b69-b571-2951c6b49ed8/ffmpeged_modernFamily_xyz9ue_u6bz0q",
+									"UAT_1d474995-7967-3b69-b571-2951c6b49ed8/ffmpeged_modernFamily_xyz9ue_uqmrbz"
 								],
 								"embed": {
 									"width": 480,
