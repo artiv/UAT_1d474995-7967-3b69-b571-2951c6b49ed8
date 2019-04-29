@@ -195,7 +195,7 @@
 										"gravity": "south_east",
 										"crop": "scale",
 										"start_offset": "17",
-										"end_offset": "24"
+										"end_offset": "35"
 									}
 								],
 								"audioOverlays": [],
