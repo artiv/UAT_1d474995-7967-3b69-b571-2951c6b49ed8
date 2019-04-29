@@ -194,7 +194,7 @@
 										"isAttached": true,
 										"gravity": "south_east",
 										"crop": "scale",
-										"start_offset": "17",
+										"start_offset": "30.5",
 										"end_offset": "35"
 									}
 								],
