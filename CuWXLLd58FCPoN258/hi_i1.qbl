@@ -177,8 +177,6 @@
 										"isAttached": true,
 										"gravity": "south",
 										"crop": "scale",
-										"start_offset": 0,
-										"end_offset": 1.8,
 										"text": "हर कोई अनुभव",
 										"font": "Noto Sans Devanagari",
 										"size": 14,
@@ -196,7 +194,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "88da6",
+													"key": "d3o0j",
 													"text": "हर कोई अनुभव",
 													"type": "unstyled",
 													"depth": 0,
@@ -221,11 +219,13 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 0,
+										"end_offset": 1.8,
 										"isAutoOverlayed": true,
 										"originalState": {
 											"blocks": [
 												{
-													"key": "7ikni",
+													"key": "flu3",
 													"text": "everyone experiences",
 													"type": "unstyled",
 													"depth": 0,
@@ -246,8 +246,6 @@
 										"isAttached": true,
 										"gravity": "south",
 										"crop": "scale",
-										"start_offset": 1.8,
-										"end_offset": 2.8,
 										"text": "कुछ समय में चिंता",
 										"font": "Noto Sans Devanagari",
 										"size": 14,
@@ -265,7 +263,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "1hgrb",
+													"key": "bhj04",
 													"text": "कुछ समय में चिंता",
 													"type": "unstyled",
 													"depth": 0,
@@ -290,11 +288,13 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 1.8,
+										"end_offset": 2.8,
 										"isAutoOverlayed": true,
 										"originalState": {
 											"blocks": [
 												{
-													"key": "2otda",
+													"key": "fjau4",
 													"text": "anxiety at some time",
 													"type": "unstyled",
 													"depth": 0,
@@ -315,8 +315,6 @@
 										"isAttached": true,
 										"gravity": "south",
 										"crop": "scale",
-										"start_offset": 2.8,
-										"end_offset": 3.7,
 										"text": "लेकिन एक में",
 										"font": "Noto Sans Devanagari",
 										"size": 14,
@@ -334,7 +332,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "4tf8c",
+													"key": "6n5mc",
 													"text": "लेकिन एक में",
 													"type": "unstyled",
 													"depth": 0,
@@ -359,11 +357,13 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 2.8,
+										"end_offset": 3.7,
 										"isAutoOverlayed": true,
 										"originalState": {
 											"blocks": [
 												{
-													"key": "3qud4",
+													"key": "7r72v",
 													"text": "but one in",
 													"type": "unstyled",
 													"depth": 0,
@@ -384,8 +384,6 @@
 										"isAttached": true,
 										"gravity": "south",
 										"crop": "scale",
-										"start_offset": 3.7,
-										"end_offset": 4.6,
 										"text": "7 प्रभावित होंगे",
 										"font": "Noto Sans Devanagari",
 										"size": 14,
@@ -403,7 +401,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "tcn8",
+													"key": "feq85",
 													"text": "7 प्रभावित होंगे",
 													"type": "unstyled",
 													"depth": 0,
@@ -428,11 +426,13 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 3.7,
+										"end_offset": 4.6,
 										"isAutoOverlayed": true,
 										"originalState": {
 											"blocks": [
 												{
-													"key": "62lba",
+													"key": "8ii5a",
 													"text": "7 will be affected",
 													"type": "unstyled",
 													"depth": 0,
@@ -453,8 +453,6 @@
 										"isAttached": true,
 										"gravity": "south",
 										"crop": "scale",
-										"start_offset": 4.6,
-										"end_offset": 5.4,
 										"text": "एक चिंता से",
 										"font": "Noto Sans Devanagari",
 										"size": 14,
@@ -472,7 +470,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "bipvj",
+													"key": "4dtmg",
 													"text": "एक चिंता से",
 													"type": "unstyled",
 													"depth": 0,
@@ -497,11 +495,13 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 4.6,
+										"end_offset": 5.4,
 										"isAutoOverlayed": true,
 										"originalState": {
 											"blocks": [
 												{
-													"key": "12qlt",
+													"key": "fblis",
 													"text": "by an anxiety",
 													"type": "unstyled",
 													"depth": 0,
@@ -522,8 +522,6 @@
 										"isAttached": true,
 										"gravity": "south",
 										"crop": "scale",
-										"start_offset": 5.4,
-										"end_offset": 6.8,
 										"text": "अव्यवस्था कई मई",
 										"font": "Noto Sans Devanagari",
 										"size": 14,
@@ -541,7 +539,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "9i60c",
+													"key": "iqhl",
 													"text": "अव्यवस्था कई मई",
 													"type": "unstyled",
 													"depth": 0,
@@ -566,11 +564,13 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 5.4,
+										"end_offset": 6.8,
 										"isAutoOverlayed": true,
 										"originalState": {
 											"blocks": [
 												{
-													"key": "38eoh",
+													"key": "ukh7",
 													"text": "disorder many may",
 													"type": "unstyled",
 													"depth": 0,
@@ -591,8 +591,6 @@
 										"isAttached": true,
 										"gravity": "south",
 										"crop": "scale",
-										"start_offset": 6.8,
-										"end_offset": 7.5,
 										"text": "चिंता के साथ जीना",
 										"font": "Noto Sans Devanagari",
 										"size": 14,
@@ -610,7 +608,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "dvgrq",
+													"key": "1ub56",
 													"text": "चिंता के साथ जीना",
 													"type": "unstyled",
 													"depth": 0,
@@ -635,11 +633,13 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 6.8,
+										"end_offset": 7.5,
 										"isAutoOverlayed": true,
 										"originalState": {
 											"blocks": [
 												{
-													"key": "422jh",
+													"key": "ag091",
 													"text": "live with anxiety",
 													"type": "unstyled",
 													"depth": 0,
@@ -660,8 +660,6 @@
 										"isAttached": true,
 										"gravity": "south",
 										"crop": "scale",
-										"start_offset": 7.5,
-										"end_offset": 8.8,
 										"text": "अव्यवस्था और नहीं",
 										"font": "Noto Sans Devanagari",
 										"size": 14,
@@ -679,7 +677,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "42c35",
+													"key": "8j8so",
 													"text": "अव्यवस्था और नहीं",
 													"type": "unstyled",
 													"depth": 0,
@@ -704,11 +702,13 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 7.5,
+										"end_offset": 8.8,
 										"isAutoOverlayed": true,
 										"originalState": {
 											"blocks": [
 												{
-													"key": "fsj7f",
+													"key": "8rd09",
 													"text": "disorder and not",
 													"type": "unstyled",
 													"depth": 0,
@@ -729,8 +729,6 @@
 										"isAttached": true,
 										"gravity": "south",
 										"crop": "scale",
-										"start_offset": 8.8,
-										"end_offset": 9.8,
 										"text": "एहसास है जब",
 										"font": "Noto Sans Devanagari",
 										"size": 14,
@@ -748,7 +746,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "cqib2",
+													"key": "be7bl",
 													"text": "एहसास है जब",
 													"type": "unstyled",
 													"depth": 0,
@@ -773,11 +771,13 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 8.8,
+										"end_offset": 9.8,
 										"isAutoOverlayed": true,
 										"originalState": {
 											"blocks": [
 												{
-													"key": "791mu",
+													"key": "40e6o",
 													"text": "realise when",
 													"type": "unstyled",
 													"depth": 0,
@@ -798,8 +798,6 @@
 										"isAttached": true,
 										"gravity": "south",
 										"crop": "scale",
-										"start_offset": 9.8,
-										"end_offset": 10.8,
 										"text": "चिंता को प्रभावित करता है",
 										"font": "Noto Sans Devanagari",
 										"size": 14,
@@ -817,7 +815,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "asat2",
+													"key": "ac62m",
 													"text": "चिंता को प्रभावित करता है",
 													"type": "unstyled",
 													"depth": 0,
@@ -842,11 +840,13 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 9.8,
+										"end_offset": 10.8,
 										"isAutoOverlayed": true,
 										"originalState": {
 											"blocks": [
 												{
-													"key": "e60oq",
+													"key": "6vbql",
 													"text": "anxiety affects",
 													"type": "unstyled",
 													"depth": 0,
@@ -867,8 +867,6 @@
 										"isAttached": true,
 										"gravity": "south",
 										"crop": "scale",
-										"start_offset": 10.8,
-										"end_offset": 11.7,
 										"text": "अपने रोजमर्रा के जीवन",
 										"font": "Noto Sans Devanagari",
 										"size": 14,
@@ -886,7 +884,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "1i1o8",
+													"key": "6155p",
 													"text": "अपने रोजमर्रा के जीवन",
 													"type": "unstyled",
 													"depth": 0,
@@ -911,11 +909,13 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 10.8,
+										"end_offset": 11.7,
 										"isAutoOverlayed": true,
 										"originalState": {
 											"blocks": [
 												{
-													"key": "8lsv4",
+													"key": "ccfdr",
 													"text": "your everyday life",
 													"type": "unstyled",
 													"depth": 0,
@@ -936,8 +936,6 @@
 										"isAttached": true,
 										"gravity": "south",
 										"crop": "scale",
-										"start_offset": 11.7,
-										"end_offset": 12.9,
 										"text": "यह करने के लिए मदद पाने के लिए समय है",
 										"font": "Noto Sans Devanagari",
 										"size": 14,
@@ -955,7 +953,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "8rqp0",
+													"key": "5kl21",
 													"text": "यह करने के लिए मदद पाने के लिए समय है",
 													"type": "unstyled",
 													"depth": 0,
@@ -980,11 +978,13 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 11.7,
+										"end_offset": 12.9,
 										"isAutoOverlayed": true,
 										"originalState": {
 											"blocks": [
 												{
-													"key": "aqrth",
+													"key": "9a5be",
 													"text": "it's time to get help to",
 													"type": "unstyled",
 													"depth": 0,
@@ -1005,8 +1005,6 @@
 										"isAttached": true,
 										"gravity": "south",
 										"crop": "scale",
-										"start_offset": 12.9,
-										"end_offset": 13.8,
 										"text": "के बारे में अधिक जानकारी प्राप्त",
 										"font": "Noto Sans Devanagari",
 										"size": 14,
@@ -1024,7 +1022,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "4jn84",
+													"key": "cdavk",
 													"text": "के बारे में अधिक जानकारी प्राप्त",
 													"type": "unstyled",
 													"depth": 0,
@@ -1049,11 +1047,13 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 12.9,
+										"end_offset": 13.8,
 										"isAutoOverlayed": true,
 										"originalState": {
 											"blocks": [
 												{
-													"key": "1pej7",
+													"key": "rbog",
 													"text": "find out more about",
 													"type": "unstyled",
 													"depth": 0,
@@ -1192,7 +1192,7 @@
 									"seoSuffix": "nsw_health_anxiety_awareness_campaigns_-_nrl"
 								},
 								"underlay": {
-									"show": "stripe",
+									"show": "background",
 									"gravity": "south",
 									"boxcolor": {
 										"rgb": {
