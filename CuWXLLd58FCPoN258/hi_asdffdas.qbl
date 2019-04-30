@@ -2,8 +2,8 @@
 	"fileName": "hi_asdffdas.qbl",
 	"fileItem": {
 		"fileItemGeneral": {
-			"fileItemGuid": "9655f7dd-1f68-31cd-be90-493e95e22f9f",
-			"fileItemDate": "2019-04-18T07:17:38.413Z",
+			"fileItemGuid": "38901159-624f-198b-2746-45d903ed3a0a",
+			"fileItemDate": "2019-04-30T09:53:42.824Z",
 			"fileItemCollections": [
 				"CuWXLLd58FCPoN258"
 			],
@@ -210,14 +210,31 @@
 											"BOLD": false,
 											"ITALIC": false,
 											"UNDERLINE": false,
-											"STRIKETHROUGH": false
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
 										},
 										"editorOthers": {
 											"language": "en",
 											"inputMethod": "system"
 										},
 										"isText": true,
-										"isAutoOverlayed": true
+										"isAutoOverlayed": true,
+										"originalState": {
+											"blocks": [
+												{
+													"key": "9ib48",
+													"text": "I ' ma शांत",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										}
 									},
 									{
 										"x": "0",
@@ -261,14 +278,31 @@
 											"BOLD": false,
 											"ITALIC": false,
 											"UNDERLINE": false,
-											"STRIKETHROUGH": false
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
 										},
 										"editorOthers": {
 											"language": "en",
 											"inputMethod": "system"
 										},
 										"isText": true,
-										"isAutoOverlayed": true
+										"isAutoOverlayed": true,
+										"originalState": {
+											"blocks": [
+												{
+													"key": "1hnvu",
+													"text": "आदमी है कि that's s मेरी",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										}
 									},
 									{
 										"x": "0",
@@ -323,7 +357,21 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
-										"isAutoOverlayed": true
+										"isAutoOverlayed": true,
+										"originalState": {
+											"blocks": [
+												{
+													"key": "d7vhg",
+													"text": "फेंग",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										}
 									},
 									{
 										"x": "0",
@@ -378,7 +426,21 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
-										"isAutoOverlayed": true
+										"isAutoOverlayed": true,
+										"originalState": {
+											"blocks": [
+												{
+													"key": "5cjh9",
+													"text": "मैं हूं",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										}
 									},
 									{
 										"x": "0",
@@ -433,7 +495,21 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
-										"isAutoOverlayed": true
+										"isAutoOverlayed": true,
+										"originalState": {
+											"blocks": [
+												{
+													"key": "cnc0e",
+													"text": "यहां 5 मैं सर्फ",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										}
 									},
 									{
 										"x": "0",
@@ -488,7 +564,21 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
-										"isAutoOverlayed": true
+										"isAutoOverlayed": true,
+										"originalState": {
+											"blocks": [
+												{
+													"key": "6uc15",
+													"text": "वेब मैं",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										}
 									},
 									{
 										"x": "0",
@@ -543,7 +633,21 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
-										"isAutoOverlayed": true
+										"isAutoOverlayed": true,
+										"originalState": {
+											"blocks": [
+												{
+													"key": "8d2lc",
+													"text": "पाठ योग्य",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										}
 									},
 									{
 										"x": "0",
@@ -598,7 +702,21 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
-										"isAutoOverlayed": true
+										"isAutoOverlayed": true,
+										"originalState": {
+											"blocks": [
+												{
+													"key": "dr1l6",
+													"text": "ज़ोर की हँसी",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										}
 									},
 									{
 										"x": "0",
@@ -653,7 +771,21 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
-										"isAutoOverlayed": true
+										"isAutoOverlayed": true,
+										"originalState": {
+											"blocks": [
+												{
+													"key": "7ig8q",
+													"text": "OMG ओह मेरी",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										}
 									},
 									{
 										"x": "0",
@@ -708,7 +840,21 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
-										"isAutoOverlayed": true
+										"isAutoOverlayed": true,
+										"originalState": {
+											"blocks": [
+												{
+													"key": "7dj5v",
+													"text": "भगवान WTF",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										}
 									},
 									{
 										"x": "0",
@@ -763,7 +909,21 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
-										"isAutoOverlayed": true
+										"isAutoOverlayed": true,
+										"originalState": {
+											"blocks": [
+												{
+													"key": "873en",
+													"text": "क्यों फैजे",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										}
 									},
 									{
 										"x": "0",
@@ -818,7 +978,21 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
-										"isAutoOverlayed": true
+										"isAutoOverlayed": true,
+										"originalState": {
+											"blocks": [
+												{
+													"key": "7s9e3",
+													"text": "तुंहें पता है मैं",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										}
 									},
 									{
 										"x": "0",
@@ -873,7 +1047,21 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
-										"isAutoOverlayed": true
+										"isAutoOverlayed": true,
+										"originalState": {
+											"blocks": [
+												{
+													"key": "8u67",
+													"text": "जानिए सभी लोकनृत्य उच्च",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										}
 									},
 									{
 										"x": "0",
@@ -928,7 +1116,21 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
-										"isAutoOverlayed": true
+										"isAutoOverlayed": true,
+										"originalState": {
+											"blocks": [
+												{
+													"key": "b6prf",
+													"text": "स्कूल संगीत",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										}
 									},
 									{
 										"x": "0",
@@ -983,7 +1185,21 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
-										"isAutoOverlayed": true
+										"isAutoOverlayed": true,
+										"originalState": {
+											"blocks": [
+												{
+													"key": "4dnkl",
+													"text": "हम सब कर रहे है",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										}
 									},
 									{
 										"x": "0",
@@ -1038,7 +1254,21 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
-										"isAutoOverlayed": true
+										"isAutoOverlayed": true,
+										"originalState": {
+											"blocks": [
+												{
+													"key": "5i1md",
+													"text": "इस में",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										}
 									},
 									{
 										"x": "0",
@@ -1093,7 +1323,21 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
-										"isAutoOverlayed": true
+										"isAutoOverlayed": true,
+										"originalState": {
+											"blocks": [
+												{
+													"key": "9l21l",
+													"text": "साथ-साथ",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										}
 									},
 									{
 										"x": "0",
@@ -1148,7 +1392,21 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
-										"isAutoOverlayed": true
+										"isAutoOverlayed": true,
+										"originalState": {
+											"blocks": [
+												{
+													"key": "dnias",
+													"text": "हां हम कर रहे है",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										}
 									},
 									{
 										"x": "0",
@@ -1203,7 +1461,21 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
-										"isAutoOverlayed": true
+										"isAutoOverlayed": true,
+										"originalState": {
+											"blocks": [
+												{
+													"key": "3u23e",
+													"text": "हम सब कर रहे है",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										}
 									},
 									{
 										"x": "0",
@@ -1258,7 +1530,21 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
-										"isAutoOverlayed": true
+										"isAutoOverlayed": true,
+										"originalState": {
+											"blocks": [
+												{
+													"key": "5or07",
+													"text": "सितारों और",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										}
 									},
 									{
 										"x": "0",
@@ -1313,7 +1599,21 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
-										"isAutoOverlayed": true
+										"isAutoOverlayed": true,
+										"originalState": {
+											"blocks": [
+												{
+													"key": "5t4vi",
+													"text": "आप",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										}
 									},
 									{
 										"x": "0",
@@ -1368,13 +1668,27 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
-										"isAutoOverlayed": true
+										"isAutoOverlayed": true,
+										"originalState": {
+											"blocks": [
+												{
+													"key": "8jj5v",
+													"text": "पता है यह",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										}
 									}
 								],
 								"videoOverlays": [],
 								"audioOverlays": [],
 								"captions": {
-									"font": "Noto Sans",
+									"font": "Noto Sans Devanagari",
 									"captionString": "1\n00:00:03,000 --> 00:00:04,800\nI ' ma शांत\n\n2\n00:00:04,800 --> 00:00:05,900\nआदमी है कि that's s मेरी\n\n3\n00:00:05,900 --> 00:00:06,300\nफेंग\n\n4\n00:00:07,400 --> 00:00:07,800\nमैं हूं\n\n5\n00:00:07,800 --> 00:00:08,900\nयहां 5 मैं सर्फ\n\n6\n00:00:08,900 --> 00:00:09,400\nवेब मैं\n\n7\n00:00:09,400 --> 00:00:10,600\nपाठ योग्य\n\n8\n00:00:10,600 --> 00:00:11,400\nज़ोर की हँसी\n\n9\n00:00:11,400 --> 00:00:12,700\nOMG ओह मेरी\n\n10\n00:00:12,700 --> 00:00:13,700\nभगवान WTF\n\n11\n00:00:13,700 --> 00:00:14,700\nक्यों फैजे\n\n12\n00:00:14,700 --> 00:00:16,800\nतुंहें पता है मैं\n\n13\n00:00:16,800 --> 00:00:17,900\nजानिए सभी लोकनृत्य उच्च\n\n14\n00:00:17,900 --> 00:00:18,800\nस्कूल संगीत\n\n15\n00:00:18,800 --> 00:00:19,900\nहम सब कर रहे है\n\n16\n00:00:19,900 --> 00:00:20,800\nइस में\n\n17\n00:00:20,800 --> 00:00:21,600\nसाथ-साथ\n\n18\n00:00:21,600 --> 00:00:23,800\nहां हम कर रहे है\n\n19\n00:00:23,800 --> 00:00:24,700\nहम सब कर रहे है\n\n20\n00:00:24,700 --> 00:00:25,900\nसितारों और\n\n21\n00:00:25,900 --> 00:00:26,800\nआप\n\n22\n00:00:26,800 --> 00:00:27,700\nपता है यह\n",
 									"parsed": [
 										{
@@ -1489,21 +1803,22 @@
 										}
 									],
 									"asset": {
-										"public_id": "UAT_1d474995-7967-3b69-b571-2951c6b49ed8/ffmpeged_modernFamily_xyz9ue_rz5zak_hi_f4dL.srt",
-										"version": 1556616209,
-										"signature": "bd1445ce7210f2e7d748a48bd95286f7c1700649",
+										"public_id": "UAT_1d474995-7967-3b69-b571-2951c6b49ed8/ffmpeged_modernFamily_xyz9ue_dwavck_hi_HZtN.srt",
+										"version": 1556618030,
+										"signature": "d13cf483dd2ce5184e3f1193fc94fceca0deb59b",
 										"resource_type": "raw",
-										"created_at": "2019-04-30T09:23:29Z",
+										"created_at": "2019-04-30T09:53:50Z",
 										"tags": [],
 										"bytes": 1386,
 										"type": "upload",
 										"etag": "7278c32bfdd1ec9fb7e9ac5ab086fa07",
 										"placeholder": false,
-										"url": "http://res.cloudinary.com/qblm/raw/upload/v1556616209/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/ffmpeged_modernFamily_xyz9ue_rz5zak_hi_f4dL.srt",
-										"secure_url": "https://res.cloudinary.com/qblm/raw/upload/v1556616209/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/ffmpeged_modernFamily_xyz9ue_rz5zak_hi_f4dL.srt",
+										"url": "http://res.cloudinary.com/qblm/raw/upload/v1556618030/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/ffmpeged_modernFamily_xyz9ue_dwavck_hi_HZtN.srt",
+										"secure_url": "https://res.cloudinary.com/qblm/raw/upload/v1556618030/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/ffmpeged_modernFamily_xyz9ue_dwavck_hi_HZtN.srt",
 										"access_mode": "public"
 									},
-									"isAttached": false
+									"isAttached": false,
+									"originalCaptionString": "1\n00:00:03,000 --> 00:00:04,800\nI ' ma शांत\n\n2\n00:00:04,800 --> 00:00:05,900\nआदमी है कि that's s मेरी\n\n3\n00:00:05,900 --> 00:00:06,300\nफेंग\n\n4\n00:00:07,400 --> 00:00:07,800\nमैं हूं\n\n5\n00:00:07,800 --> 00:00:08,900\nयहां 5 मैं सर्फ\n\n6\n00:00:08,900 --> 00:00:09,400\nवेब मैं\n\n7\n00:00:09,400 --> 00:00:10,600\nपाठ योग्य\n\n8\n00:00:10,600 --> 00:00:11,400\nज़ोर की हँसी\n\n9\n00:00:11,400 --> 00:00:12,700\nOMG ओह मेरी\n\n10\n00:00:12,700 --> 00:00:13,700\nभगवान WTF\n\n11\n00:00:13,700 --> 00:00:14,700\nक्यों फैजे\n\n12\n00:00:14,700 --> 00:00:16,800\nतुंहें पता है मैं\n\n13\n00:00:16,800 --> 00:00:17,900\nजानिए सभी लोकनृत्य उच्च\n\n14\n00:00:17,900 --> 00:00:18,800\nस्कूल संगीत\n\n15\n00:00:18,800 --> 00:00:19,900\nहम सब कर रहे है\n\n16\n00:00:19,900 --> 00:00:20,800\nइस में\n\n17\n00:00:20,800 --> 00:00:21,600\nसाथ-साथ\n\n18\n00:00:21,600 --> 00:00:23,800\nहां हम कर रहे है\n\n19\n00:00:23,800 --> 00:00:24,700\nहम सब कर रहे है\n\n20\n00:00:24,700 --> 00:00:25,900\nसितारों और\n\n21\n00:00:25,900 --> 00:00:26,800\nआप\n\n22\n00:00:26,800 --> 00:00:27,700\nपता है यह\n"
 								},
 								"transformedURLs": [
 									"https://res.cloudinary.com/qblm/video/upload/v1555540230/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/modernFamily_xyz9ue.mp4",
@@ -1620,7 +1935,7 @@
 						"fieldOrderComment": "",
 						"specificOrderComment": "",
 						"fieldJobId": "",
-						"fieldJobStatus": "",
+						"fieldJobStatus": "approved",
 						"fieldJobComment": "",
 						"specificJobComment": ""
 					}
