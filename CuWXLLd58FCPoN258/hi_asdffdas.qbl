@@ -172,132 +172,132 @@
 								"audioOverlays": [],
 								"captions": {
 									"font": "Noto Sans",
-									"captionString": "1\n00:00:03,000 --> 00:00:04,800\nI'm a cool\n\n2\n00:00:04,800 --> 00:00:05,900\nguy that's that's my\n\n3\n00:00:05,900 --> 00:00:06,300\nFang\n\n4\n00:00:07,400 --> 00:00:07,800\nI'm\n\n5\n00:00:07,800 --> 00:00:08,900\nhere 5 i surf\n\n6\n00:00:08,900 --> 00:00:09,400\nthe web I\n\n7\n00:00:09,400 --> 00:00:10,600\ntext LOL\n\n8\n00:00:10,600 --> 00:00:11,400\nlaugh out loud\n\n9\n00:00:11,400 --> 00:00:12,700\nOMG oh my\n\n10\n00:00:12,700 --> 00:00:13,700\nGod WTF\n\n11\n00:00:13,700 --> 00:00:14,700\nwhy the FaZe\n\n12\n00:00:14,700 --> 00:00:16,800\nyou know I\n\n13\n00:00:16,800 --> 00:00:17,900\nknow all the dances High\n\n14\n00:00:17,900 --> 00:00:18,800\nSchool Musical\n\n15\n00:00:18,800 --> 00:00:19,900\nWe're All\n\n16\n00:00:19,900 --> 00:00:20,800\nin This\n\n17\n00:00:20,800 --> 00:00:21,600\nTogether\n\n18\n00:00:21,600 --> 00:00:23,800\nyes we are\n\n19\n00:00:23,800 --> 00:00:24,700\nwe're all\n\n20\n00:00:24,700 --> 00:00:25,900\nstars and\n\n21\n00:00:25,900 --> 00:00:26,800\nyou\n\n22\n00:00:26,800 --> 00:00:27,700\nknow it\n",
+									"captionString": "1\n00:00:03,000 --> 00:00:04,800\nI ' ma शांत\n\n2\n00:00:04,800 --> 00:00:05,900\nआदमी है कि that's s मेरी\n\n3\n00:00:05,900 --> 00:00:06,300\nफेंग\n\n4\n00:00:07,400 --> 00:00:07,800\nमैं हूं\n\n5\n00:00:07,800 --> 00:00:08,900\nयहां 5 मैं सर्फ\n\n6\n00:00:08,900 --> 00:00:09,400\nवेब मैं\n\n7\n00:00:09,400 --> 00:00:10,600\nपाठ योग्य\n\n8\n00:00:10,600 --> 00:00:11,400\nज़ोर की हँसी\n\n9\n00:00:11,400 --> 00:00:12,700\nOMG ओह मेरी\n\n10\n00:00:12,700 --> 00:00:13,700\nभगवान WTF\n\n11\n00:00:13,700 --> 00:00:14,700\nक्यों फैजे\n\n12\n00:00:14,700 --> 00:00:16,800\nतुंहें पता है मैं\n\n13\n00:00:16,800 --> 00:00:17,900\nजानिए सभी लोकनृत्य उच्च\n\n14\n00:00:17,900 --> 00:00:18,800\nस्कूल संगीत\n\n15\n00:00:18,800 --> 00:00:19,900\nहम सब कर रहे है\n\n16\n00:00:19,900 --> 00:00:20,800\nइस में\n\n17\n00:00:20,800 --> 00:00:21,600\nसाथ-साथ\n\n18\n00:00:21,600 --> 00:00:23,800\nहां हम कर रहे है\n\n19\n00:00:23,800 --> 00:00:24,700\nहम सब कर रहे है\n\n20\n00:00:24,700 --> 00:00:25,900\nसितारों और\n\n21\n00:00:25,900 --> 00:00:26,800\nआप\n\n22\n00:00:26,800 --> 00:00:27,700\nपता है यह\n",
 									"parsed": [
 										{
 											"start": 3000,
 											"end": 4800,
-											"text": "I'm a cool"
+											"text": "I ' ma शांत"
 										},
 										{
 											"start": 4800,
 											"end": 5900,
-											"text": "guy that's that's my"
+											"text": "आदमी है कि that's s मेरी"
 										},
 										{
 											"start": 5900,
 											"end": 6300,
-											"text": "Fang"
+											"text": "फेंग"
 										},
 										{
 											"start": 7400,
 											"end": 7800,
-											"text": "I'm"
+											"text": "मैं हूं"
 										},
 										{
 											"start": 7800,
 											"end": 8900,
-											"text": "here 5 i surf"
+											"text": "यहां 5 मैं सर्फ"
 										},
 										{
 											"start": 8900,
 											"end": 9400,
-											"text": "the web I"
+											"text": "वेब मैं"
 										},
 										{
 											"start": 9400,
 											"end": 10600,
-											"text": "text LOL"
+											"text": "पाठ योग्य"
 										},
 										{
 											"start": 10600,
 											"end": 11400,
-											"text": "laugh out loud"
+											"text": "ज़ोर की हँसी"
 										},
 										{
 											"start": 11400,
 											"end": 12700,
-											"text": "OMG oh my"
+											"text": "OMG ओह मेरी"
 										},
 										{
 											"start": 12700,
 											"end": 13700,
-											"text": "God WTF"
+											"text": "भगवान WTF"
 										},
 										{
 											"start": 13700,
 											"end": 14700,
-											"text": "why the FaZe"
+											"text": "क्यों फैजे"
 										},
 										{
 											"start": 14700,
 											"end": 16800,
-											"text": "you know I"
+											"text": "तुंहें पता है मैं"
 										},
 										{
 											"start": 16800,
 											"end": 17900,
-											"text": "know all the dances High"
+											"text": "जानिए सभी लोकनृत्य उच्च"
 										},
 										{
 											"start": 17900,
 											"end": 18800,
-											"text": "School Musical"
+											"text": "स्कूल संगीत"
 										},
 										{
 											"start": 18800,
 											"end": 19900,
-											"text": "We're All"
+											"text": "हम सब कर रहे है"
 										},
 										{
 											"start": 19900,
 											"end": 20800,
-											"text": "in This"
+											"text": "इस में"
 										},
 										{
 											"start": 20800,
 											"end": 21600,
-											"text": "Together"
+											"text": "साथ-साथ"
 										},
 										{
 											"start": 21600,
 											"end": 23800,
-											"text": "yes we are"
+											"text": "हां हम कर रहे है"
 										},
 										{
 											"start": 23800,
 											"end": 24700,
-											"text": "we're all"
+											"text": "हम सब कर रहे है"
 										},
 										{
 											"start": 24700,
 											"end": 25900,
-											"text": "stars and"
+											"text": "सितारों और"
 										},
 										{
 											"start": 25900,
 											"end": 26800,
-											"text": "you"
+											"text": "आप"
 										},
 										{
 											"start": 26800,
 											"end": 27700,
-											"text": "know it"
+											"text": "पता है यह"
 										}
 									],
 									"asset": {
-										"public_id": "UAT_1d474995-7967-3b69-b571-2951c6b49ed8/modernFamily_xyz9ue_en-US_jusr.srt",
-										"version": 1555540342,
-										"signature": "007671c3ef3e399028fb6f3a9e5496fe9bcb9fb7",
+										"public_id": "UAT_1d474995-7967-3b69-b571-2951c6b49ed8/ffmpeged_modernFamily_xyz9ue_rz5zak_hi_f4dL.srt",
+										"version": 1556616209,
+										"signature": "bd1445ce7210f2e7d748a48bd95286f7c1700649",
 										"resource_type": "raw",
-										"created_at": "2019-04-17T22:32:22Z",
+										"created_at": "2019-04-30T09:23:29Z",
 										"tags": [],
-										"bytes": 979,
+										"bytes": 1386,
 										"type": "upload",
-										"etag": "a432f9ffc1617bb10ebae77c03d28161",
+										"etag": "7278c32bfdd1ec9fb7e9ac5ab086fa07",
 										"placeholder": false,
-										"url": "http://res.cloudinary.com/qblm/raw/upload/v1555540342/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/modernFamily_xyz9ue_en-US_jusr.srt",
-										"secure_url": "https://res.cloudinary.com/qblm/raw/upload/v1555540342/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/modernFamily_xyz9ue_en-US_jusr.srt",
+										"url": "http://res.cloudinary.com/qblm/raw/upload/v1556616209/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/ffmpeged_modernFamily_xyz9ue_rz5zak_hi_f4dL.srt",
+										"secure_url": "https://res.cloudinary.com/qblm/raw/upload/v1556616209/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/ffmpeged_modernFamily_xyz9ue_rz5zak_hi_f4dL.srt",
 										"access_mode": "public"
 									},
 									"isAttached": true
