@@ -1,0 +1,428 @@
+{
+	"fileName": "hi_i1.qbl",
+	"fileItem": {
+		"fileItemGeneral": {
+			"fileItemGuid": "1c03977c-87e6-91f6-7f26-e1538f6d1683",
+			"fileItemDate": "2019-04-30T10:03:25.363Z",
+			"fileItemCollections": [
+				"CuWXLLd58FCPoN258"
+			],
+			"fileItemCollectionsForTranslation": [
+				"CuWXLLd58FCPoN258"
+			]
+		},
+		"fileItemLanguage": {
+			"primaryLanguage": "BCTQmLdCs2P7eCJjm",
+			"possibleLanguages": [
+				"PoxA4MpiE34gKXqYL",
+				"BCTQmLdCs2P7eCJjm"
+			]
+		},
+		"fileItemStructure": {
+			"fileItemGenerics": [
+				{
+					"genericGeneral": {
+						"genericGuid": "c8a11978-e5c9-abb3-ec85-509411786c18",
+						"genericType": "genericParent",
+						"genericIsVisibleCollections": [
+							"CuWXLLd58FCPoN258"
+						],
+						"genericIsEditableCollections": [
+							"CuWXLLd58FCPoN258"
+						],
+						"genericIsRequiredCollections": [],
+						"genericIsMultipleCollections": []
+					},
+					"genericMeta": {
+						"genericCanTranslate": true,
+						"genericCanParent": true,
+						"genericCanChild": false
+					},
+					"genericSpecific": {
+						"genericInformation": "Please upload Parent?",
+						"genericChildren": [
+							"2c358e68-0cf0-19c7-51bd-616f5ac66301",
+							"cb263655-a767-3c30-e3c3-d10ce4765b41"
+						],
+						"genericParent": "",
+						"genericKey": "31c7dbbc-48e1-63ab-9559-60896546fc87",
+						"genericValues": []
+					},
+					"genericWorking": {
+						"genericOrderId": "",
+						"genericOrderComment": "",
+						"specificOrderComment": "",
+						"genericJobId": "",
+						"genericJobStatus": "",
+						"genericJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"genericGeneral": {
+						"genericGuid": "2c358e68-0cf0-19c7-51bd-616f5ac66301",
+						"genericType": "genericText",
+						"genericIsVisibleCollections": [
+							"CuWXLLd58FCPoN258"
+						],
+						"genericIsEditableCollections": [
+							"CuWXLLd58FCPoN258"
+						],
+						"genericIsRequiredCollections": [
+							"CuWXLLd58FCPoN258"
+						],
+						"genericIsMultipleCollections": [
+							"CuWXLLd58FCPoN258"
+						]
+					},
+					"genericMeta": {
+						"genericCanTranslate": true,
+						"genericCanParent": false,
+						"genericCanChild": true
+					},
+					"genericSpecific": {
+						"genericInformation": "Please upload Text gen?",
+						"genericChildren": [],
+						"genericParent": "c8a11978-e5c9-abb3-ec85-509411786c18",
+						"genericKey": "793dc01a-8c11-121a-675c-4f66be5067e2",
+						"genericValues": []
+					},
+					"genericWorking": {
+						"genericOrderId": "",
+						"genericOrderComment": "",
+						"specificOrderComment": "",
+						"genericJobId": "",
+						"genericJobStatus": "",
+						"genericJobComment": "",
+						"specificJobComment": ""
+					}
+				}
+			],
+			"fileItemFields": [
+				{
+					"fieldGeneral": {
+						"fieldGuid": "cb263655-a767-3c30-e3c3-d10ce4765b41",
+						"fieldType": "fieldVideo",
+						"fieldIsVisibleCollections": [
+							"CuWXLLd58FCPoN258"
+						],
+						"fieldIsEditableCollections": [
+							"CuWXLLd58FCPoN258"
+						],
+						"fieldIsRequiredCollections": [
+							"CuWXLLd58FCPoN258"
+						],
+						"fieldIsMultipleCollections": [
+							"CuWXLLd58FCPoN258"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": true
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please upload Video?",
+						"fieldKey": "372d9fd1-ce6a-42be-74d6-314fa6ea42a3",
+						"fieldValues": [
+							{
+								"public_id": "UAT_1d474995-7967-3b69-b571-2951c6b49ed8/ffmpeged_NSW_Health_Anxiety_Awareness_Campaigns_-_NRL_bq9zut_iabsg9",
+								"version": 1556618529,
+								"signature": "58c3e2778bab30bab07f4843822fdbdc3f92e002",
+								"width": 1280,
+								"height": 720,
+								"format": "mp4",
+								"resource_type": "video",
+								"created_at": "2019-04-30T10:02:09Z",
+								"tags": [],
+								"pages": 0,
+								"bytes": 4160142,
+								"type": "upload",
+								"etag": "76bc74d91cb49819b5d3f0655d77fcde",
+								"placeholder": false,
+								"url": "http://res.cloudinary.com/qblm/video/upload/v1556618529/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/ffmpeged_NSW_Health_Anxiety_Awareness_Campaigns_-_NRL_bq9zut_iabsg9.mp4",
+								"secure_url": "https://res.cloudinary.com/qblm/video/upload/v1556618529/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/ffmpeged_NSW_Health_Anxiety_Awareness_Campaigns_-_NRL_bq9zut_iabsg9.mp4",
+								"access_mode": "public",
+								"existing": false,
+								"audio": {
+									"codec": "aac",
+									"bit_rate": "125588",
+									"frequency": 44100,
+									"channels": 2,
+									"channel_layout": "stereo"
+								},
+								"video": {
+									"pix_format": "yuv420p",
+									"codec": "h264",
+									"level": 31,
+									"profile": "High",
+									"bit_rate": "978294",
+									"dar": "16:9"
+								},
+								"is_audio": false,
+								"frame_rate": 25,
+								"bit_rate": 1110222,
+								"duration": 29.977,
+								"rotation": 0,
+								"original_filename": "ffmpeged_NSW_Health_Anxiety_Awareness_Campaigns_-_NRL_bq9zut",
+								"path": "v1556618391/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/NSW_Health_Anxiety_Awareness_Campaigns_-_NRL_bq9zut.mp4",
+								"thumbnail_url": "https://res.cloudinary.com/qblm/video/upload/c_limit,h_60,w_90/v1556618391/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/NSW_Health_Anxiety_Awareness_Campaigns_-_NRL_bq9zut.jpg",
+								"overlays": [],
+								"videoOverlays": [],
+								"audioOverlays": [],
+								"captions": {
+									"captionString": "1\n00:00:00,000 --> 00:00:01,800\nहर कोई अनुभव\n\n2\n00:00:01,800 --> 00:00:02,800\nकुछ समय में चिंता\n\n3\n00:00:02,800 --> 00:00:03,700\nलेकिन एक में\n\n4\n00:00:03,700 --> 00:00:04,600\n7 प्रभावित होंगे\n\n5\n00:00:04,600 --> 00:00:05,400\nएक चिंता से\n\n6\n00:00:05,400 --> 00:00:06,800\nअव्यवस्था कई मई\n\n7\n00:00:06,800 --> 00:00:07,500\nचिंता के साथ जीना\n\n8\n00:00:07,500 --> 00:00:08,800\nअव्यवस्था और नहीं\n\n9\n00:00:08,800 --> 00:00:09,800\nएहसास है जब\n\n10\n00:00:09,800 --> 00:00:10,800\nचिंता को प्रभावित करता है\n\n11\n00:00:10,800 --> 00:00:11,700\nअपने रोजमर्रा के जीवन\n\n12\n00:00:11,700 --> 00:00:12,900\nयह करने के लिए मदद पाने के लिए समय है\n\n13\n00:00:12,900 --> 00:00:13,800\nके बारे में अधिक जानकारी प्राप्त\n",
+									"parsed": [
+										{
+											"start": 0,
+											"end": 1800,
+											"text": "हर कोई अनुभव"
+										},
+										{
+											"start": 1800,
+											"end": 2800,
+											"text": "कुछ समय में चिंता"
+										},
+										{
+											"start": 2800,
+											"end": 3700,
+											"text": "लेकिन एक में"
+										},
+										{
+											"start": 3700,
+											"end": 4600,
+											"text": "7 प्रभावित होंगे"
+										},
+										{
+											"start": 4600,
+											"end": 5400,
+											"text": "एक चिंता से"
+										},
+										{
+											"start": 5400,
+											"end": 6800,
+											"text": "अव्यवस्था कई मई"
+										},
+										{
+											"start": 6800,
+											"end": 7500,
+											"text": "चिंता के साथ जीना"
+										},
+										{
+											"start": 7500,
+											"end": 8800,
+											"text": "अव्यवस्था और नहीं"
+										},
+										{
+											"start": 8800,
+											"end": 9800,
+											"text": "एहसास है जब"
+										},
+										{
+											"start": 9800,
+											"end": 10800,
+											"text": "चिंता को प्रभावित करता है"
+										},
+										{
+											"start": 10800,
+											"end": 11700,
+											"text": "अपने रोजमर्रा के जीवन"
+										},
+										{
+											"start": 11700,
+											"end": 12900,
+											"text": "यह करने के लिए मदद पाने के लिए समय है"
+										},
+										{
+											"start": 12900,
+											"end": 13800,
+											"text": "के बारे में अधिक जानकारी प्राप्त"
+										}
+									],
+									"font": "Noto Sans Devanagari",
+									"size": 18,
+									"color": {
+										"rgb": {
+											"r": 255,
+											"g": 255,
+											"b": 255,
+											"a": 1
+										}
+									},
+									"isAttached": true,
+									"asset": {
+										"public_id": "UAT_1d474995-7967-3b69-b571-2951c6b49ed8/ffmpeged_NSW_Health_Anxiety_Awareness_Campaigns_-_NRL_bq9zut_iabsg9_hi_MQs9.srt",
+										"version": 1556618613,
+										"signature": "2ac4d45b9eddb5c110937bc4ee36d9bf9db5e2c7",
+										"resource_type": "raw",
+										"created_at": "2019-04-30T10:03:33Z",
+										"tags": [],
+										"bytes": 1090,
+										"type": "upload",
+										"etag": "78029395bd0c72ef1a34418618aa58a3",
+										"placeholder": false,
+										"url": "http://res.cloudinary.com/qblm/raw/upload/v1556618613/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/ffmpeged_NSW_Health_Anxiety_Awareness_Campaigns_-_NRL_bq9zut_iabsg9_hi_MQs9.srt",
+										"secure_url": "https://res.cloudinary.com/qblm/raw/upload/v1556618613/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/ffmpeged_NSW_Health_Anxiety_Awareness_Campaigns_-_NRL_bq9zut_iabsg9_hi_MQs9.srt",
+										"access_mode": "public"
+									},
+									"originalCaptionString": "1\n00:00:00,000 --> 00:00:01,800\neveryone experiences\n\n2\n00:00:01,800 --> 00:00:02,800\nanxiety at some time\n\n3\n00:00:02,800 --> 00:00:03,700\nbut one in\n\n4\n00:00:03,700 --> 00:00:04,600\n7 will be affected\n\n5\n00:00:04,600 --> 00:00:05,400\nby an anxiety\n\n6\n00:00:05,400 --> 00:00:06,800\ndisorder many may\n\n7\n00:00:06,800 --> 00:00:07,500\nlive with anxiety\n\n8\n00:00:07,500 --> 00:00:08,800\ndisorder and not\n\n9\n00:00:08,800 --> 00:00:09,800\nrealise when\n\n10\n00:00:09,800 --> 00:00:10,800\nanxiety affects\n\n11\n00:00:10,800 --> 00:00:11,700\nyour everyday life\n\n12\n00:00:11,700 --> 00:00:12,900\nit's time to get help to\n\n13\n00:00:12,900 --> 00:00:13,800\nfind out more about"
+								},
+								"transformedURLs": [
+									"https://res.cloudinary.com/qblm/video/upload/v1556618391/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/NSW_Health_Anxiety_Awareness_Campaigns_-_NRL_bq9zut.mp4",
+									"https://res.cloudinary.com/qblm/video/upload/v1556618529/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/ffmpeged_NSW_Health_Anxiety_Awareness_Campaigns_-_NRL_bq9zut_iabsg9.mp4"
+								],
+								"transformedPublicIds": [
+									"UAT_1d474995-7967-3b69-b571-2951c6b49ed8/NSW_Health_Anxiety_Awareness_Campaigns_-_NRL_bq9zut",
+									"UAT_1d474995-7967-3b69-b571-2951c6b49ed8/ffmpeged_NSW_Health_Anxiety_Awareness_Campaigns_-_NRL_bq9zut_iabsg9"
+								],
+								"embed": {
+									"width": 1280,
+									"height": 720,
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"caption": "",
+									"seoSuffix": "nsw_health_anxiety_awareness_campaigns_-_nrl"
+								}
+							}
+						],
+						"fieldChildren": [],
+						"fieldParent": "c8a11978-e5c9-abb3-ec85-509411786c18"
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "approved",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"fieldGeneral": {
+						"fieldGuid": "016190e7-2b9a-539b-af64-755d2bad0eed",
+						"fieldType": "fieldAudio",
+						"fieldIsVisibleCollections": [
+							"CuWXLLd58FCPoN258"
+						],
+						"fieldIsEditableCollections": [
+							"CuWXLLd58FCPoN258"
+						],
+						"fieldIsRequiredCollections": [
+							"CuWXLLd58FCPoN258"
+						],
+						"fieldIsMultipleCollections": [
+							"CuWXLLd58FCPoN258"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": true
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please upload Audio?",
+						"fieldKey": "91638e9b-a3d8-8734-fe8e-10c7306e1884",
+						"fieldValues": [],
+						"fieldChildren": [],
+						"fieldParent": ""
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"fieldGeneral": {
+						"fieldGuid": "2b6630dc-9c96-69e4-a15f-d72444bb3c4f",
+						"fieldType": "fieldImage",
+						"fieldIsVisibleCollections": [
+							"CuWXLLd58FCPoN258"
+						],
+						"fieldIsEditableCollections": [
+							"CuWXLLd58FCPoN258"
+						],
+						"fieldIsRequiredCollections": [
+							"CuWXLLd58FCPoN258"
+						],
+						"fieldIsMultipleCollections": [
+							"CuWXLLd58FCPoN258"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please upload Image?",
+						"fieldKey": "775d6d31-2afb-3f75-f67c-70365851d784",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"fieldGeneral": {
+						"fieldGuid": "a0131453-8fba-0e7e-2036-d00c8a013659",
+						"fieldType": "fieldTextbox",
+						"fieldIsVisibleCollections": [
+							"CuWXLLd58FCPoN258"
+						],
+						"fieldIsEditableCollections": [
+							"CuWXLLd58FCPoN258"
+						],
+						"fieldIsRequiredCollections": [
+							"CuWXLLd58FCPoN258"
+						],
+						"fieldIsMultipleCollections": [
+							"CuWXLLd58FCPoN258"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please upload Text?",
+						"fieldKey": "d1a86683-e308-0fce-e5e7-343dc69c0141",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				}
+			]
+		},
+		"fileItemPublish": {
+			"fileItemTypes": []
+		}
+	}
+}
