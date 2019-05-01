@@ -182,7 +182,21 @@
 										"end_offset": "3"
 									}
 								],
-								"videoOverlays": [],
+								"videoOverlays": [
+									{
+										"public_id": "UAT_1d474995-7967-3b69-b571-2951c6b49ed8/sampleVideo_fxzd71",
+										"secure_url": "https://res.cloudinary.com/qblm/video/upload/v1556693946/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/sampleVideo_fxzd71.mp4",
+										"x": "0",
+										"y": "0",
+										"width": "200",
+										"height": "200",
+										"isAttached": true,
+										"gravity": "north_east",
+										"crop": "scale",
+										"start_offset": "3",
+										"end_offset": "6"
+									}
+								],
 								"audioOverlays": [
 									{
 										"public_id": "UAT_1d474995-7967-3b69-b571-2951c6b49ed8/modernFamily_bbhrz5",
