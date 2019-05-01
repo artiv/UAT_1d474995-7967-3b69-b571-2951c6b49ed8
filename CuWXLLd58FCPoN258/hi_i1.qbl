@@ -236,7 +236,15 @@
 								"thumbnail_url": "https://res.cloudinary.com/qblm/video/upload/c_limit,h_60,w_90/v1556695479/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/NSW_Health_Anxiety_Awareness_Campaigns_-_NRL_womclg.jpg",
 								"overlays": [],
 								"videoOverlays": [],
-								"audioOverlays": [],
+								"audioOverlays": [
+									{
+										"public_id": "UAT_1d474995-7967-3b69-b571-2951c6b49ed8/modernFamily_bbhrz5",
+										"secure_url": "https://res.cloudinary.com/qblm/video/upload/v1556688375/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/modernFamily_bbhrz5.mp3",
+										"isAttached": true,
+										"start_offset": "10",
+										"end_offset": "15"
+									}
+								],
 								"captions": {},
 								"transformedURLs": [
 									"https://res.cloudinary.com/qblm/video/upload/v1556695479/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/NSW_Health_Anxiety_Awareness_Campaigns_-_NRL_womclg.mp4"
