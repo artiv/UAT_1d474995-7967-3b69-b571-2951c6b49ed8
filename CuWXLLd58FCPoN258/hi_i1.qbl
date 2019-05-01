@@ -167,7 +167,21 @@
 								"original_filename": "ffmpeged_NSW_Health_Anxiety_Awareness_Campaigns_-_NRL_bq9zut",
 								"path": "v1556618391/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/NSW_Health_Anxiety_Awareness_Campaigns_-_NRL_bq9zut.mp4",
 								"thumbnail_url": "https://res.cloudinary.com/qblm/video/upload/c_limit,h_60,w_90/v1556618391/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/NSW_Health_Anxiety_Awareness_Campaigns_-_NRL_bq9zut.jpg",
-								"overlays": [],
+								"overlays": [
+									{
+										"public_id": "UAT_1d474995-7967-3b69-b571-2951c6b49ed8/sample_l2ybij",
+										"secure_url": "https://res.cloudinary.com/qblm/images/w_864,h_576,//v1556693479/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/sample_l2ybij/sample.jpg",
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"isAttached": true,
+										"gravity": "north_west",
+										"crop": "scale",
+										"start_offset": "0",
+										"end_offset": "3"
+									}
+								],
 								"videoOverlays": [],
 								"audioOverlays": [
 									{
