@@ -176,6 +176,13 @@
 										"isAttached": true,
 										"start_offset": "10",
 										"end_offset": "19"
+									},
+									{
+										"public_id": "UAT_1d474995-7967-3b69-b571-2951c6b49ed8/modernFamily_bbhrz5",
+										"secure_url": "https://res.cloudinary.com/qblm/video/upload/v1556688375/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/modernFamily_bbhrz5.mp3",
+										"isAttached": true,
+										"start_offset": "0",
+										"end_offset": "0"
 									}
 								],
 								"captions": {
