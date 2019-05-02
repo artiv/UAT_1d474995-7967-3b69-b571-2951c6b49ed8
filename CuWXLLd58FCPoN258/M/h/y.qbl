@@ -1,0 +1,31 @@
+{
+	"fileName": "y.qbl",
+	"fileTemplateRepo": "UAT_1d474995-7967-3b69-b571-2951c6b49ed8",
+	"fileTemplatePath": "CuWXLLd58FCPoN258/M/h/s.q6a",
+	"fileItem": {
+		"fileItemGeneral": {
+			"fileItemGuid": "f783cf26-e540-4c93-d2e1-e5b55bb6a926",
+			"fileItemDate": "2019-05-02T20:04:36.633Z",
+			"fileItemCollections": [
+				"CuWXLLd58FCPoN258"
+			],
+			"fileItemCollectionsForTranslation": [
+				"CuWXLLd58FCPoN258"
+			]
+		},
+		"fileItemLanguage": {
+			"primaryLanguage": "PoxA4MpiE34gKXqYL",
+			"possibleLanguages": [
+				"PoxA4MpiE34gKXqYL",
+				"BCTQmLdCs2P7eCJjm"
+			]
+		},
+		"fileItemStructure": {
+			"fileItemGenerics": [],
+			"fileItemFields": []
+		},
+		"fileItemPublish": {
+			"fileItemTypes": []
+		}
+	}
+}
