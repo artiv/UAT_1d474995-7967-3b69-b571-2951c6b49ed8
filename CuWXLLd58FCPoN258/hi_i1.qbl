@@ -175,7 +175,7 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "center",
+										"gravity": "south",
 										"crop": "scale",
 										"start_offset": 3,
 										"end_offset": 4.8,
@@ -196,7 +196,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "clidl",
+													"key": "aco72",
 													"text": "I ' ma शांत",
 													"type": "unstyled",
 													"depth": 0,
@@ -230,7 +230,7 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "center",
+										"gravity": "south",
 										"crop": "scale",
 										"start_offset": 4.8,
 										"end_offset": 5.9,
@@ -251,7 +251,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "evc1o",
+													"key": "cgd79",
 													"text": "आदमी है कि that's s मेरी",
 													"type": "unstyled",
 													"depth": 0,
@@ -285,7 +285,7 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "center",
+										"gravity": "south",
 										"crop": "scale",
 										"start_offset": 5.9,
 										"end_offset": 6.3,
@@ -306,7 +306,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "6j1gq",
+													"key": "8a1h5",
 													"text": "फेंग",
 													"type": "unstyled",
 													"depth": 0,
@@ -340,7 +340,7 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "center",
+										"gravity": "south",
 										"crop": "scale",
 										"start_offset": 7.4,
 										"end_offset": 7.8,
@@ -361,7 +361,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "4v9bl",
+													"key": "cvrl3",
 													"text": "मैं हूं",
 													"type": "unstyled",
 													"depth": 0,
@@ -395,7 +395,7 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "center",
+										"gravity": "south",
 										"crop": "scale",
 										"start_offset": 7.8,
 										"end_offset": 8.9,
@@ -416,7 +416,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "e59a1",
+													"key": "6l362",
 													"text": "यहां 5 मैं सर्फ",
 													"type": "unstyled",
 													"depth": 0,
@@ -450,7 +450,7 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "center",
+										"gravity": "south",
 										"crop": "scale",
 										"start_offset": 8.9,
 										"end_offset": 9.4,
@@ -471,7 +471,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "21q2b",
+													"key": "c7u9o",
 													"text": "वेब मैं",
 													"type": "unstyled",
 													"depth": 0,
@@ -505,7 +505,7 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "center",
+										"gravity": "south",
 										"crop": "scale",
 										"start_offset": 9.4,
 										"end_offset": 10.6,
@@ -526,7 +526,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "3nl8p",
+													"key": "aevr2",
 													"text": "पाठ योग्य",
 													"type": "unstyled",
 													"depth": 0,
@@ -560,7 +560,7 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "center",
+										"gravity": "south",
 										"crop": "scale",
 										"start_offset": 10.6,
 										"end_offset": 11.4,
@@ -581,7 +581,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "d86jp",
+													"key": "frf9d",
 													"text": "ज़ोर की हँसी",
 													"type": "unstyled",
 													"depth": 0,
@@ -615,7 +615,7 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "center",
+										"gravity": "south",
 										"crop": "scale",
 										"start_offset": 11.4,
 										"end_offset": 12.7,
@@ -636,7 +636,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "6p53",
+													"key": "7uqei",
 													"text": "OMG ओह मेरी",
 													"type": "unstyled",
 													"depth": 0,
@@ -670,7 +670,7 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "center",
+										"gravity": "south",
 										"crop": "scale",
 										"start_offset": 12.7,
 										"end_offset": 13.7,
@@ -691,7 +691,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "4b4e9",
+													"key": "erini",
 													"text": "भगवान WTF",
 													"type": "unstyled",
 													"depth": 0,
@@ -725,7 +725,7 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "center",
+										"gravity": "south",
 										"crop": "scale",
 										"start_offset": 13.7,
 										"end_offset": 14.7,
@@ -746,7 +746,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "anmap",
+													"key": "c3m1k",
 													"text": "क्यों फैजे",
 													"type": "unstyled",
 													"depth": 0,
@@ -780,7 +780,7 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "center",
+										"gravity": "south",
 										"crop": "scale",
 										"start_offset": 14.7,
 										"end_offset": 16.8,
@@ -801,7 +801,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "e6a4o",
+													"key": "bjtun",
 													"text": "तुंहें पता है मैं",
 													"type": "unstyled",
 													"depth": 0,
@@ -835,7 +835,7 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "center",
+										"gravity": "south",
 										"crop": "scale",
 										"start_offset": 16.8,
 										"end_offset": 17.9,
@@ -856,7 +856,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "csotp",
+													"key": "5pdei",
 													"text": "जानिए सभी लोकनृत्य उच्च",
 													"type": "unstyled",
 													"depth": 0,
@@ -890,7 +890,7 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "center",
+										"gravity": "south",
 										"crop": "scale",
 										"start_offset": 17.9,
 										"end_offset": 18.8,
@@ -911,7 +911,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "f5923",
+													"key": "fqtji",
 													"text": "स्कूल संगीत",
 													"type": "unstyled",
 													"depth": 0,
@@ -945,7 +945,7 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "center",
+										"gravity": "south",
 										"crop": "scale",
 										"start_offset": 18.8,
 										"end_offset": 19.9,
@@ -966,7 +966,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "9o4nv",
+													"key": "58nsh",
 													"text": "हम सब कर रहे है",
 													"type": "unstyled",
 													"depth": 0,
@@ -1000,7 +1000,7 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "center",
+										"gravity": "south",
 										"crop": "scale",
 										"start_offset": 19.9,
 										"end_offset": 20.8,
@@ -1021,7 +1021,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "d86sr",
+													"key": "a7ese",
 													"text": "इस में",
 													"type": "unstyled",
 													"depth": 0,
@@ -1055,7 +1055,7 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "center",
+										"gravity": "south",
 										"crop": "scale",
 										"start_offset": 20.8,
 										"end_offset": 21.6,
@@ -1076,7 +1076,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "f7ck0",
+													"key": "4ogdr",
 													"text": "साथ-साथ",
 													"type": "unstyled",
 													"depth": 0,
@@ -1110,7 +1110,7 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "center",
+										"gravity": "south",
 										"crop": "scale",
 										"start_offset": 21.6,
 										"end_offset": 23.8,
@@ -1131,7 +1131,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "94he4",
+													"key": "5e62t",
 													"text": "हां हम कर रहे है",
 													"type": "unstyled",
 													"depth": 0,
@@ -1165,7 +1165,7 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "center",
+										"gravity": "south",
 										"crop": "scale",
 										"start_offset": 23.8,
 										"end_offset": 24.7,
@@ -1186,7 +1186,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "83gur",
+													"key": "csj8f",
 													"text": "हम सब कर रहे है",
 													"type": "unstyled",
 													"depth": 0,
@@ -1220,7 +1220,7 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "center",
+										"gravity": "south",
 										"crop": "scale",
 										"start_offset": 24.7,
 										"end_offset": 25.9,
@@ -1241,7 +1241,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "aggnv",
+													"key": "dsock",
 													"text": "सितारों और",
 													"type": "unstyled",
 													"depth": 0,
@@ -1275,7 +1275,7 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "center",
+										"gravity": "south",
 										"crop": "scale",
 										"start_offset": 25.9,
 										"end_offset": 26.8,
@@ -1296,7 +1296,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "u4lu",
+													"key": "98qe",
 													"text": "आप",
 													"type": "unstyled",
 													"depth": 0,
@@ -1330,7 +1330,7 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "center",
+										"gravity": "south",
 										"crop": "scale",
 										"start_offset": 26.8,
 										"end_offset": 27.7,
@@ -1351,7 +1351,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "aj3u6",
+													"key": "cmqbo",
 													"text": "पता है यह",
 													"type": "unstyled",
 													"depth": 0,
@@ -1530,8 +1530,8 @@
 									"seoSuffix": "samplevideo"
 								},
 								"underlay": {
-									"show": false,
-									"gravity": "center",
+									"show": "stripe",
+									"gravity": "south",
 									"boxcolor": {
 										"rgb": {
 											"r": 0,
@@ -1541,7 +1541,7 @@
 										},
 										"hex": "#00ff00"
 									},
-									"matchText": true
+									"matchText": false
 								}
 							},
 							{
@@ -1655,7 +1655,7 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "center",
+										"gravity": "south",
 										"crop": "scale",
 										"start_offset": 3,
 										"end_offset": 4.8,
@@ -1676,7 +1676,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "9tos4",
+													"key": "707kr",
 													"text": "I ' ma शांत",
 													"type": "unstyled",
 													"depth": 0,
@@ -1710,7 +1710,7 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "center",
+										"gravity": "south",
 										"crop": "scale",
 										"start_offset": 4.8,
 										"end_offset": 5.9,
@@ -1731,7 +1731,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "f1sjd",
+													"key": "bdp6m",
 													"text": "आदमी है कि that's s मेरी",
 													"type": "unstyled",
 													"depth": 0,
@@ -1765,7 +1765,7 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "center",
+										"gravity": "south",
 										"crop": "scale",
 										"start_offset": 5.9,
 										"end_offset": 6.3,
@@ -1786,7 +1786,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "2l3nq",
+													"key": "1gv0r",
 													"text": "फेंग",
 													"type": "unstyled",
 													"depth": 0,
@@ -1820,7 +1820,7 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "center",
+										"gravity": "south",
 										"crop": "scale",
 										"start_offset": 7.4,
 										"end_offset": 7.8,
@@ -1841,7 +1841,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "2hslp",
+													"key": "5huvv",
 													"text": "मैं हूं",
 													"type": "unstyled",
 													"depth": 0,
@@ -1875,7 +1875,7 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "center",
+										"gravity": "south",
 										"crop": "scale",
 										"start_offset": 7.8,
 										"end_offset": 8.9,
@@ -1896,7 +1896,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "7qbf4",
+													"key": "7kgla",
 													"text": "यहां 5 मैं सर्फ",
 													"type": "unstyled",
 													"depth": 0,
@@ -1930,7 +1930,7 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "center",
+										"gravity": "south",
 										"crop": "scale",
 										"start_offset": 8.9,
 										"end_offset": 9.4,
@@ -1951,7 +1951,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "3tl0k",
+													"key": "3u5fc",
 													"text": "वेब मैं",
 													"type": "unstyled",
 													"depth": 0,
@@ -1985,7 +1985,7 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "center",
+										"gravity": "south",
 										"crop": "scale",
 										"start_offset": 9.4,
 										"end_offset": 10.6,
@@ -2006,7 +2006,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "570h0",
+													"key": "evvb5",
 													"text": "पाठ योग्य",
 													"type": "unstyled",
 													"depth": 0,
@@ -2040,7 +2040,7 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "center",
+										"gravity": "south",
 										"crop": "scale",
 										"start_offset": 10.6,
 										"end_offset": 11.4,
@@ -2061,7 +2061,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "hqo6",
+													"key": "8lh1c",
 													"text": "ज़ोर की हँसी",
 													"type": "unstyled",
 													"depth": 0,
@@ -2095,7 +2095,7 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "center",
+										"gravity": "south",
 										"crop": "scale",
 										"start_offset": 11.4,
 										"end_offset": 12.7,
@@ -2116,7 +2116,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "f0q0a",
+													"key": "f9jh5",
 													"text": "OMG ओह मेरी",
 													"type": "unstyled",
 													"depth": 0,
@@ -2150,7 +2150,7 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "center",
+										"gravity": "south",
 										"crop": "scale",
 										"start_offset": 12.7,
 										"end_offset": 13.7,
@@ -2171,7 +2171,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "4f78u",
+													"key": "7p7ia",
 													"text": "भगवान WTF",
 													"type": "unstyled",
 													"depth": 0,
@@ -2205,7 +2205,7 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "center",
+										"gravity": "south",
 										"crop": "scale",
 										"start_offset": 13.7,
 										"end_offset": 14.7,
@@ -2226,7 +2226,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "22psl",
+													"key": "fano4",
 													"text": "क्यों फैजे",
 													"type": "unstyled",
 													"depth": 0,
@@ -2260,7 +2260,7 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "center",
+										"gravity": "south",
 										"crop": "scale",
 										"start_offset": 14.7,
 										"end_offset": 16.8,
@@ -2281,7 +2281,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "6llfo",
+													"key": "2mclh",
 													"text": "तुंहें पता है मैं",
 													"type": "unstyled",
 													"depth": 0,
@@ -2315,7 +2315,7 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "center",
+										"gravity": "south",
 										"crop": "scale",
 										"start_offset": 16.8,
 										"end_offset": 17.9,
@@ -2336,7 +2336,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "58bug",
+													"key": "bdcvo",
 													"text": "जानिए सभी लोकनृत्य उच्च",
 													"type": "unstyled",
 													"depth": 0,
@@ -2370,7 +2370,7 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "center",
+										"gravity": "south",
 										"crop": "scale",
 										"start_offset": 17.9,
 										"end_offset": 18.8,
@@ -2391,7 +2391,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "e40oh",
+													"key": "1g79v",
 													"text": "स्कूल संगीत",
 													"type": "unstyled",
 													"depth": 0,
@@ -2425,7 +2425,7 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "center",
+										"gravity": "south",
 										"crop": "scale",
 										"start_offset": 18.8,
 										"end_offset": 19.9,
@@ -2446,7 +2446,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "7d543",
+													"key": "752of",
 													"text": "हम सब कर रहे है",
 													"type": "unstyled",
 													"depth": 0,
@@ -2480,7 +2480,7 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "center",
+										"gravity": "south",
 										"crop": "scale",
 										"start_offset": 19.9,
 										"end_offset": 20.8,
@@ -2501,7 +2501,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "d1684",
+													"key": "5jsnq",
 													"text": "इस में",
 													"type": "unstyled",
 													"depth": 0,
@@ -2535,7 +2535,7 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "center",
+										"gravity": "south",
 										"crop": "scale",
 										"start_offset": 20.8,
 										"end_offset": 21.6,
@@ -2556,7 +2556,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "1btb9",
+													"key": "6s5s2",
 													"text": "साथ-साथ",
 													"type": "unstyled",
 													"depth": 0,
@@ -2590,7 +2590,7 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "center",
+										"gravity": "south",
 										"crop": "scale",
 										"start_offset": 21.6,
 										"end_offset": 23.8,
@@ -2611,7 +2611,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "dp00k",
+													"key": "8f5of",
 													"text": "हां हम कर रहे है",
 													"type": "unstyled",
 													"depth": 0,
@@ -2645,7 +2645,7 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "center",
+										"gravity": "south",
 										"crop": "scale",
 										"start_offset": 23.8,
 										"end_offset": 24.7,
@@ -2666,7 +2666,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "1u5ib",
+													"key": "a7vmk",
 													"text": "हम सब कर रहे है",
 													"type": "unstyled",
 													"depth": 0,
@@ -2700,7 +2700,7 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "center",
+										"gravity": "south",
 										"crop": "scale",
 										"start_offset": 24.7,
 										"end_offset": 25.9,
@@ -2721,7 +2721,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "aaeva",
+													"key": "684v8",
 													"text": "सितारों और",
 													"type": "unstyled",
 													"depth": 0,
@@ -2755,7 +2755,7 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "center",
+										"gravity": "south",
 										"crop": "scale",
 										"start_offset": 25.9,
 										"end_offset": 26.8,
@@ -2776,7 +2776,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "8jeug",
+													"key": "br18g",
 													"text": "आप",
 													"type": "unstyled",
 													"depth": 0,
@@ -2810,7 +2810,7 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "center",
+										"gravity": "south",
 										"crop": "scale",
 										"start_offset": 26.8,
 										"end_offset": 27.7,
@@ -2831,7 +2831,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "1plis",
+													"key": "app3s",
 													"text": "पता है यह",
 													"type": "unstyled",
 													"depth": 0,
@@ -3024,8 +3024,8 @@
 									"seoSuffix": "nsw_health_anxiety_awareness_campaigns_-_nrl"
 								},
 								"underlay": {
-									"show": false,
-									"gravity": "center",
+									"show": "stripe",
+									"gravity": "south",
 									"boxcolor": {
 										"rgb": {
 											"r": 0,
@@ -3035,7 +3035,7 @@
 										},
 										"hex": "#00ff00"
 									},
-									"matchText": true
+									"matchText": false
 								}
 							}
 						],
