@@ -177,7 +177,7 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "north",
+										"gravity": "south",
 										"crop": "scale",
 										"text": "everyone experiences",
 										"font": "Noto Sans",
@@ -196,7 +196,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "4ccu",
+													"key": "fmva3",
 													"text": "everyone experiences",
 													"type": "unstyled",
 													"depth": 0,
@@ -232,7 +232,7 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "north",
+										"gravity": "south",
 										"crop": "scale",
 										"text": "anxiety at some time",
 										"font": "Noto Sans",
@@ -251,7 +251,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "dcbef",
+													"key": "fqv00",
 													"text": "anxiety at some time",
 													"type": "unstyled",
 													"depth": 0,
@@ -287,7 +287,7 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "north",
+										"gravity": "south",
 										"crop": "scale",
 										"text": "but one in",
 										"font": "Noto Sans",
@@ -306,7 +306,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "dd7pg",
+													"key": "106bi",
 													"text": "but one in",
 													"type": "unstyled",
 													"depth": 0,
@@ -342,7 +342,7 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "north",
+										"gravity": "south",
 										"crop": "scale",
 										"text": "7 will be affected",
 										"font": "Noto Sans",
@@ -361,7 +361,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "517j2",
+													"key": "8128s",
 													"text": "7 will be affected",
 													"type": "unstyled",
 													"depth": 0,
@@ -397,7 +397,7 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "north",
+										"gravity": "south",
 										"crop": "scale",
 										"text": "by an anxiety",
 										"font": "Noto Sans",
@@ -416,7 +416,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "5nu97",
+													"key": "frcq8",
 													"text": "by an anxiety",
 													"type": "unstyled",
 													"depth": 0,
@@ -452,7 +452,7 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "north",
+										"gravity": "south",
 										"crop": "scale",
 										"text": "disorder many may",
 										"font": "Noto Sans",
@@ -471,7 +471,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "7jt0",
+													"key": "clrst",
 													"text": "disorder many may",
 													"type": "unstyled",
 													"depth": 0,
@@ -507,7 +507,7 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "north",
+										"gravity": "south",
 										"crop": "scale",
 										"text": "live with anxiety",
 										"font": "Noto Sans",
@@ -526,7 +526,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "f7055",
+													"key": "1fvpe",
 													"text": "live with anxiety",
 													"type": "unstyled",
 													"depth": 0,
@@ -562,7 +562,7 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "north",
+										"gravity": "south",
 										"crop": "scale",
 										"text": "disorder and not",
 										"font": "Noto Sans",
@@ -581,7 +581,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "861eg",
+													"key": "5a4e7",
 													"text": "disorder and not",
 													"type": "unstyled",
 													"depth": 0,
@@ -617,7 +617,7 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "north",
+										"gravity": "south",
 										"crop": "scale",
 										"text": "realise when",
 										"font": "Noto Sans",
@@ -636,7 +636,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "4kdn0",
+													"key": "2mqo6",
 													"text": "realise when",
 													"type": "unstyled",
 													"depth": 0,
@@ -672,7 +672,7 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "north",
+										"gravity": "south",
 										"crop": "scale",
 										"text": "anxiety affects",
 										"font": "Noto Sans",
@@ -691,7 +691,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "dcfke",
+													"key": "da5ln",
 													"text": "anxiety affects",
 													"type": "unstyled",
 													"depth": 0,
@@ -727,7 +727,7 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "north",
+										"gravity": "south",
 										"crop": "scale",
 										"text": "your everyday life",
 										"font": "Noto Sans",
@@ -746,7 +746,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "dtreo",
+													"key": "a66bs",
 													"text": "your everyday life",
 													"type": "unstyled",
 													"depth": 0,
@@ -782,7 +782,7 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "north",
+										"gravity": "south",
 										"crop": "scale",
 										"text": "it's time to get help to",
 										"font": "Noto Sans",
@@ -801,7 +801,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "2dldi",
+													"key": "75ask",
 													"text": "it's time to get help to",
 													"type": "unstyled",
 													"depth": 0,
@@ -837,7 +837,7 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "north",
+										"gravity": "south",
 										"crop": "scale",
 										"text": "find out more about",
 										"font": "Noto Sans",
@@ -856,7 +856,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "1fc0b",
+													"key": "1g4hp",
 													"text": "find out more about",
 													"type": "unstyled",
 													"depth": 0,
@@ -987,7 +987,7 @@
 								},
 								"underlay": {
 									"show": "stripe",
-									"gravity": "north",
+									"gravity": "south",
 									"boxcolor": {
 										"rgb": {
 											"r": 0,
