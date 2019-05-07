@@ -196,7 +196,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "8qgkh",
+													"key": "7ubnj",
 													"text": "everyone experiences",
 													"type": "unstyled",
 													"depth": 0,
@@ -251,7 +251,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "7lvui",
+													"key": "er8rv",
 													"text": "anxiety at some time",
 													"type": "unstyled",
 													"depth": 0,
@@ -306,7 +306,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "b39me",
+													"key": "ejplc",
 													"text": "but one in",
 													"type": "unstyled",
 													"depth": 0,
@@ -361,7 +361,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "73qld",
+													"key": "2vefa",
 													"text": "7 will be affected",
 													"type": "unstyled",
 													"depth": 0,
@@ -416,7 +416,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "bes04",
+													"key": "22ltb",
 													"text": "by an anxiety",
 													"type": "unstyled",
 													"depth": 0,
@@ -471,7 +471,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "5cf57",
+													"key": "cfuvv",
 													"text": "disorder many may",
 													"type": "unstyled",
 													"depth": 0,
@@ -526,7 +526,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "cp9fi",
+													"key": "6evr1",
 													"text": "live with anxiety",
 													"type": "unstyled",
 													"depth": 0,
@@ -581,7 +581,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "68c1b",
+													"key": "3arnf",
 													"text": "disorder and not",
 													"type": "unstyled",
 													"depth": 0,
@@ -636,7 +636,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "2m2t7",
+													"key": "6bhcm",
 													"text": "realise when",
 													"type": "unstyled",
 													"depth": 0,
@@ -691,7 +691,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "a7lmt",
+													"key": "feonh",
 													"text": "anxiety affects",
 													"type": "unstyled",
 													"depth": 0,
@@ -746,7 +746,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "2np2v",
+													"key": "eqgbi",
 													"text": "your everyday life",
 													"type": "unstyled",
 													"depth": 0,
@@ -801,7 +801,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "ibdp",
+													"key": "5lobq",
 													"text": "it's time to get help to",
 													"type": "unstyled",
 													"depth": 0,
@@ -856,7 +856,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "58t8m",
+													"key": "8rd5q",
 													"text": "find out more about",
 													"type": "unstyled",
 													"depth": 0,
@@ -1075,7 +1075,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "7m778",
+													"key": "aelhu",
 													"text": "I'm a cool",
 													"type": "unstyled",
 													"depth": 0,
@@ -1130,7 +1130,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "3p7ju",
+													"key": "9pe2p",
 													"text": "guy that's that's my",
 													"type": "unstyled",
 													"depth": 0,
@@ -1185,7 +1185,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "cuu7d",
+													"key": "8ijrr",
 													"text": "thing",
 													"type": "unstyled",
 													"depth": 0,
@@ -1240,7 +1240,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "47mu5",
+													"key": "2jbq",
 													"text": "I'm",
 													"type": "unstyled",
 													"depth": 0,
@@ -1295,7 +1295,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "4kcfd",
+													"key": "c93na",
 													"text": "happy I surf",
 													"type": "unstyled",
 													"depth": 0,
@@ -1383,12 +1383,8 @@
 									"seoSuffix": "samplevideo"
 								},
 								"underlay": {
-									"gravity": "center",
-									"x": 0,
-									"y": 0,
-									"height": 0,
-									"width": 0,
 									"show": "stripe",
+									"gravity": "north",
 									"boxcolor": {
 										"rgb": {
 											"r": 0,
@@ -1398,7 +1394,6 @@
 										},
 										"hex": "#00ff00"
 									},
-									"useXY": false,
 									"matchText": false
 								}
 							}
