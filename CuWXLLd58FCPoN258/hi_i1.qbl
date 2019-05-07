@@ -177,8 +177,6 @@
 										"isAttached": true,
 										"gravity": "south",
 										"crop": "scale",
-										"start_offset": 3,
-										"end_offset": 4.8,
 										"text": "I ' ma शांत",
 										"font": "Noto Sans Devanagari",
 										"size": 14,
@@ -196,7 +194,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "aco72",
+													"key": "d0phc",
 													"text": "I ' ma शांत",
 													"type": "unstyled",
 													"depth": 0,
@@ -221,6 +219,8 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 3,
+										"end_offset": 4.8,
 										"isAutoOverlayed": true
 									},
 									{
@@ -232,8 +232,6 @@
 										"isAttached": true,
 										"gravity": "south",
 										"crop": "scale",
-										"start_offset": 4.8,
-										"end_offset": 5.9,
 										"text": "आदमी है कि that's s मेरी",
 										"font": "Noto Sans Devanagari",
 										"size": 14,
@@ -251,7 +249,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "cgd79",
+													"key": "co374",
 													"text": "आदमी है कि that's s मेरी",
 													"type": "unstyled",
 													"depth": 0,
@@ -276,6 +274,8 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 4.8,
+										"end_offset": 5.9,
 										"isAutoOverlayed": true
 									},
 									{
@@ -287,8 +287,6 @@
 										"isAttached": true,
 										"gravity": "south",
 										"crop": "scale",
-										"start_offset": 5.9,
-										"end_offset": 6.3,
 										"text": "फेंग",
 										"font": "Noto Sans Devanagari",
 										"size": 14,
@@ -306,7 +304,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "8a1h5",
+													"key": "but7t",
 													"text": "फेंग",
 													"type": "unstyled",
 													"depth": 0,
@@ -331,6 +329,8 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 5.9,
+										"end_offset": 6.3,
 										"isAutoOverlayed": true
 									},
 									{
@@ -342,8 +342,6 @@
 										"isAttached": true,
 										"gravity": "south",
 										"crop": "scale",
-										"start_offset": 7.4,
-										"end_offset": 7.8,
 										"text": "मैं हूं",
 										"font": "Noto Sans Devanagari",
 										"size": 14,
@@ -361,7 +359,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "cvrl3",
+													"key": "86d9e",
 													"text": "मैं हूं",
 													"type": "unstyled",
 													"depth": 0,
@@ -386,6 +384,8 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 7.4,
+										"end_offset": 7.8,
 										"isAutoOverlayed": true
 									},
 									{
@@ -397,8 +397,6 @@
 										"isAttached": true,
 										"gravity": "south",
 										"crop": "scale",
-										"start_offset": 7.8,
-										"end_offset": 8.9,
 										"text": "यहां 5 मैं सर्फ",
 										"font": "Noto Sans Devanagari",
 										"size": 14,
@@ -416,7 +414,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "6l362",
+													"key": "13c8v",
 													"text": "यहां 5 मैं सर्फ",
 													"type": "unstyled",
 													"depth": 0,
@@ -441,6 +439,8 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 7.8,
+										"end_offset": 8.9,
 										"isAutoOverlayed": true
 									},
 									{
@@ -452,8 +452,6 @@
 										"isAttached": true,
 										"gravity": "south",
 										"crop": "scale",
-										"start_offset": 8.9,
-										"end_offset": 9.4,
 										"text": "वेब मैं",
 										"font": "Noto Sans Devanagari",
 										"size": 14,
@@ -471,7 +469,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "c7u9o",
+													"key": "3cgf1",
 													"text": "वेब मैं",
 													"type": "unstyled",
 													"depth": 0,
@@ -496,6 +494,8 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 8.9,
+										"end_offset": 9.4,
 										"isAutoOverlayed": true
 									},
 									{
@@ -507,8 +507,6 @@
 										"isAttached": true,
 										"gravity": "south",
 										"crop": "scale",
-										"start_offset": 9.4,
-										"end_offset": 10.6,
 										"text": "पाठ योग्य",
 										"font": "Noto Sans Devanagari",
 										"size": 14,
@@ -526,7 +524,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "aevr2",
+													"key": "7ln6u",
 													"text": "पाठ योग्य",
 													"type": "unstyled",
 													"depth": 0,
@@ -551,6 +549,8 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 9.4,
+										"end_offset": 10.6,
 										"isAutoOverlayed": true
 									},
 									{
@@ -562,8 +562,6 @@
 										"isAttached": true,
 										"gravity": "south",
 										"crop": "scale",
-										"start_offset": 10.6,
-										"end_offset": 11.4,
 										"text": "ज़ोर की हँसी",
 										"font": "Noto Sans Devanagari",
 										"size": 14,
@@ -581,7 +579,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "frf9d",
+													"key": "25ra0",
 													"text": "ज़ोर की हँसी",
 													"type": "unstyled",
 													"depth": 0,
@@ -606,6 +604,8 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 10.6,
+										"end_offset": 11.4,
 										"isAutoOverlayed": true
 									},
 									{
@@ -617,8 +617,6 @@
 										"isAttached": true,
 										"gravity": "south",
 										"crop": "scale",
-										"start_offset": 11.4,
-										"end_offset": 12.7,
 										"text": "OMG ओह मेरी",
 										"font": "Noto Sans Devanagari",
 										"size": 14,
@@ -636,7 +634,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "7uqei",
+													"key": "8knld",
 													"text": "OMG ओह मेरी",
 													"type": "unstyled",
 													"depth": 0,
@@ -661,6 +659,8 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 11.4,
+										"end_offset": 12.7,
 										"isAutoOverlayed": true
 									},
 									{
@@ -672,8 +672,6 @@
 										"isAttached": true,
 										"gravity": "south",
 										"crop": "scale",
-										"start_offset": 12.7,
-										"end_offset": 13.7,
 										"text": "भगवान WTF",
 										"font": "Noto Sans Devanagari",
 										"size": 14,
@@ -691,7 +689,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "erini",
+													"key": "cmtha",
 													"text": "भगवान WTF",
 													"type": "unstyled",
 													"depth": 0,
@@ -716,6 +714,8 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 12.7,
+										"end_offset": 13.7,
 										"isAutoOverlayed": true
 									},
 									{
@@ -727,8 +727,6 @@
 										"isAttached": true,
 										"gravity": "south",
 										"crop": "scale",
-										"start_offset": 13.7,
-										"end_offset": 14.7,
 										"text": "क्यों फैजे",
 										"font": "Noto Sans Devanagari",
 										"size": 14,
@@ -746,7 +744,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "c3m1k",
+													"key": "bvbkv",
 													"text": "क्यों फैजे",
 													"type": "unstyled",
 													"depth": 0,
@@ -771,6 +769,8 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 13.7,
+										"end_offset": 14.7,
 										"isAutoOverlayed": true
 									},
 									{
@@ -782,8 +782,6 @@
 										"isAttached": true,
 										"gravity": "south",
 										"crop": "scale",
-										"start_offset": 14.7,
-										"end_offset": 16.8,
 										"text": "तुंहें पता है मैं",
 										"font": "Noto Sans Devanagari",
 										"size": 14,
@@ -801,7 +799,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "bjtun",
+													"key": "epo59",
 													"text": "तुंहें पता है मैं",
 													"type": "unstyled",
 													"depth": 0,
@@ -826,6 +824,8 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 14.7,
+										"end_offset": 16.8,
 										"isAutoOverlayed": true
 									},
 									{
@@ -837,8 +837,6 @@
 										"isAttached": true,
 										"gravity": "south",
 										"crop": "scale",
-										"start_offset": 16.8,
-										"end_offset": 17.9,
 										"text": "जानिए सभी लोकनृत्य उच्च",
 										"font": "Noto Sans Devanagari",
 										"size": 14,
@@ -856,7 +854,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "5pdei",
+													"key": "7in80",
 													"text": "जानिए सभी लोकनृत्य उच्च",
 													"type": "unstyled",
 													"depth": 0,
@@ -881,6 +879,8 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 16.8,
+										"end_offset": 17.9,
 										"isAutoOverlayed": true
 									},
 									{
@@ -892,8 +892,6 @@
 										"isAttached": true,
 										"gravity": "south",
 										"crop": "scale",
-										"start_offset": 17.9,
-										"end_offset": 18.8,
 										"text": "स्कूल संगीत",
 										"font": "Noto Sans Devanagari",
 										"size": 14,
@@ -911,7 +909,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "fqtji",
+													"key": "7l04j",
 													"text": "स्कूल संगीत",
 													"type": "unstyled",
 													"depth": 0,
@@ -936,6 +934,8 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 17.9,
+										"end_offset": 18.8,
 										"isAutoOverlayed": true
 									},
 									{
@@ -947,8 +947,6 @@
 										"isAttached": true,
 										"gravity": "south",
 										"crop": "scale",
-										"start_offset": 18.8,
-										"end_offset": 19.9,
 										"text": "हम सब कर रहे है",
 										"font": "Noto Sans Devanagari",
 										"size": 14,
@@ -966,7 +964,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "58nsh",
+													"key": "fkqvh",
 													"text": "हम सब कर रहे है",
 													"type": "unstyled",
 													"depth": 0,
@@ -991,6 +989,8 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 18.8,
+										"end_offset": 19.9,
 										"isAutoOverlayed": true
 									},
 									{
@@ -1002,8 +1002,6 @@
 										"isAttached": true,
 										"gravity": "south",
 										"crop": "scale",
-										"start_offset": 19.9,
-										"end_offset": 20.8,
 										"text": "इस में",
 										"font": "Noto Sans Devanagari",
 										"size": 14,
@@ -1021,7 +1019,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "a7ese",
+													"key": "9d1sm",
 													"text": "इस में",
 													"type": "unstyled",
 													"depth": 0,
@@ -1046,6 +1044,8 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 19.9,
+										"end_offset": 20.8,
 										"isAutoOverlayed": true
 									},
 									{
@@ -1057,8 +1057,6 @@
 										"isAttached": true,
 										"gravity": "south",
 										"crop": "scale",
-										"start_offset": 20.8,
-										"end_offset": 21.6,
 										"text": "साथ-साथ",
 										"font": "Noto Sans Devanagari",
 										"size": 14,
@@ -1076,7 +1074,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "4ogdr",
+													"key": "aso6n",
 													"text": "साथ-साथ",
 													"type": "unstyled",
 													"depth": 0,
@@ -1101,6 +1099,8 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 20.8,
+										"end_offset": 21.6,
 										"isAutoOverlayed": true
 									},
 									{
@@ -1112,8 +1112,6 @@
 										"isAttached": true,
 										"gravity": "south",
 										"crop": "scale",
-										"start_offset": 21.6,
-										"end_offset": 23.8,
 										"text": "हां हम कर रहे है",
 										"font": "Noto Sans Devanagari",
 										"size": 14,
@@ -1131,7 +1129,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "5e62t",
+													"key": "aeq09",
 													"text": "हां हम कर रहे है",
 													"type": "unstyled",
 													"depth": 0,
@@ -1156,6 +1154,8 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 21.6,
+										"end_offset": 23.8,
 										"isAutoOverlayed": true
 									},
 									{
@@ -1167,8 +1167,6 @@
 										"isAttached": true,
 										"gravity": "south",
 										"crop": "scale",
-										"start_offset": 23.8,
-										"end_offset": 24.7,
 										"text": "हम सब कर रहे है",
 										"font": "Noto Sans Devanagari",
 										"size": 14,
@@ -1186,7 +1184,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "csj8f",
+													"key": "9kgc",
 													"text": "हम सब कर रहे है",
 													"type": "unstyled",
 													"depth": 0,
@@ -1211,6 +1209,8 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 23.8,
+										"end_offset": 24.7,
 										"isAutoOverlayed": true
 									},
 									{
@@ -1222,8 +1222,6 @@
 										"isAttached": true,
 										"gravity": "south",
 										"crop": "scale",
-										"start_offset": 24.7,
-										"end_offset": 25.9,
 										"text": "सितारों और",
 										"font": "Noto Sans Devanagari",
 										"size": 14,
@@ -1241,7 +1239,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "dsock",
+													"key": "6j4h9",
 													"text": "सितारों और",
 													"type": "unstyled",
 													"depth": 0,
@@ -1266,6 +1264,8 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 24.7,
+										"end_offset": 25.9,
 										"isAutoOverlayed": true
 									},
 									{
@@ -1277,8 +1277,6 @@
 										"isAttached": true,
 										"gravity": "south",
 										"crop": "scale",
-										"start_offset": 25.9,
-										"end_offset": 26.8,
 										"text": "आप",
 										"font": "Noto Sans Devanagari",
 										"size": 14,
@@ -1296,7 +1294,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "98qe",
+													"key": "6vefg",
 													"text": "आप",
 													"type": "unstyled",
 													"depth": 0,
@@ -1321,6 +1319,8 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 25.9,
+										"end_offset": 26.8,
 										"isAutoOverlayed": true
 									},
 									{
@@ -1332,8 +1332,6 @@
 										"isAttached": true,
 										"gravity": "south",
 										"crop": "scale",
-										"start_offset": 26.8,
-										"end_offset": 27.7,
 										"text": "पता है यह",
 										"font": "Noto Sans Devanagari",
 										"size": 14,
@@ -1351,7 +1349,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "cmqbo",
+													"key": "97qit",
 													"text": "पता है यह",
 													"type": "unstyled",
 													"depth": 0,
@@ -1376,6 +1374,8 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 26.8,
+										"end_offset": 27.7,
 										"isAutoOverlayed": true
 									}
 								],
@@ -1659,8 +1659,6 @@
 										"isAttached": true,
 										"gravity": "south",
 										"crop": "scale",
-										"start_offset": 3,
-										"end_offset": 4.8,
 										"text": "I ' ma शांत",
 										"font": "Noto Sans Devanagari",
 										"size": 14,
@@ -1678,7 +1676,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "707kr",
+													"key": "923tk",
 													"text": "I ' ma शांत",
 													"type": "unstyled",
 													"depth": 0,
@@ -1703,6 +1701,8 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 3,
+										"end_offset": 4.8,
 										"isAutoOverlayed": true
 									},
 									{
@@ -1714,8 +1714,6 @@
 										"isAttached": true,
 										"gravity": "south",
 										"crop": "scale",
-										"start_offset": 4.8,
-										"end_offset": 5.9,
 										"text": "आदमी है कि that's s मेरी",
 										"font": "Noto Sans Devanagari",
 										"size": 14,
@@ -1733,7 +1731,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "bdp6m",
+													"key": "cnusn",
 													"text": "आदमी है कि that's s मेरी",
 													"type": "unstyled",
 													"depth": 0,
@@ -1758,6 +1756,8 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 4.8,
+										"end_offset": 5.9,
 										"isAutoOverlayed": true
 									},
 									{
@@ -1769,8 +1769,6 @@
 										"isAttached": true,
 										"gravity": "south",
 										"crop": "scale",
-										"start_offset": 5.9,
-										"end_offset": 6.3,
 										"text": "फेंग",
 										"font": "Noto Sans Devanagari",
 										"size": 14,
@@ -1788,7 +1786,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "1gv0r",
+													"key": "4kpj4",
 													"text": "फेंग",
 													"type": "unstyled",
 													"depth": 0,
@@ -1813,6 +1811,8 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 5.9,
+										"end_offset": 6.3,
 										"isAutoOverlayed": true
 									},
 									{
@@ -1824,8 +1824,6 @@
 										"isAttached": true,
 										"gravity": "south",
 										"crop": "scale",
-										"start_offset": 7.4,
-										"end_offset": 7.8,
 										"text": "मैं हूं",
 										"font": "Noto Sans Devanagari",
 										"size": 14,
@@ -1843,7 +1841,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "5huvv",
+													"key": "1alth",
 													"text": "मैं हूं",
 													"type": "unstyled",
 													"depth": 0,
@@ -1868,6 +1866,8 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 7.4,
+										"end_offset": 7.8,
 										"isAutoOverlayed": true
 									},
 									{
@@ -1879,8 +1879,6 @@
 										"isAttached": true,
 										"gravity": "south",
 										"crop": "scale",
-										"start_offset": 7.8,
-										"end_offset": 8.9,
 										"text": "यहां 5 मैं सर्फ",
 										"font": "Noto Sans Devanagari",
 										"size": 14,
@@ -1898,7 +1896,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "7kgla",
+													"key": "9fo61",
 													"text": "यहां 5 मैं सर्फ",
 													"type": "unstyled",
 													"depth": 0,
@@ -1923,6 +1921,8 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 7.8,
+										"end_offset": 8.9,
 										"isAutoOverlayed": true
 									},
 									{
@@ -1934,8 +1934,6 @@
 										"isAttached": true,
 										"gravity": "south",
 										"crop": "scale",
-										"start_offset": 8.9,
-										"end_offset": 9.4,
 										"text": "वेब मैं",
 										"font": "Noto Sans Devanagari",
 										"size": 14,
@@ -1953,7 +1951,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "3u5fc",
+													"key": "16qb1",
 													"text": "वेब मैं",
 													"type": "unstyled",
 													"depth": 0,
@@ -1978,6 +1976,8 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 8.9,
+										"end_offset": 9.4,
 										"isAutoOverlayed": true
 									},
 									{
@@ -1989,8 +1989,6 @@
 										"isAttached": true,
 										"gravity": "south",
 										"crop": "scale",
-										"start_offset": 9.4,
-										"end_offset": 10.6,
 										"text": "पाठ योग्य",
 										"font": "Noto Sans Devanagari",
 										"size": 14,
@@ -2008,7 +2006,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "evvb5",
+													"key": "5jfgp",
 													"text": "पाठ योग्य",
 													"type": "unstyled",
 													"depth": 0,
@@ -2033,6 +2031,8 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 9.4,
+										"end_offset": 10.6,
 										"isAutoOverlayed": true
 									},
 									{
@@ -2044,8 +2044,6 @@
 										"isAttached": true,
 										"gravity": "south",
 										"crop": "scale",
-										"start_offset": 10.6,
-										"end_offset": 11.4,
 										"text": "ज़ोर की हँसी",
 										"font": "Noto Sans Devanagari",
 										"size": 14,
@@ -2063,7 +2061,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "8lh1c",
+													"key": "5um72",
 													"text": "ज़ोर की हँसी",
 													"type": "unstyled",
 													"depth": 0,
@@ -2088,6 +2086,8 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 10.6,
+										"end_offset": 11.4,
 										"isAutoOverlayed": true
 									},
 									{
@@ -2099,8 +2099,6 @@
 										"isAttached": true,
 										"gravity": "south",
 										"crop": "scale",
-										"start_offset": 11.4,
-										"end_offset": 12.7,
 										"text": "OMG ओह मेरी",
 										"font": "Noto Sans Devanagari",
 										"size": 14,
@@ -2118,7 +2116,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "f9jh5",
+													"key": "69lmf",
 													"text": "OMG ओह मेरी",
 													"type": "unstyled",
 													"depth": 0,
@@ -2143,6 +2141,8 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 11.4,
+										"end_offset": 12.7,
 										"isAutoOverlayed": true
 									},
 									{
@@ -2154,8 +2154,6 @@
 										"isAttached": true,
 										"gravity": "south",
 										"crop": "scale",
-										"start_offset": 12.7,
-										"end_offset": 13.7,
 										"text": "भगवान WTF",
 										"font": "Noto Sans Devanagari",
 										"size": 14,
@@ -2173,7 +2171,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "7p7ia",
+													"key": "m2dc",
 													"text": "भगवान WTF",
 													"type": "unstyled",
 													"depth": 0,
@@ -2198,6 +2196,8 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 12.7,
+										"end_offset": 13.7,
 										"isAutoOverlayed": true
 									},
 									{
@@ -2209,8 +2209,6 @@
 										"isAttached": true,
 										"gravity": "south",
 										"crop": "scale",
-										"start_offset": 13.7,
-										"end_offset": 14.7,
 										"text": "क्यों फैजे",
 										"font": "Noto Sans Devanagari",
 										"size": 14,
@@ -2228,7 +2226,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "fano4",
+													"key": "4id7i",
 													"text": "क्यों फैजे",
 													"type": "unstyled",
 													"depth": 0,
@@ -2253,6 +2251,8 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 13.7,
+										"end_offset": 14.7,
 										"isAutoOverlayed": true
 									},
 									{
@@ -2264,8 +2264,6 @@
 										"isAttached": true,
 										"gravity": "south",
 										"crop": "scale",
-										"start_offset": 14.7,
-										"end_offset": 16.8,
 										"text": "तुंहें पता है मैं",
 										"font": "Noto Sans Devanagari",
 										"size": 14,
@@ -2283,7 +2281,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "2mclh",
+													"key": "8lkkj",
 													"text": "तुंहें पता है मैं",
 													"type": "unstyled",
 													"depth": 0,
@@ -2308,6 +2306,8 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 14.7,
+										"end_offset": 16.8,
 										"isAutoOverlayed": true
 									},
 									{
@@ -2319,8 +2319,6 @@
 										"isAttached": true,
 										"gravity": "south",
 										"crop": "scale",
-										"start_offset": 16.8,
-										"end_offset": 17.9,
 										"text": "जानिए सभी लोकनृत्य उच्च",
 										"font": "Noto Sans Devanagari",
 										"size": 14,
@@ -2338,7 +2336,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "bdcvo",
+													"key": "7bk6r",
 													"text": "जानिए सभी लोकनृत्य उच्च",
 													"type": "unstyled",
 													"depth": 0,
@@ -2363,6 +2361,8 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 16.8,
+										"end_offset": 17.9,
 										"isAutoOverlayed": true
 									},
 									{
@@ -2374,8 +2374,6 @@
 										"isAttached": true,
 										"gravity": "south",
 										"crop": "scale",
-										"start_offset": 17.9,
-										"end_offset": 18.8,
 										"text": "स्कूल संगीत",
 										"font": "Noto Sans Devanagari",
 										"size": 14,
@@ -2393,7 +2391,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "1g79v",
+													"key": "2l1a3",
 													"text": "स्कूल संगीत",
 													"type": "unstyled",
 													"depth": 0,
@@ -2418,6 +2416,8 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 17.9,
+										"end_offset": 18.8,
 										"isAutoOverlayed": true
 									},
 									{
@@ -2429,8 +2429,6 @@
 										"isAttached": true,
 										"gravity": "south",
 										"crop": "scale",
-										"start_offset": 18.8,
-										"end_offset": 19.9,
 										"text": "हम सब कर रहे है",
 										"font": "Noto Sans Devanagari",
 										"size": 14,
@@ -2448,7 +2446,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "752of",
+													"key": "e1nr9",
 													"text": "हम सब कर रहे है",
 													"type": "unstyled",
 													"depth": 0,
@@ -2473,6 +2471,8 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 18.8,
+										"end_offset": 19.9,
 										"isAutoOverlayed": true
 									},
 									{
@@ -2484,8 +2484,6 @@
 										"isAttached": true,
 										"gravity": "south",
 										"crop": "scale",
-										"start_offset": 19.9,
-										"end_offset": 20.8,
 										"text": "इस में",
 										"font": "Noto Sans Devanagari",
 										"size": 14,
@@ -2503,7 +2501,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "5jsnq",
+													"key": "fab7o",
 													"text": "इस में",
 													"type": "unstyled",
 													"depth": 0,
@@ -2528,6 +2526,8 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 19.9,
+										"end_offset": 20.8,
 										"isAutoOverlayed": true
 									},
 									{
@@ -2539,8 +2539,6 @@
 										"isAttached": true,
 										"gravity": "south",
 										"crop": "scale",
-										"start_offset": 20.8,
-										"end_offset": 21.6,
 										"text": "साथ-साथ",
 										"font": "Noto Sans Devanagari",
 										"size": 14,
@@ -2558,7 +2556,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "6s5s2",
+													"key": "p5ks",
 													"text": "साथ-साथ",
 													"type": "unstyled",
 													"depth": 0,
@@ -2583,6 +2581,8 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 20.8,
+										"end_offset": 21.6,
 										"isAutoOverlayed": true
 									},
 									{
@@ -2594,8 +2594,6 @@
 										"isAttached": true,
 										"gravity": "south",
 										"crop": "scale",
-										"start_offset": 21.6,
-										"end_offset": 23.8,
 										"text": "हां हम कर रहे है",
 										"font": "Noto Sans Devanagari",
 										"size": 14,
@@ -2613,7 +2611,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "8f5of",
+													"key": "1cq8v",
 													"text": "हां हम कर रहे है",
 													"type": "unstyled",
 													"depth": 0,
@@ -2638,6 +2636,8 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 21.6,
+										"end_offset": 23.8,
 										"isAutoOverlayed": true
 									},
 									{
@@ -2649,8 +2649,6 @@
 										"isAttached": true,
 										"gravity": "south",
 										"crop": "scale",
-										"start_offset": 23.8,
-										"end_offset": 24.7,
 										"text": "हम सब कर रहे है",
 										"font": "Noto Sans Devanagari",
 										"size": 14,
@@ -2668,7 +2666,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "a7vmk",
+													"key": "1fck8",
 													"text": "हम सब कर रहे है",
 													"type": "unstyled",
 													"depth": 0,
@@ -2693,6 +2691,8 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 23.8,
+										"end_offset": 24.7,
 										"isAutoOverlayed": true
 									},
 									{
@@ -2704,8 +2704,6 @@
 										"isAttached": true,
 										"gravity": "south",
 										"crop": "scale",
-										"start_offset": 24.7,
-										"end_offset": 25.9,
 										"text": "सितारों और",
 										"font": "Noto Sans Devanagari",
 										"size": 14,
@@ -2723,7 +2721,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "684v8",
+													"key": "5b64c",
 													"text": "सितारों और",
 													"type": "unstyled",
 													"depth": 0,
@@ -2748,6 +2746,8 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 24.7,
+										"end_offset": 25.9,
 										"isAutoOverlayed": true
 									},
 									{
@@ -2759,8 +2759,6 @@
 										"isAttached": true,
 										"gravity": "south",
 										"crop": "scale",
-										"start_offset": 25.9,
-										"end_offset": 26.8,
 										"text": "आप",
 										"font": "Noto Sans Devanagari",
 										"size": 14,
@@ -2778,7 +2776,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "br18g",
+													"key": "9h585",
 													"text": "आप",
 													"type": "unstyled",
 													"depth": 0,
@@ -2803,6 +2801,8 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 25.9,
+										"end_offset": 26.8,
 										"isAutoOverlayed": true
 									},
 									{
@@ -2814,8 +2814,6 @@
 										"isAttached": true,
 										"gravity": "south",
 										"crop": "scale",
-										"start_offset": 26.8,
-										"end_offset": 27.7,
 										"text": "पता है यह",
 										"font": "Noto Sans Devanagari",
 										"size": 14,
@@ -2833,7 +2831,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "app3s",
+													"key": "2plsr",
 													"text": "पता है यह",
 													"type": "unstyled",
 													"depth": 0,
@@ -2858,6 +2856,8 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 26.8,
+										"end_offset": 27.7,
 										"isAutoOverlayed": true
 									}
 								],
