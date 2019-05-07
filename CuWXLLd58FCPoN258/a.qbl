@@ -128,22 +128,22 @@
 						"fieldKey": "372d9fd1-ce6a-42be-74d6-314fa6ea42a3",
 						"fieldValues": [
 							{
-								"public_id": "UAT_1d474995-7967-3b69-b571-2951c6b49ed8/NSW_Health_Anxiety_Awareness_Campaigns_-_NRL_rffqx5",
-								"version": 1557230014,
-								"signature": "551b92a0edee8a57b4846a9957291f25e3e5ddfa",
+								"public_id": "UAT_1d474995-7967-3b69-b571-2951c6b49ed8/ffmpeged_NSW_Health_Anxiety_Awareness_Campaigns_-_NRL_rffqx5_arhelt",
+								"version": 1557249276,
+								"signature": "5e5844ab8f8e3d27083a3e1f89203f293c11e434",
 								"width": 1280,
 								"height": 720,
 								"format": "mp4",
 								"resource_type": "video",
-								"created_at": "2019-05-07T11:53:34Z",
+								"created_at": "2019-05-07T17:14:36Z",
 								"tags": [],
 								"pages": 0,
-								"bytes": 4483072,
+								"bytes": 4137367,
 								"type": "upload",
-								"etag": "f585120e033e452691a1a1e9d64a791f",
+								"etag": "2f6ba9b71d21fe7f1f76e90372409cbd",
 								"placeholder": false,
-								"url": "http://res.cloudinary.com/qblm/video/upload/v1557230014/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/NSW_Health_Anxiety_Awareness_Campaigns_-_NRL_rffqx5.mp4",
-								"secure_url": "https://res.cloudinary.com/qblm/video/upload/v1557230014/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/NSW_Health_Anxiety_Awareness_Campaigns_-_NRL_rffqx5.mp4",
+								"url": "http://res.cloudinary.com/qblm/video/upload/v1557249276/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/ffmpeged_NSW_Health_Anxiety_Awareness_Campaigns_-_NRL_rffqx5_arhelt.mp4",
+								"secure_url": "https://res.cloudinary.com/qblm/video/upload/v1557249276/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/ffmpeged_NSW_Health_Anxiety_Awareness_Campaigns_-_NRL_rffqx5_arhelt.mp4",
 								"access_mode": "public",
 								"existing": false,
 								"audio": {
@@ -157,16 +157,16 @@
 									"pix_format": "yuv420p",
 									"codec": "h264",
 									"level": 31,
-									"profile": "Main",
-									"bit_rate": "1067728",
+									"profile": "High",
+									"bit_rate": "972229",
 									"dar": "16:9"
 								},
 								"is_audio": false,
 								"frame_rate": 25,
-								"bit_rate": 1196404,
-								"duration": 29.976956,
+								"bit_rate": 1104144,
+								"duration": 29.976961,
 								"rotation": 0,
-								"original_filename": "NSW_Health_Anxiety_Awareness_Campaigns_-_NRL",
+								"original_filename": "ffmpeged_NSW_Health_Anxiety_Awareness_Campaigns_-_NRL_rffqx5",
 								"path": "v1557230014/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/NSW_Health_Anxiety_Awareness_Campaigns_-_NRL_rffqx5.mp4",
 								"thumbnail_url": "https://res.cloudinary.com/qblm/video/upload/c_limit,h_60,w_90/v1557230014/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/NSW_Health_Anxiety_Awareness_Campaigns_-_NRL_rffqx5.jpg",
 								"overlays": [
@@ -175,67 +175,10 @@
 										"y": "0",
 										"width": "default",
 										"height": "default",
-										"hasChanged": true,
+										"hasChanged": false,
 										"isAttached": true,
-										"gravity": "south",
+										"gravity": "north",
 										"crop": "scale",
-										"start_offset": 3,
-										"end_offset": 4.8,
-										"text": "I'm a cool",
-										"font": "Noto Sans",
-										"size": 14,
-										"color": {
-											"rgb": {
-												"r": 255,
-												"g": 255,
-												"b": 255,
-												"a": 1
-											},
-											"hex": "#ffffff"
-										},
-										"useXY": false,
-										"matchUnderlay": true,
-										"editorContent": {
-											"blocks": [
-												{
-													"key": "1pc71",
-													"text": "I'm a cool",
-													"type": "unstyled",
-													"depth": 0,
-													"inlineStyleRanges": [],
-													"entityRanges": [],
-													"data": {}
-												}
-											],
-											"entityMap": {}
-										},
-										"inlineStyle": {
-											"BOLD": false,
-											"ITALIC": false,
-											"UNDERLINE": false,
-											"STRIKETHROUGH": false,
-											"CODE": false,
-											"SUPERSCRIPT": false,
-											"SUBSCRIPT": false
-										},
-										"editorOthers": {
-											"language": "en",
-											"inputMethod": "system"
-										},
-										"isText": true,
-										"isAutoOverlayed": true
-									},
-									{
-										"x": "0",
-										"y": "0",
-										"width": "default",
-										"height": "default",
-										"hasChanged": true,
-										"isAttached": true,
-										"gravity": "south",
-										"crop": "scale",
-										"start_offset": 4.8,
-										"end_offset": 5.9,
 										"text": "guy that's that's my",
 										"font": "Noto Sans",
 										"size": 14,
@@ -253,7 +196,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "2gql4",
+													"key": "fonm",
 													"text": "guy that's that's my",
 													"type": "unstyled",
 													"depth": 0,
@@ -278,6 +221,8 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 4.8,
+										"end_offset": 5.9,
 										"isAutoOverlayed": true
 									},
 									{
@@ -287,10 +232,63 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "south",
+										"gravity": "north",
 										"crop": "scale",
-										"start_offset": 5.9,
-										"end_offset": 6.3,
+										"text": "I'm a cool",
+										"font": "Noto Sans",
+										"size": 14,
+										"color": {
+											"rgb": {
+												"r": 255,
+												"g": 255,
+												"b": 255,
+												"a": 1
+											},
+											"hex": "#ffffff"
+										},
+										"useXY": false,
+										"matchUnderlay": true,
+										"editorContent": {
+											"blocks": [
+												{
+													"key": "8npcc",
+													"text": "I'm a cool",
+													"type": "unstyled",
+													"depth": 0,
+													"inlineStyleRanges": [],
+													"entityRanges": [],
+													"data": {}
+												}
+											],
+											"entityMap": {}
+										},
+										"inlineStyle": {
+											"BOLD": false,
+											"ITALIC": false,
+											"UNDERLINE": false,
+											"STRIKETHROUGH": false,
+											"CODE": false,
+											"SUPERSCRIPT": false,
+											"SUBSCRIPT": false
+										},
+										"editorOthers": {
+											"language": "en",
+											"inputMethod": "system"
+										},
+										"isText": true,
+										"start_offset": 3,
+										"end_offset": 4.8,
+										"isAutoOverlayed": true
+									},
+									{
+										"x": "0",
+										"y": "0",
+										"width": "default",
+										"height": "default",
+										"hasChanged": true,
+										"isAttached": true,
+										"gravity": "north",
+										"crop": "scale",
 										"text": "thing",
 										"font": "Noto Sans",
 										"size": 14,
@@ -308,7 +306,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "3qnd8",
+													"key": "4dg6t",
 													"text": "thing",
 													"type": "unstyled",
 													"depth": 0,
@@ -333,6 +331,8 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 5.9,
+										"end_offset": 6.3,
 										"isAutoOverlayed": true
 									},
 									{
@@ -342,10 +342,8 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "south",
+										"gravity": "north",
 										"crop": "scale",
-										"start_offset": 7.4,
-										"end_offset": 7.8,
 										"text": "I'm",
 										"font": "Noto Sans",
 										"size": 14,
@@ -363,7 +361,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "6qsva",
+													"key": "akrfb",
 													"text": "I'm",
 													"type": "unstyled",
 													"depth": 0,
@@ -388,6 +386,8 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 7.4,
+										"end_offset": 7.8,
 										"isAutoOverlayed": true
 									},
 									{
@@ -397,10 +397,8 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "south",
+										"gravity": "north",
 										"crop": "scale",
-										"start_offset": 7.8,
-										"end_offset": 8.9,
 										"text": "happy I surf",
 										"font": "Noto Sans",
 										"size": 14,
@@ -418,7 +416,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "8ehpn",
+													"key": "1jb7j",
 													"text": "happy I surf",
 													"type": "unstyled",
 													"depth": 0,
@@ -443,6 +441,8 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 7.8,
+										"end_offset": 8.9,
 										"isAutoOverlayed": true
 									},
 									{
@@ -452,10 +452,8 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "south",
+										"gravity": "north",
 										"crop": "scale",
-										"start_offset": 8.9,
-										"end_offset": 9.4,
 										"text": "the web I",
 										"font": "Noto Sans",
 										"size": 14,
@@ -473,7 +471,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "fvv16",
+													"key": "ah27q",
 													"text": "the web I",
 													"type": "unstyled",
 													"depth": 0,
@@ -498,6 +496,8 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 8.9,
+										"end_offset": 9.4,
 										"isAutoOverlayed": true
 									},
 									{
@@ -507,10 +507,8 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "south",
+										"gravity": "north",
 										"crop": "scale",
-										"start_offset": 9.4,
-										"end_offset": 10.6,
 										"text": "text LOL",
 										"font": "Noto Sans",
 										"size": 14,
@@ -528,7 +526,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "8mpe3",
+													"key": "2v9cv",
 													"text": "text LOL",
 													"type": "unstyled",
 													"depth": 0,
@@ -553,6 +551,8 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 9.4,
+										"end_offset": 10.6,
 										"isAutoOverlayed": true
 									},
 									{
@@ -562,10 +562,8 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "south",
+										"gravity": "north",
 										"crop": "scale",
-										"start_offset": 10.6,
-										"end_offset": 11.4,
 										"text": "laugh out loud",
 										"font": "Noto Sans",
 										"size": 14,
@@ -583,7 +581,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "fvjpf",
+													"key": "3gvg5",
 													"text": "laugh out loud",
 													"type": "unstyled",
 													"depth": 0,
@@ -608,6 +606,8 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 10.6,
+										"end_offset": 11.4,
 										"isAutoOverlayed": true
 									},
 									{
@@ -617,10 +617,8 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "south",
+										"gravity": "north",
 										"crop": "scale",
-										"start_offset": 11.4,
-										"end_offset": 12.7,
 										"text": "OMG oh my",
 										"font": "Noto Sans",
 										"size": 14,
@@ -638,7 +636,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "e60ob",
+													"key": "4dcok",
 													"text": "OMG oh my",
 													"type": "unstyled",
 													"depth": 0,
@@ -663,6 +661,8 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 11.4,
+										"end_offset": 12.7,
 										"isAutoOverlayed": true
 									},
 									{
@@ -672,10 +672,8 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "south",
+										"gravity": "north",
 										"crop": "scale",
-										"start_offset": 12.7,
-										"end_offset": 13.7,
 										"text": "God WTF",
 										"font": "Noto Sans",
 										"size": 14,
@@ -693,7 +691,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "fhrvv",
+													"key": "7rai0",
 													"text": "God WTF",
 													"type": "unstyled",
 													"depth": 0,
@@ -718,6 +716,8 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 12.7,
+										"end_offset": 13.7,
 										"isAutoOverlayed": true
 									},
 									{
@@ -727,10 +727,8 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "south",
+										"gravity": "north",
 										"crop": "scale",
-										"start_offset": 13.7,
-										"end_offset": 14.7,
 										"text": "why the FaZe",
 										"font": "Noto Sans",
 										"size": 14,
@@ -748,7 +746,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "9etc5",
+													"key": "8qdh7",
 													"text": "why the FaZe",
 													"type": "unstyled",
 													"depth": 0,
@@ -773,6 +771,8 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 13.7,
+										"end_offset": 14.7,
 										"isAutoOverlayed": true
 									},
 									{
@@ -782,10 +782,8 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "south",
+										"gravity": "north",
 										"crop": "scale",
-										"start_offset": 14.7,
-										"end_offset": 16.8,
 										"text": "you know I",
 										"font": "Noto Sans",
 										"size": 14,
@@ -803,7 +801,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "5v78q",
+													"key": "89toq",
 													"text": "you know I",
 													"type": "unstyled",
 													"depth": 0,
@@ -828,6 +826,8 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 14.7,
+										"end_offset": 16.8,
 										"isAutoOverlayed": true
 									},
 									{
@@ -837,10 +837,8 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "south",
+										"gravity": "north",
 										"crop": "scale",
-										"start_offset": 16.8,
-										"end_offset": 17.9,
 										"text": "know all the dances to High",
 										"font": "Noto Sans",
 										"size": 14,
@@ -858,7 +856,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "dr9vp",
+													"key": "7lar0",
 													"text": "know all the dances to High",
 													"type": "unstyled",
 													"depth": 0,
@@ -883,6 +881,8 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 16.8,
+										"end_offset": 17.9,
 										"isAutoOverlayed": true
 									},
 									{
@@ -892,10 +892,8 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "south",
+										"gravity": "north",
 										"crop": "scale",
-										"start_offset": 17.9,
-										"end_offset": 18.3,
 										"text": "School Musical",
 										"font": "Noto Sans",
 										"size": 14,
@@ -913,7 +911,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "a2k3v",
+													"key": "9ohrq",
 													"text": "School Musical",
 													"type": "unstyled",
 													"depth": 0,
@@ -938,6 +936,8 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 17.9,
+										"end_offset": 18.3,
 										"isAutoOverlayed": true
 									},
 									{
@@ -947,10 +947,8 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "south",
+										"gravity": "north",
 										"crop": "scale",
-										"start_offset": 18.3,
-										"end_offset": 19.9,
 										"text": "We're All",
 										"font": "Noto Sans",
 										"size": 14,
@@ -968,7 +966,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "emgjr",
+													"key": "d56pc",
 													"text": "We're All",
 													"type": "unstyled",
 													"depth": 0,
@@ -993,6 +991,8 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 18.3,
+										"end_offset": 19.9,
 										"isAutoOverlayed": true
 									},
 									{
@@ -1002,10 +1002,8 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "south",
+										"gravity": "north",
 										"crop": "scale",
-										"start_offset": 19.9,
-										"end_offset": 20.7,
 										"text": "in This",
 										"font": "Noto Sans",
 										"size": 14,
@@ -1023,7 +1021,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "fajm7",
+													"key": "35hf5",
 													"text": "in This",
 													"type": "unstyled",
 													"depth": 0,
@@ -1048,6 +1046,8 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 19.9,
+										"end_offset": 20.7,
 										"isAutoOverlayed": true
 									},
 									{
@@ -1057,10 +1057,8 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "south",
+										"gravity": "north",
 										"crop": "scale",
-										"start_offset": 20.7,
-										"end_offset": 21.6,
 										"text": "Together",
 										"font": "Noto Sans",
 										"size": 14,
@@ -1078,7 +1076,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "5lcok",
+													"key": "8vdnu",
 													"text": "Together",
 													"type": "unstyled",
 													"depth": 0,
@@ -1103,6 +1101,8 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 20.7,
+										"end_offset": 21.6,
 										"isAutoOverlayed": true
 									},
 									{
@@ -1112,10 +1112,8 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "south",
+										"gravity": "north",
 										"crop": "scale",
-										"start_offset": 21.6,
-										"end_offset": 23.8,
 										"text": "yes we are",
 										"font": "Noto Sans",
 										"size": 14,
@@ -1133,7 +1131,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "eo8r0",
+													"key": "91u8k",
 													"text": "yes we are",
 													"type": "unstyled",
 													"depth": 0,
@@ -1158,6 +1156,8 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 21.6,
+										"end_offset": 23.8,
 										"isAutoOverlayed": true
 									},
 									{
@@ -1167,10 +1167,8 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "south",
+										"gravity": "north",
 										"crop": "scale",
-										"start_offset": 23.8,
-										"end_offset": 24.7,
 										"text": "we're all",
 										"font": "Noto Sans",
 										"size": 14,
@@ -1188,7 +1186,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "co2v",
+													"key": "5er6g",
 													"text": "we're all",
 													"type": "unstyled",
 													"depth": 0,
@@ -1213,6 +1211,8 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 23.8,
+										"end_offset": 24.7,
 										"isAutoOverlayed": true
 									},
 									{
@@ -1222,10 +1222,8 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "south",
+										"gravity": "north",
 										"crop": "scale",
-										"start_offset": 24.7,
-										"end_offset": 25.9,
 										"text": "stars and",
 										"font": "Noto Sans",
 										"size": 14,
@@ -1243,7 +1241,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "f2sl4",
+													"key": "8lkms",
 													"text": "stars and",
 													"type": "unstyled",
 													"depth": 0,
@@ -1268,6 +1266,8 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 24.7,
+										"end_offset": 25.9,
 										"isAutoOverlayed": true
 									},
 									{
@@ -1277,10 +1277,8 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "south",
+										"gravity": "north",
 										"crop": "scale",
-										"start_offset": 25.9,
-										"end_offset": 26.8,
 										"text": "you",
 										"font": "Noto Sans",
 										"size": 14,
@@ -1298,7 +1296,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "e1m5i",
+													"key": "8lloa",
 													"text": "you",
 													"type": "unstyled",
 													"depth": 0,
@@ -1323,6 +1321,8 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 25.9,
+										"end_offset": 26.8,
 										"isAutoOverlayed": true
 									},
 									{
@@ -1332,10 +1332,8 @@
 										"height": "default",
 										"hasChanged": true,
 										"isAttached": true,
-										"gravity": "south",
+										"gravity": "north",
 										"crop": "scale",
-										"start_offset": 26.8,
-										"end_offset": 27.7,
 										"text": "know it",
 										"font": "Noto Sans",
 										"size": 14,
@@ -1353,7 +1351,7 @@
 										"editorContent": {
 											"blocks": [
 												{
-													"key": "csrf9",
+													"key": "cm4f1",
 													"text": "know it",
 													"type": "unstyled",
 													"depth": 0,
@@ -1378,6 +1376,8 @@
 											"inputMethod": "system"
 										},
 										"isText": true,
+										"start_offset": 26.8,
+										"end_offset": 27.7,
 										"isAutoOverlayed": true
 									}
 								],
@@ -1500,10 +1500,12 @@
 									"isAttached": false
 								},
 								"transformedURLs": [
-									"https://res.cloudinary.com/qblm/video/upload/v1557230014/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/NSW_Health_Anxiety_Awareness_Campaigns_-_NRL_rffqx5.mp4"
+									"https://res.cloudinary.com/qblm/video/upload/v1557230014/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/NSW_Health_Anxiety_Awareness_Campaigns_-_NRL_rffqx5.mp4",
+									"https://res.cloudinary.com/qblm/video/upload/v1557249276/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/ffmpeged_NSW_Health_Anxiety_Awareness_Campaigns_-_NRL_rffqx5_arhelt.mp4"
 								],
 								"transformedPublicIds": [
-									"UAT_1d474995-7967-3b69-b571-2951c6b49ed8/NSW_Health_Anxiety_Awareness_Campaigns_-_NRL_rffqx5"
+									"UAT_1d474995-7967-3b69-b571-2951c6b49ed8/NSW_Health_Anxiety_Awareness_Campaigns_-_NRL_rffqx5",
+									"UAT_1d474995-7967-3b69-b571-2951c6b49ed8/ffmpeged_NSW_Health_Anxiety_Awareness_Campaigns_-_NRL_rffqx5_arhelt"
 								],
 								"embed": {
 									"width": 1280,
@@ -1521,7 +1523,7 @@
 								},
 								"underlay": {
 									"show": "stripe",
-									"gravity": "south",
+									"gravity": "north",
 									"boxcolor": {
 										"rgb": {
 											"r": 0,
