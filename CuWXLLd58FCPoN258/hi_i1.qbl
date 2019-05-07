@@ -1549,22 +1549,22 @@
 								}
 							},
 							{
-								"public_id": "UAT_1d474995-7967-3b69-b571-2951c6b49ed8/ffmpeged_NSW_Health_Anxiety_Awareness_Campaigns_-_NRL_womclg_abdcva",
-								"version": 1557218113,
-								"signature": "9b4f1af8e715980061be9ba412e65dd48aadf70d",
+								"public_id": "UAT_1d474995-7967-3b69-b571-2951c6b49ed8/ffmpeged_NSW_Health_Anxiety_Awareness_Campaigns_-_NRL_womclg_mil4bz",
+								"version": 1557219066,
+								"signature": "316037260b2d09f2885733c3bdb615f43536ad16",
 								"width": 1280,
 								"height": 720,
 								"format": "mp4",
 								"resource_type": "video",
-								"created_at": "2019-05-07T08:35:13Z",
+								"created_at": "2019-05-07T08:51:06Z",
 								"tags": [],
 								"pages": 0,
-								"bytes": 3956045,
+								"bytes": 4071358,
 								"type": "upload",
-								"etag": "17736b3aaf043e16adb658b8873ec89e",
+								"etag": "0cc7abfa1167c234b0fafa4b08c81ad6",
 								"placeholder": false,
-								"url": "http://res.cloudinary.com/qblm/video/upload/v1557218113/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/ffmpeged_NSW_Health_Anxiety_Awareness_Campaigns_-_NRL_womclg_abdcva.mp4",
-								"secure_url": "https://res.cloudinary.com/qblm/video/upload/v1557218113/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/ffmpeged_NSW_Health_Anxiety_Awareness_Campaigns_-_NRL_womclg_abdcva.mp4",
+								"url": "http://res.cloudinary.com/qblm/video/upload/v1557219066/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/ffmpeged_NSW_Health_Anxiety_Awareness_Campaigns_-_NRL_womclg_mil4bz.mp4",
+								"secure_url": "https://res.cloudinary.com/qblm/video/upload/v1557219066/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/ffmpeged_NSW_Health_Anxiety_Awareness_Campaigns_-_NRL_womclg_mil4bz.mp4",
 								"access_mode": "public",
 								"existing": false,
 								"audio": {
@@ -1579,12 +1579,12 @@
 									"codec": "h264",
 									"level": 31,
 									"profile": "High",
-									"bit_rate": "922326",
+									"bit_rate": "953106",
 									"dar": "16:9"
 								},
 								"is_audio": false,
 								"frame_rate": 25,
-								"bit_rate": 1054910,
+								"bit_rate": 1085659,
 								"duration": 29.977007,
 								"rotation": 0,
 								"original_filename": "ffmpeged_NSW_Health_Anxiety_Awareness_Campaigns_-_NRL_womclg",
@@ -3005,7 +3005,8 @@
 									"https://res.cloudinary.com/qblm/video/upload/v1556696469/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/ffmpeged_NSW_Health_Anxiety_Awareness_Campaigns_-_NRL_womclg_zssqgi.mp4",
 									"https://res.cloudinary.com/qblm/video/upload/v1556697146/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/ffmpeged_NSW_Health_Anxiety_Awareness_Campaigns_-_NRL_womclg_zqucxm.mp4",
 									"https://res.cloudinary.com/qblm/video/upload/v1557217638/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/ffmpeged_NSW_Health_Anxiety_Awareness_Campaigns_-_NRL_womclg_w78bcv.mp4",
-									"https://res.cloudinary.com/qblm/video/upload/v1557218113/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/ffmpeged_NSW_Health_Anxiety_Awareness_Campaigns_-_NRL_womclg_abdcva.mp4"
+									"https://res.cloudinary.com/qblm/video/upload/v1557218113/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/ffmpeged_NSW_Health_Anxiety_Awareness_Campaigns_-_NRL_womclg_abdcva.mp4",
+									"https://res.cloudinary.com/qblm/video/upload/v1557219066/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/ffmpeged_NSW_Health_Anxiety_Awareness_Campaigns_-_NRL_womclg_mil4bz.mp4"
 								],
 								"transformedPublicIds": [
 									"UAT_1d474995-7967-3b69-b571-2951c6b49ed8/NSW_Health_Anxiety_Awareness_Campaigns_-_NRL_womclg",
@@ -3013,7 +3014,8 @@
 									"UAT_1d474995-7967-3b69-b571-2951c6b49ed8/ffmpeged_NSW_Health_Anxiety_Awareness_Campaigns_-_NRL_womclg_zssqgi",
 									"UAT_1d474995-7967-3b69-b571-2951c6b49ed8/ffmpeged_NSW_Health_Anxiety_Awareness_Campaigns_-_NRL_womclg_zqucxm",
 									"UAT_1d474995-7967-3b69-b571-2951c6b49ed8/ffmpeged_NSW_Health_Anxiety_Awareness_Campaigns_-_NRL_womclg_w78bcv",
-									"UAT_1d474995-7967-3b69-b571-2951c6b49ed8/ffmpeged_NSW_Health_Anxiety_Awareness_Campaigns_-_NRL_womclg_abdcva"
+									"UAT_1d474995-7967-3b69-b571-2951c6b49ed8/ffmpeged_NSW_Health_Anxiety_Awareness_Campaigns_-_NRL_womclg_abdcva",
+									"UAT_1d474995-7967-3b69-b571-2951c6b49ed8/ffmpeged_NSW_Health_Anxiety_Awareness_Campaigns_-_NRL_womclg_mil4bz"
 								],
 								"embed": {
 									"width": 1280,
