@@ -204,7 +204,45 @@
 					"fieldSpecific": {
 						"fieldInformation": "Please upload Image?",
 						"fieldKey": "775d6d31-2afb-3f75-f67c-70365851d784",
-						"fieldValues": [],
+						"fieldValues": [
+							{
+								"public_id": "UAT_1d474995-7967-3b69-b571-2951c6b49ed8/sample_awjcyk",
+								"version": 1557398277,
+								"signature": "a956135b752db24df1ab6408096dca1f0f2d222e",
+								"width": 864,
+								"height": 576,
+								"format": "jpg",
+								"resource_type": "image",
+								"created_at": "2019-05-09T10:37:57Z",
+								"tags": [],
+								"bytes": 109669,
+								"type": "upload",
+								"etag": "3e297c2d8da6cb1310727332e862ece4",
+								"placeholder": false,
+								"url": "http://res.cloudinary.com/qblm/image/upload/v1557398277/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/sample_awjcyk.jpg",
+								"secure_url": "https://res.cloudinary.com/qblm/image/upload/v1557398277/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/sample_awjcyk.jpg",
+								"access_mode": "public",
+								"existing": false,
+								"original_filename": "sample",
+								"path": "v1557398277/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/sample_awjcyk.jpg",
+								"thumbnail_url": "https://res.cloudinary.com/qblm/image/upload/c_limit,h_60,w_90/v1557398277/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/sample_awjcyk.jpg",
+								"overlays": [],
+								"embed": {
+									"width": 864,
+									"height": 576,
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"caption": "",
+									"seoSuffix": "sample"
+								}
+							}
+						],
 						"fieldChildren": []
 					},
 					"fieldWorking": {
