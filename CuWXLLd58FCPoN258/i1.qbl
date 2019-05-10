@@ -611,6 +611,73 @@
 									"caption": "",
 									"seoSuffix": "samplevideo"
 								}
+							},
+							{
+								"public_id": "UAT_1d474995-7967-3b69-b571-2951c6b49ed8/modernFamily_goivqq",
+								"version": 1557475246,
+								"signature": "7eb72d4d0294c1570b1034fe7bfd32a22aaabda9",
+								"width": 480,
+								"height": 360,
+								"format": "mov",
+								"resource_type": "video",
+								"created_at": "2019-05-10T08:00:46Z",
+								"tags": [],
+								"pages": 0,
+								"bytes": 686472,
+								"type": "upload",
+								"etag": "6237484d06d8c23544d23582bb56759f",
+								"placeholder": false,
+								"url": "http://res.cloudinary.com/qblm/video/upload/v1557475246/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/modernFamily_goivqq.mov",
+								"secure_url": "https://res.cloudinary.com/qblm/video/upload/v1557475246/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/modernFamily_goivqq.mov",
+								"access_mode": "public",
+								"existing": false,
+								"audio": {
+									"codec": "aac",
+									"bit_rate": "64145",
+									"frequency": 22050,
+									"channels": 2,
+									"channel_layout": "stereo"
+								},
+								"video": {
+									"pix_format": "yuv420p",
+									"codec": "h264",
+									"level": 21,
+									"profile": "Constrained Baseline",
+									"bit_rate": "114688",
+									"dar": "4:3"
+								},
+								"is_audio": false,
+								"frame_rate": 24,
+								"bit_rate": 181652,
+								"duration": 30.232381,
+								"rotation": 0,
+								"original_filename": "modernFamily",
+								"path": "v1557475246/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/modernFamily_goivqq.mov",
+								"thumbnail_url": "https://res.cloudinary.com/qblm/video/upload/c_limit,h_60,w_90/v1557475246/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/modernFamily_goivqq.jpg",
+								"overlays": [],
+								"videoOverlays": [],
+								"audioOverlays": [],
+								"captions": {},
+								"transformedURLs": [
+									"https://res.cloudinary.com/qblm/video/upload/v1557475246/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/modernFamily_goivqq.mov"
+								],
+								"transformedPublicIds": [
+									"UAT_1d474995-7967-3b69-b571-2951c6b49ed8/modernFamily_goivqq"
+								],
+								"embed": {
+									"width": 480,
+									"height": 360,
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"caption": "",
+									"seoSuffix": "modernfamily"
+								}
 							}
 						],
 						"fieldChildren": [],
