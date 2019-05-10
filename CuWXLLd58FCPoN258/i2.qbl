@@ -126,7 +126,75 @@
 					"fieldSpecific": {
 						"fieldInformation": "Please upload Video?",
 						"fieldKey": "372d9fd1-ce6a-42be-74d6-314fa6ea42a3",
-						"fieldValues": [],
+						"fieldValues": [
+							{
+								"public_id": "UAT_1d474995-7967-3b69-b571-2951c6b49ed8/Interview_20maitre_20chocolatier_20V2.mov_lc31o8",
+								"version": 1557477906,
+								"signature": "9597b7d8dc90cd43f7fa241766b82b9529016277",
+								"width": 3840,
+								"height": 2160,
+								"format": "mov",
+								"resource_type": "video",
+								"created_at": "2019-05-10T08:45:06Z",
+								"tags": [],
+								"pages": 0,
+								"bytes": 403866408,
+								"type": "upload",
+								"etag": "df09027de05abde3cd34d7ce6041bab2",
+								"placeholder": false,
+								"url": "http://res.cloudinary.com/qblm-prod/video/upload/v1557477906/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/Interview_20maitre_20chocolatier_20V2.mov_lc31o8.mov",
+								"secure_url": "https://res.cloudinary.com/qblm-prod/video/upload/v1557477906/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/Interview_20maitre_20chocolatier_20V2.mov_lc31o8.mov",
+								"access_mode": "public",
+								"existing": false,
+								"audio": {
+									"codec": "aac",
+									"bit_rate": "127877",
+									"frequency": 48000,
+									"channels": 2,
+									"channel_layout": "stereo"
+								},
+								"video": {
+									"pix_format": "yuv420p",
+									"codec": "h264",
+									"level": 51,
+									"profile": "High",
+									"bit_rate": "49987247",
+									"dar": "16:9"
+								},
+								"is_audio": false,
+								"frame_rate": 25,
+								"bit_rate": 50263398,
+								"duration": 64.28,
+								"rotation": 0,
+								"original_filename": "Interview%20maitre%20chocolatier%20V2",
+								"path": "v1557477906/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/Interview_20maitre_20chocolatier_20V2.mov_lc31o8.mov",
+								"thumbnail_url": "https://res.cloudinary.com/qblm-prod/video/upload/c_limit,h_60,w_90/v1557477906/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/Interview_20maitre_20chocolatier_20V2.mov_lc31o8.jpg",
+								"overlays": [],
+								"videoOverlays": [],
+								"audioOverlays": [],
+								"captions": {},
+								"transformedURLs": [
+									"https://res.cloudinary.com/qblm-prod/video/upload/v1557477906/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/Interview_20maitre_20chocolatier_20V2.mov_lc31o8.mov"
+								],
+								"transformedPublicIds": [
+									"UAT_1d474995-7967-3b69-b571-2951c6b49ed8/Interview_20maitre_20chocolatier_20V2.mov_lc31o8"
+								],
+								"embed": {
+									"width": 3840,
+									"height": 2160,
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"caption": "",
+									"seoSuffix": "interview_20maitre_20chocolatier_20v2.mov"
+								}
+							}
+						],
 						"fieldChildren": [],
 						"fieldParent": "c8a11978-e5c9-abb3-ec85-509411786c18"
 					},
