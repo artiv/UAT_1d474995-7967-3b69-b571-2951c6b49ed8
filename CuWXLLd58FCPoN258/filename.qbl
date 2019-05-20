@@ -522,6 +522,72 @@
 									"caption": "",
 									"seoSuffix": "الهدف_من_الحياة_-_الملحد_السابق_-_جيفري_لانج_dr_jeffrey_lang_the_purpose_of_life-part02-from_12_40_to_26_48_7_l7vbe2.mp4"
 								}
+							},
+							{
+								"public_id": "UAT_1d474995-7967-3b69-b571-2951c6b49ed8/الهدف_من_الحياة_-_الملحد_السابق_-_جيفري_لانج_Dr_Jeffrey_Lang_The_purpose_of_life-Part02-From_12_40_to_26_48_7_l7vbe2.mp4_fxi4hg",
+								"version": 1558337299,
+								"signature": "0d1c87d31ecac15c55a21a2ab00114a6f9d0208e",
+								"width": 1280,
+								"height": 720,
+								"format": "mp4",
+								"resource_type": "video",
+								"created_at": "2019-05-20T07:28:19Z",
+								"tags": [],
+								"pages": 0,
+								"bytes": 1055736,
+								"type": "upload",
+								"etag": "d55bddf8d62910879ed9f605522149a8",
+								"placeholder": false,
+								"url": "http://res.cloudinary.com/qblm/video/upload/v1558337299/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/%D8%A7%D9%84%D9%87%D8%AF%D9%81_%D9%85%D9%86_%D8%A7%D9%84%D8%AD%D9%8A%D8%A7%D8%A9_-_%D8%A7%D9%84%D9%85%D9%84%D8%AD%D8%AF_%D8%A7%D9%84%D8%B3%D8%A7%D8%A8%D9%82_-_%D8%AC%D9%8A%D9%81%D8%B1%D9%8A_%D9%84%D8%A7%D9%86%D8%AC_Dr_Jeffrey_Lang_The_purpose_of_life-Part02-From_12_40_to_26_48_7_l7vbe2.mp4_fxi4hg.mp4",
+								"secure_url": "https://res.cloudinary.com/qblm/video/upload/v1558337299/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/%D8%A7%D9%84%D9%87%D8%AF%D9%81_%D9%85%D9%86_%D8%A7%D9%84%D8%AD%D9%8A%D8%A7%D8%A9_-_%D8%A7%D9%84%D9%85%D9%84%D8%AD%D8%AF_%D8%A7%D9%84%D8%B3%D8%A7%D8%A8%D9%82_-_%D8%AC%D9%8A%D9%81%D8%B1%D9%8A_%D9%84%D8%A7%D9%86%D8%AC_Dr_Jeffrey_Lang_The_purpose_of_life-Part02-From_12_40_to_26_48_7_l7vbe2.mp4_fxi4hg.mp4",
+								"access_mode": "public",
+								"existing": false,
+								"audio": {
+									"codec": "aac",
+									"bit_rate": "384828",
+									"frequency": 48000,
+									"channels": 6,
+									"channel_layout": "5.1"
+								},
+								"video": {
+									"pix_format": "yuv420p",
+									"codec": "h264",
+									"level": 31,
+									"profile": "Main",
+									"bit_rate": "1205959",
+									"dar": "16:9"
+								},
+								"is_audio": false,
+								"frame_rate": 25,
+								"bit_rate": 1589963,
+								"duration": 5.312,
+								"rotation": 0,
+								"path": "v1558337299/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/الهدف_من_الحياة_-_الملحد_السابق_-_جيفري_لانج_Dr_Jeffrey_Lang_The_purpose_of_life-Part02-From_12_40_to_26_48_7_l7vbe2.mp4_fxi4hg.mp4",
+								"thumbnail_url": "https://res.cloudinary.com/qblm/video/upload/c_limit,h_60,w_90/v1558337299/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/%D8%A7%D9%84%D9%87%D8%AF%D9%81_%D9%85%D9%86_%D8%A7%D9%84%D8%AD%D9%8A%D8%A7%D8%A9_-_%D8%A7%D9%84%D9%85%D9%84%D8%AD%D8%AF_%D8%A7%D9%84%D8%B3%D8%A7%D8%A8%D9%82_-_%D8%AC%D9%8A%D9%81%D8%B1%D9%8A_%D9%84%D8%A7%D9%86%D8%AC_Dr_Jeffrey_Lang_The_purpose_of_life-Part02-From_12_40_to_26_48_7_l7vbe2.mp4_fxi4hg.jpg",
+								"overlays": [],
+								"videoOverlays": [],
+								"audioOverlays": [],
+								"captions": {},
+								"transformedURLs": [
+									"https://res.cloudinary.com/qblm/video/upload/v1558337299/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/%D8%A7%D9%84%D9%87%D8%AF%D9%81_%D9%85%D9%86_%D8%A7%D9%84%D8%AD%D9%8A%D8%A7%D8%A9_-_%D8%A7%D9%84%D9%85%D9%84%D8%AD%D8%AF_%D8%A7%D9%84%D8%B3%D8%A7%D8%A8%D9%82_-_%D8%AC%D9%8A%D9%81%D8%B1%D9%8A_%D9%84%D8%A7%D9%86%D8%AC_Dr_Jeffrey_Lang_The_purpose_of_life-Part02-From_12_40_to_26_48_7_l7vbe2.mp4_fxi4hg.mp4"
+								],
+								"transformedPublicIds": [
+									"UAT_1d474995-7967-3b69-b571-2951c6b49ed8/الهدف_من_الحياة_-_الملحد_السابق_-_جيفري_لانج_Dr_Jeffrey_Lang_The_purpose_of_life-Part02-From_12_40_to_26_48_7_l7vbe2.mp4_fxi4hg"
+								],
+								"embed": {
+									"width": 1280,
+									"height": 720,
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"caption": "",
+									"seoSuffix": "الهدف_من_الحياة_-_الملحد_السابق_-_جيفري_لانج_dr_jeffrey_lang_the_purpose_of_life-part02-from_12_40_to_26_48_7_l7vbe2.mp4"
+								}
 							}
 						],
 						"fieldChildren": [],
