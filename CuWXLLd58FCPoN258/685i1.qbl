@@ -50,27 +50,27 @@
 						"fieldKey": "3078d525-bd19-a94b-9116-41f13e6ae8d0",
 						"fieldValues": [
 							{
-								"public_id": "UAT_1d474995-7967-3b69-b571-2951c6b49ed8/en_cp__A___0_5_0_gcpvvg_ytotqr",
-								"version": 1558386803,
-								"signature": "a0588a0014203960853c2f7a2614832395178fd9",
+								"public_id": "UAT_1d474995-7967-3b69-b571-2951c6b49ed8/tmp/en_cp_आधुनिक_परिवार_gcpvvg",
+								"version": 1558422155,
+								"signature": "71cb53e8cd859d08cd247189b3080fa651106fad",
 								"width": 480,
 								"height": 360,
 								"format": "mp4",
 								"resource_type": "video",
-								"created_at": "2019-05-20T21:13:23Z",
+								"created_at": "2019-05-21T07:02:35Z",
 								"tags": [],
 								"pages": 0,
-								"bytes": 996908,
+								"bytes": 1133899,
 								"type": "upload",
-								"etag": "34a5cacc4e2585fe16c4675e3d96c2c6",
+								"etag": "4cb862ff236c411d8040166c2c416390",
 								"placeholder": false,
-								"url": "http://res.cloudinary.com/qblm/video/upload/v1558386803/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/en_cp__A___0_5_0_gcpvvg_ytotqr.mp4",
-								"secure_url": "https://res.cloudinary.com/qblm/video/upload/v1558386803/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/en_cp__A___0_5_0_gcpvvg_ytotqr.mp4",
+								"url": "http://res.cloudinary.com/qblm/video/upload/v1558422155/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/tmp/en_cp_%E0%A4%86%E0%A4%A7%E0%A5%81%E0%A4%A8%E0%A4%BF%E0%A4%95_%E0%A4%AA%E0%A4%B0%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B0_gcpvvg.mp4",
+								"secure_url": "https://res.cloudinary.com/qblm/video/upload/v1558422155/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/tmp/en_cp_%E0%A4%86%E0%A4%A7%E0%A5%81%E0%A4%A8%E0%A4%BF%E0%A4%95_%E0%A4%AA%E0%A4%B0%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B0_gcpvvg.mp4",
 								"access_mode": "public",
 								"existing": false,
 								"audio": {
 									"codec": "aac",
-									"bit_rate": "95999",
+									"bit_rate": "119244",
 									"frequency": 44100,
 									"channels": 2,
 									"channel_layout": "stereo"
@@ -80,13 +80,13 @@
 									"codec": "h264",
 									"level": 21,
 									"profile": "High",
-									"bit_rate": "162568",
+									"bit_rate": "175655",
 									"dar": "4:3"
 								},
 								"is_audio": false,
 								"frame_rate": 24,
-								"bit_rate": 264607,
-								"duration": 30.139501,
+								"bit_rate": 300739,
+								"duration": 30.139002,
 								"rotation": 0,
 								"original_filename": "en_cp_\u0006'A(",
 								"path": "v1558386445/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/आधुनिक_परिवार_gcpvvg.mp4",
@@ -242,11 +242,13 @@
 								},
 								"transformedURLs": [
 									"https://res.cloudinary.com/qblm/video/upload/v1558386445/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/%E0%A4%86%E0%A4%A7%E0%A5%81%E0%A4%A8%E0%A4%BF%E0%A4%95_%E0%A4%AA%E0%A4%B0%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B0_gcpvvg.mp4",
-									"https://res.cloudinary.com/qblm/video/upload/v1558386803/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/en_cp__A___0_5_0_gcpvvg_ytotqr.mp4"
+									"https://res.cloudinary.com/qblm/video/upload/v1558386803/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/en_cp__A___0_5_0_gcpvvg_ytotqr.mp4",
+									"https://res.cloudinary.com/qblm/video/upload/v1558422155/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/tmp/en_cp_%E0%A4%86%E0%A4%A7%E0%A5%81%E0%A4%A8%E0%A4%BF%E0%A4%95_%E0%A4%AA%E0%A4%B0%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B0_gcpvvg.mp4"
 								],
 								"transformedPublicIds": [
 									"UAT_1d474995-7967-3b69-b571-2951c6b49ed8/आधुनिक_परिवार_gcpvvg",
-									"UAT_1d474995-7967-3b69-b571-2951c6b49ed8/en_cp__A___0_5_0_gcpvvg_ytotqr"
+									"UAT_1d474995-7967-3b69-b571-2951c6b49ed8/en_cp__A___0_5_0_gcpvvg_ytotqr",
+									"UAT_1d474995-7967-3b69-b571-2951c6b49ed8/tmp/en_cp_आधुनिक_परिवार_gcpvvg"
 								],
 								"embed": {
 									"width": 480,
