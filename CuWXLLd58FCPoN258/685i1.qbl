@@ -55,7 +55,7 @@
 								"signature": "4255bdbb39f0b75c242e02c290275fa8b94500b3",
 								"width": 480,
 								"height": 360,
-								"format": "webm",
+								"format": "mp4",
 								"resource_type": "video",
 								"created_at": "2019-05-21T08:07:22Z",
 								"tags": [],
@@ -67,7 +67,7 @@
 								"url": "http://res.cloudinary.com/qblm/video/upload/v1558426042/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/en_cp_%E0%A4%86%E0%A4%A7%E0%A5%81%E0%A4%A8%E0%A4%BF%E0%A4%95_%E0%A4%AA%E0%A4%B0%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B0_gcpvvg.mp4",
 								"secure_url": "https://res.cloudinary.com/qblm/video/upload/v1558426042/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/en_cp_%E0%A4%86%E0%A4%A7%E0%A5%81%E0%A4%A8%E0%A4%BF%E0%A4%95_%E0%A4%AA%E0%A4%B0%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B0_gcpvvg.mp4",
 								"access_mode": "public",
-								"existing": false,
+								"existing": true,
 								"audio": {
 									"codec": "aac",
 									"bit_rate": "125410",
@@ -261,12 +261,14 @@
 									"https://res.cloudinary.com/qblm/video/upload/v1558386445/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/%E0%A4%86%E0%A4%A7%E0%A5%81%E0%A4%A8%E0%A4%BF%E0%A4%95_%E0%A4%AA%E0%A4%B0%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B0_gcpvvg.mp4",
 									"https://res.cloudinary.com/qblm/video/upload/v1558386803/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/en_cp__A___0_5_0_gcpvvg_ytotqr.mp4",
 									"https://res.cloudinary.com/qblm/video/upload/v1558422155/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/tmp/en_cp_%E0%A4%86%E0%A4%A7%E0%A5%81%E0%A4%A8%E0%A4%BF%E0%A4%95_%E0%A4%AA%E0%A4%B0%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B0_gcpvvg.mp4",
+									"https://res.cloudinary.com/qblm/video/upload/v1558426042/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/en_cp_%E0%A4%86%E0%A4%A7%E0%A5%81%E0%A4%A8%E0%A4%BF%E0%A4%95_%E0%A4%AA%E0%A4%B0%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B0_gcpvvg.mp4",
 									"https://res.cloudinary.com/qblm/video/upload/v1558426042/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/en_cp_%E0%A4%86%E0%A4%A7%E0%A5%81%E0%A4%A8%E0%A4%BF%E0%A4%95_%E0%A4%AA%E0%A4%B0%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B0_gcpvvg.mp4"
 								],
 								"transformedPublicIds": [
 									"UAT_1d474995-7967-3b69-b571-2951c6b49ed8/आधुनिक_परिवार_gcpvvg",
 									"UAT_1d474995-7967-3b69-b571-2951c6b49ed8/en_cp__A___0_5_0_gcpvvg_ytotqr",
 									"UAT_1d474995-7967-3b69-b571-2951c6b49ed8/tmp/en_cp_आधुनिक_परिवार_gcpvvg",
+									"UAT_1d474995-7967-3b69-b571-2951c6b49ed8/en_cp_आधुनिक_परिवार_gcpvvg",
 									"UAT_1d474995-7967-3b69-b571-2951c6b49ed8/en_cp_आधुनिक_परिवार_gcpvvg"
 								],
 								"embed": {
