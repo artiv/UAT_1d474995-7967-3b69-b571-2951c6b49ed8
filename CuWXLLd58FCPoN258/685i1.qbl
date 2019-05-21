@@ -101,7 +101,7 @@
 										"width": "200",
 										"height": "200",
 										"isAttached": true,
-										"gravity": "south_east",
+										"gravity": "east",
 										"crop": "scale",
 										"start_offset": "15",
 										"end_offset": "20"
