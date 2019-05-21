@@ -50,27 +50,27 @@
 						"fieldKey": "3078d525-bd19-a94b-9116-41f13e6ae8d0",
 						"fieldValues": [
 							{
-								"public_id": "UAT_1d474995-7967-3b69-b571-2951c6b49ed8/tmp/en_cp_आधुनिक_परिवार_gcpvvg",
-								"version": 1558422155,
-								"signature": "71cb53e8cd859d08cd247189b3080fa651106fad",
+								"public_id": "UAT_1d474995-7967-3b69-b571-2951c6b49ed8/en_cp_आधुनिक_परिवार_gcpvvg",
+								"version": 1558426042,
+								"signature": "4255bdbb39f0b75c242e02c290275fa8b94500b3",
 								"width": 480,
 								"height": 360,
 								"format": "mp4",
 								"resource_type": "video",
-								"created_at": "2019-05-21T07:02:35Z",
+								"created_at": "2019-05-21T08:07:22Z",
 								"tags": [],
 								"pages": 0,
-								"bytes": 1133899,
+								"bytes": 1170557,
 								"type": "upload",
-								"etag": "4cb862ff236c411d8040166c2c416390",
+								"etag": "a0737194718fd5aa00deef0bfde37efd",
 								"placeholder": false,
-								"url": "http://res.cloudinary.com/qblm/video/upload/v1558422155/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/tmp/en_cp_%E0%A4%86%E0%A4%A7%E0%A5%81%E0%A4%A8%E0%A4%BF%E0%A4%95_%E0%A4%AA%E0%A4%B0%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B0_gcpvvg.mp4",
-								"secure_url": "https://res.cloudinary.com/qblm/video/upload/v1558422155/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/tmp/en_cp_%E0%A4%86%E0%A4%A7%E0%A5%81%E0%A4%A8%E0%A4%BF%E0%A4%95_%E0%A4%AA%E0%A4%B0%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B0_gcpvvg.mp4",
+								"url": "http://res.cloudinary.com/qblm/video/upload/v1558426042/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/en_cp_%E0%A4%86%E0%A4%A7%E0%A5%81%E0%A4%A8%E0%A4%BF%E0%A4%95_%E0%A4%AA%E0%A4%B0%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B0_gcpvvg.mp4",
+								"secure_url": "https://res.cloudinary.com/qblm/video/upload/v1558426042/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/en_cp_%E0%A4%86%E0%A4%A7%E0%A5%81%E0%A4%A8%E0%A4%BF%E0%A4%95_%E0%A4%AA%E0%A4%B0%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B0_gcpvvg.mp4",
 								"access_mode": "public",
 								"existing": false,
 								"audio": {
 									"codec": "aac",
-									"bit_rate": "119244",
+									"bit_rate": "125410",
 									"frequency": 44100,
 									"channels": 2,
 									"channel_layout": "stereo"
@@ -80,13 +80,13 @@
 									"codec": "h264",
 									"level": 21,
 									"profile": "High",
-									"bit_rate": "175655",
+									"bit_rate": "179517",
 									"dar": "4:3"
 								},
 								"is_audio": false,
 								"frame_rate": 24,
-								"bit_rate": 300739,
-								"duration": 30.139002,
+								"bit_rate": 311173,
+								"duration": 30.083333,
 								"rotation": 0,
 								"original_filename": "en_cp_\u0006'A(",
 								"path": "v1558386445/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/आधुनिक_परिवार_gcpvvg.mp4",
@@ -113,14 +113,16 @@
 										"secure_url": "https://res.cloudinary.com/qblm/video/upload/v1558386721/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/NSW_%E0%A4%B8%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A5%8D%E0%A4%AF_%E0%A4%9A%E0%A4%BF%E0%A4%82%E0%A4%A4%E0%A4%BE_%E0%A4%9C%E0%A4%BE%E0%A4%97%E0%A4%B0%E0%A5%82%E0%A4%95%E0%A4%A4%E0%A4%BE_%E0%A4%85%E0%A4%AD%E0%A4%BF%E0%A4%AF%E0%A4%BE%E0%A4%A8_NRL_xsmn8o.mp3",
 										"isAttached": true,
 										"start_offset": "5",
-										"end_offset": "9"
+										"end_offset": "9",
+										"fileName": "NSW_स्वास्थ्य_चिंता_जागरूकता_अभियान_NRL_xsmn8o.mp3"
 									},
 									{
 										"public_id": "UAT_1d474995-7967-3b69-b571-2951c6b49ed8/NSW_स्वास्थ्य_चिंता_जागरूकता_अभियान_NRL_xsmn8o",
 										"secure_url": "https://res.cloudinary.com/qblm/video/upload/v1558386721/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/NSW_%E0%A4%B8%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A5%8D%E0%A4%AF_%E0%A4%9A%E0%A4%BF%E0%A4%82%E0%A4%A4%E0%A4%BE_%E0%A4%9C%E0%A4%BE%E0%A4%97%E0%A4%B0%E0%A5%82%E0%A4%95%E0%A4%A4%E0%A4%BE_%E0%A4%85%E0%A4%AD%E0%A4%BF%E0%A4%AF%E0%A4%BE%E0%A4%A8_NRL_xsmn8o.mp3",
 										"isAttached": true,
 										"start_offset": "25",
-										"end_offset": "35"
+										"end_offset": "35",
+										"fileName": "NSW_स्वास्थ्य_चिंता_जागरूकता_अभियान_NRL_xsmn8o.mp3"
 									}
 								],
 								"captions": {
@@ -258,12 +260,14 @@
 								"transformedURLs": [
 									"https://res.cloudinary.com/qblm/video/upload/v1558386445/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/%E0%A4%86%E0%A4%A7%E0%A5%81%E0%A4%A8%E0%A4%BF%E0%A4%95_%E0%A4%AA%E0%A4%B0%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B0_gcpvvg.mp4",
 									"https://res.cloudinary.com/qblm/video/upload/v1558386803/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/en_cp__A___0_5_0_gcpvvg_ytotqr.mp4",
-									"https://res.cloudinary.com/qblm/video/upload/v1558422155/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/tmp/en_cp_%E0%A4%86%E0%A4%A7%E0%A5%81%E0%A4%A8%E0%A4%BF%E0%A4%95_%E0%A4%AA%E0%A4%B0%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B0_gcpvvg.mp4"
+									"https://res.cloudinary.com/qblm/video/upload/v1558422155/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/tmp/en_cp_%E0%A4%86%E0%A4%A7%E0%A5%81%E0%A4%A8%E0%A4%BF%E0%A4%95_%E0%A4%AA%E0%A4%B0%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B0_gcpvvg.mp4",
+									"https://res.cloudinary.com/qblm/video/upload/v1558426042/UAT_1d474995-7967-3b69-b571-2951c6b49ed8/en_cp_%E0%A4%86%E0%A4%A7%E0%A5%81%E0%A4%A8%E0%A4%BF%E0%A4%95_%E0%A4%AA%E0%A4%B0%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B0_gcpvvg.mp4"
 								],
 								"transformedPublicIds": [
 									"UAT_1d474995-7967-3b69-b571-2951c6b49ed8/आधुनिक_परिवार_gcpvvg",
 									"UAT_1d474995-7967-3b69-b571-2951c6b49ed8/en_cp__A___0_5_0_gcpvvg_ytotqr",
-									"UAT_1d474995-7967-3b69-b571-2951c6b49ed8/tmp/en_cp_आधुनिक_परिवार_gcpvvg"
+									"UAT_1d474995-7967-3b69-b571-2951c6b49ed8/tmp/en_cp_आधुनिक_परिवार_gcpvvg",
+									"UAT_1d474995-7967-3b69-b571-2951c6b49ed8/en_cp_आधुनिक_परिवार_gcpvvg"
 								],
 								"embed": {
 									"width": 480,
